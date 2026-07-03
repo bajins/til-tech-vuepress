@@ -138,6 +138,7 @@
 * [https://github.com/dtube](https://github.com/dtube)
 * [https://github.com/yggdrasil-network](https://github.com/yggdrasil-network)
 * [https://github.com/zulip/zulip](https://github.com/zulip/zulip)
+* [https://github.com/simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 * 视频通话 [https://github.com/miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me)
 
 
@@ -1417,6 +1418,7 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * [https://github.com/undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
 * [https://github.com/shion-app/shion](https://github.com/shion-app/shion)
 * [https://github.com/debugtheworldbot/keyStats](https://github.com/debugtheworldbot/keyStats)
+* 进程分析 [https://github.com/pranshuparmar/witr](https://github.com/pranshuparmar/witr)
 * 便签 [https://github.com/Blakeinstein/Bloop](https://github.com/Blakeinstein/Bloop)
 * 加强Capslock键 [https://github.com/wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus)
 * 快速查看 [https://github.com/QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
