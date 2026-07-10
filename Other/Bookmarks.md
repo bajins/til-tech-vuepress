@@ -120,6 +120,7 @@
 
 ## 音视频
 
+* [https://github.com/laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
 * [https://tools.liumingye.cn](https://tools.liumingye.cn)
 * 阿木影视 [https://www.aosk.online](https://www.aosk.online)
 * 电影推荐（分类别致） [http://www.mvcat.com](http://www.mvcat.com)

@@ -303,8 +303,6 @@ var express = require('express');
     * [https://esbuild.github.io/try](https://esbuild.github.io/try)
 * [https://github.com/babel/babel](https://github.com/babel/babel)
     * [https://babeljs.io/repl](https://babeljs.io/repl)
-* [https://github.com/oxc-project/oxc](https://github.com/oxc-project/oxc)
-    * [https://playground.oxc.rs](https://playground.oxc.rs)
 * [https://github.com/swc-project/swc-playground](https://github.com/swc-project/swc-playground)
     * [https://play.swc.rs](https://play.swc.rs)
     * [https://swc.rs/playground](https://swc.rs/playground)

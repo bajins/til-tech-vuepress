@@ -876,6 +876,7 @@
     * [https://personal.onlyoffice.com](https://personal.onlyoffice.com)
     * [https://github.com/cryptpad](https://github.com/cryptpad)
     * [https://github.com/ranuts/document](https://github.com/ranuts/document)
+    * [https://github.com/electroluxcode/onlyoffice-web-comp](https://github.com/electroluxcode/onlyoffice-web-comp)
 * [https://github.com/baotlake/office-website](https://github.com/baotlake/office-website)
 * [https://github.com/ether/etherpad-lite](https://github.com/ether/etherpad-lite)
 * [https://github.com/anytypeio](https://github.com/anytypeio)

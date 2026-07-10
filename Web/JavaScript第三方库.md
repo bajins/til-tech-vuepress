@@ -118,7 +118,6 @@
 * ESLint [ https://github.com/eslint]( https://github.com/eslint)
     * [https://github.com/eslint-stylistic](https://github.com/eslint-stylistic)
     * [https://github.com/eslint-community](https://github.com/eslint-community)
-* [https://github.com/oxc-project/oxc](https://github.com/oxc-project/oxc)
 * [https://github.com/biomejs/biome](https://github.com/biomejs/biome)
 * [https://github.com/humanwhocodes/config-array](https://github.com/humanwhocodes/config-array)
 * 测试 [https://github.com/jestjs](https://github.com/jestjs)

@@ -39,7 +39,7 @@
 * [https://github.com/Python-Markdown/markdown](https://github.com/Python-Markdown/markdown)
 * [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
 * [https://github.com/Awes0meM4n/Awes0meM4n.github.io](https://github.com/Awes0meM4n/Awes0meM4n.github.io)
-
+* LaTex [https://github.com/SakuraMathcraft/LaTeXSnipper](https://github.com/SakuraMathcraft/LaTeXSnipper)
 
 
 
