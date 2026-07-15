@@ -11,9 +11,12 @@
 
 
 * [https://github.com/postgres/postgres](https://github.com/postgres/postgres)
-    * [http://postgres.cn/docs/14/catalogs.html](http://postgres.cn/docs/14/catalogs.html)
-    * [连接字符串](https://www.postgresql.org/docs/current/libpq-connect.html#LIBPQ-CONNSTRING)
-    * [https://jdbc.postgresql.org](https://jdbc.postgresql.org)
+    * [https://www.postgresql.org/download](https://www.postgresql.org/download)
+        * [https://github.com/EnterpriseDB/edb-installers](https://github.com/EnterpriseDB/edb-installers)
+        * [https://www.enterprisedb.com/download-postgresql-binaries](https://www.enterprisedb.com/download-postgresql-binaries)
+    * [https://github.com/postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn)
+        * [http://www.postgres.cn/docs/current/index.html](http://www.postgres.cn/docs/current/index.html)
+* [https://github.com/malisper/pgrust](https://github.com/malisper/pgrust)
 * [https://github.com/postgrespro](https://github.com/postgrespro)
 * [https://github.com/pgsty/pigsty](https://github.com/pgsty/pigsty)
 * [https://github.com/citusdata](https://github.com/citusdata)

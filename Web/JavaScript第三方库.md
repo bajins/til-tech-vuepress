@@ -377,7 +377,9 @@
     * [https://github.com/darrachequesne/socket.io-sticky](https://github.com/darrachequesne/socket.io-sticky)
     * [https://github.com/indutny/sticky-session](https://github.com/indutny/sticky-session)
     * [https://github.com/wzrdtales/socket-io-sticky-session](https://github.com/wzrdtales/socket-io-sticky-session)
-* [https://github.com/sindresorhus/ky](https://github.com/sindresorhus/ky)
+* [https://github.com/stomp-js/stompjs](https://github.com/stomp-js/stompjs) STOMP即Simple (or Streaming) Text Orientated Messaging Protocol，简单(流)文本定向消息协议
+* [https://github.com/sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) 基于 HTTP 的双向通信通道
+* Fetch [https://github.com/sindresorhus/ky](https://github.com/sindresorhus/ky)
 
 
 - [https://github.com/wicg/file-system-access](https://github.com/wicg/file-system-access)

@@ -177,6 +177,7 @@
 
 * 码力全开（产品/设计师/独立开发者的资源库） [https://www.maliquankai.com/designnav](https://www.maliquankai.com/designnav)
 * 免费音频素材 [https://icons8.cn/music](https://icons8.cn/music)
+* [https://icons8.cn/lunacy](https://icons8.cn/lunacy)
 * 新CG儿（视频素材模板，无水印+免费下载） [https://www.newcger.com](https://www.newcger.com)
 * 开发人员设计资源 [https://github.com/bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [https://kingdee.design](https://kingdee.design)
