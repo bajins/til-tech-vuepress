@@ -301,10 +301,14 @@
 
 
 - 字体文件解析 [https://sourceforge.net/projects/fontbox](https://sourceforge.net/projects/fontbox)
-- 条码二维码 [https://github.com/zxing/zxing](https://github.com/zxing/zxing)
+- 条码二维码 [https://github.com/topics/barcode-scanner](https://github.com/topics/barcode-scanner)
+    - [https://github.com/topics/qr-code](https://github.com/topics/qr-code)
+- [https://github.com/zxing/zxing](https://github.com/zxing/zxing)
     - [Java 条形码生成](https://www.cnblogs.com/lixin-link/p/15359508.html)
     - [https://gitee.com/jenly1314/ZXingLite](https://gitee.com/jenly1314/ZXingLite)
+    - [https://github.com/zxing-cpp/zxing-cpp](https://github.com/zxing-cpp/zxing-cpp)
 - [https://sourceforge.net/projects/zbar](https://sourceforge.net/projects/zbar)
+    - [https://github.com/dmtx/libdmtx](https://github.com/dmtx/libdmtx)
     - [https://github.com/doblon8/jzbar](https://github.com/doblon8/jzbar)
     - [https://github.com/NaturalHistoryMuseum/pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar)
     - [https://github.com/Polyconseil/zbarlight](https://github.com/Polyconseil/zbarlight)

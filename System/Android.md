@@ -644,6 +644,7 @@
 * [https://github.com/CCExtractor/ultimate_alarm_clock](https://github.com/CCExtractor/ultimate_alarm_clock)
 * [https://github.com/vishal2376/snapticker](https://github.com/vishal2376/snapticker)
 * [https://github.com/you-apps/ClockYou](https://github.com/you-apps/ClockYou)
+* [https://github.com/BlackyHawky/Clock](https://github.com/BlackyHawky/Clock)
 * 设备管理 [https://codeberg.org/Freeyourgadget/Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge)
 * 笔记 [https://github.com/theachoem/storypad](https://github.com/theachoem/storypad)
 * 短信 [https://github.com/octoshrimpy/quik](https://github.com/octoshrimpy/quik)

@@ -62,6 +62,40 @@
 
 
 
+```powershell
+# 初始化 https://www.postgresql.org/docs/current/app-initdb.html
+E:\ide\postgresql-17.10-2\pgsql\bin\pg_ctl.exe initdb -D "E:/ide/postgresql-17.10-2/data" -o "-E UTF8  --locale=Chinese_China.936 -U postgres -W -k -c shared_buffers=512MB -c max_connections=100"
+
+# 启动
+E:\ide\postgresql-17.10-2\pgsql\bin\pg_ctl.exe start -o "-p 5432 -c listen_addresses=*" -D "E:/ide/postgresql-17.10-2/data" -l "E:/ide/postgresql-17.10-2/pg.log"
+
+# 创建用户
+E:\ide\postgresql-17.10-2\pgsql\bin\createuser.exe -U postgres -P -e -d xxx
+# 数据库
+E:\ide\postgresql-17.10-2\pgsql\bin\createdb.exe -U postgres -O xxx -e xxx
+# 创建用户和数据库
+E:\ide\postgresql-17.10-2\pgsql\bin\psql.exe -U postgres -c "CREATE USER xxx WITH PASSWORD '123456';" -c "CREATE DATABASE xxx OWNER xxx;" -c "GRANT ALL PRIVILEGES ON DATABASE xxx TO xxx;"
+
+# 备份 使用自定义格式 (-F c) 或目录格式 (-F d) https://www.postgresql.org/docs/current/app-pgdump.html
+E:\ide\postgresql-17.10-2\pgsql\bin\pg_dump.exe -h "192.168.1.172" -p 5432 -U "readonly" -d "test" -v -j 5 -F c -f backup.dump
+
+# 恢复到同名模式（Schema）下 https://www.postgresql.org/docs/current/app-pgrestore.html
+E:\ide\postgresql-17.10-2\pgsql\bin\pg_restore.exe -h "127.0.0.1" -p 5432 -U "xxx" -d "xxx" -v -j 5 --no-owner --no-privileges "E:\ide\postgresql-17.10-2\backup.dump"
+
+E:\ide\postgresql-17.10-2\pgsql\bin\psql.exe -U postgres -d xxx -c "
+-- 重命名刚刚恢复的模式（Schema）
+ALTER SCHEMA test RENAME TO xxx;
+-- 修改search_path（搜索路径），修改后要断开连接，然后重新登录才会生效
+SET search_path = xxx, public;
+-- 让 postgres 用户永久使用新路径
+ALTER USER postgres SET search_path TO xxx, public;
+-- 让数据库的所有用户默认使用新路径
+ALTER DATABASE xxx SET search_path TO xxx, public;
+"
+```
+
+
+
 ```sql
 -- 插入或更新 upsert
 INSERT INTO table_name(column_list) 

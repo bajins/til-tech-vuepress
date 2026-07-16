@@ -575,7 +575,6 @@ string &operator+(const string& A,const string& B) //cpp
     const pvd = document.querySelector("#preview > div");
     pvd.style.paddingBottom="50px";
     ```
-* [https://github.com/siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
 * [https://github.com/Rabithua/Rote](https://github.com/Rabithua/Rote)
 
 
