@@ -33,7 +33,7 @@ jobs:
           # export NODE_OPTIONS=--openssl-legacy-provider
 
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           # Whether to checkout submodules: `true` to checkout submodules or `recursive` to
           # recursively checkout submodules.
@@ -46,7 +46,7 @@ jobs:
 
       # https://github.com/Borales/actions-yarn
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 'latest'
 
@@ -79,13 +79,13 @@ jobs:
         # env:
 
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           # /home/runner/work/notes-vuepress/notes-vuepress
           path: ''
 
       - name: Checkout notes-docsify repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: bajins/notes-docsify
           # /home/runner/work/notes-vuepress/notes-vuepress/notes-docsify
