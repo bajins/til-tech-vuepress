@@ -130,6 +130,20 @@
 ![](/images/js浏览器缓存.png)
 
 </details>
+* 开发工具集 [https://github.com/thhamiltonsmith/webdevhub](https://github.com/thhamiltonsmith/webdevhub)
+* 性能优化 [https://github.com/davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+* 网站统计 [https://github.com/arp242/goatcounter](https://github.com/arp242/goatcounter)
+* 网页存档 [https://github.com/y2z/monolith](https://github.com/y2z/monolith)
+* H5制作平台 [https://github.com/ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen)
+* 前端资源 [https://github.com/moklick/frontend-stuff](https://github.com/moklick/frontend-stuff)
+* 浏览器基准 [https://browserbench.org/Speedometer3.0](https://browserbench.org/Speedometer3.0)
+* 交互优化 [https://mp.weixin.qq.com/s/GtGQqDvDzU6A-qtwNPKWqQ](https://mp.weixin.qq.com/s/GtGQqDvDzU6A-qtwNPKWqQ)
+* CAD查看器 [https://github.com/mlightcad/cad-viewer](https://github.com/mlightcad/cad-viewer)
+* 设计文档 [https://github.com/VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+* 前端设计 [https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+* 文件快传 [https://github.com/shouchenicu/fastsend](https://github.com/shouchenicu/fastsend)
+* 局域网传文件 [https://github.com/schlagmichdoch/pairdrop](https://github.com/schlagmichdoch/pairdrop)
+* 知乎阅读 [https://github.com/frostming/fxzhihu](https://github.com/frostming/fxzhihu)
 
 
 
@@ -204,6 +218,22 @@
 * [https://github.com/tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)
 * [https://github.com/toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 * 网页加密 [https://github.com/wangshengithub/staticshield](https://github.com/wangshengithub/staticshield)
+* Notion建站 [https://github.com/tangly1024/notionnext](https://github.com/tangly1024/notionnext)
+* Hexo插件 [https://github.com/jerryc127/butterfly-plugins](https://github.com/jerryc127/butterfly-plugins)
+* 站点生成 [https://github.com/donuts-are-good/bearclaw](https://github.com/donuts-are-good/bearclaw)
+* 博客系统 [https://github.com/mereithhh/van-blog](https://github.com/mereithhh/van-blog)
+* 文档管理 [https://github.com/huangwei9527/ink-wash-docs](https://github.com/huangwei9527/ink-wash-docs)
+* 协作文档 [https://github.com/hackmdio/codimd](https://github.com/hackmdio/codimd)
+* 静态站点 [https://github.com/getzola/zola](https://github.com/getzola/zola)
+* 静态服务器 [https://github.com/volution/kawipiko](https://github.com/volution/kawipiko)
+* 建站工具 [https://github.com/halo-dev/halo](https://github.com/halo-dev/halo)
+* 静态博客 [https://github.com/craigary/nobelium](https://github.com/craigary/nobelium)
+* 写作平台 [https://github.com/writefreely/writefreely](https://github.com/writefreely/writefreely)
+* Web开发 [https://web.developers.google.cn](https://web.developers.google.cn)
+* 前端博客 [https://www.zhangxinxu.com/wordpress](https://www.zhangxinxu.com/wordpress)
+* 博客框架 [https://github.com/meekdai/gmeek](https://github.com/meekdai/gmeek)
+* 博客系统 [https://github.com/dotnet9/dotnet9](https://github.com/dotnet9/dotnet9)
+* 语雀知识库 [https://github.com/yuque](https://github.com/yuque)
 
 
 
@@ -241,6 +271,19 @@
 - [https://github.com/MaxxtonGroup/microdocs](https://github.com/MaxxtonGroup/microdocs)
 - [https://github.com/openkm/document-management-system](https://github.com/openkm/document-management-system)
     - [https://sourceforge.net/projects/openkm](https://sourceforge.net/projects/openkm)
+- 汉化插件 [https://github.com/hlmd/postman-cn](https://github.com/hlmd/postman-cn)
+- 接口测试 [https://github.com/postcatlab/postcat](https://github.com/postcatlab/postcat)
+- API编辑器 [https://github.com/swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)
+- API文档 [https://mermade.github.io/openapi-gui](https://mermade.github.io/openapi-gui)
+- API客户端 [https://github.com/eolinker/eoapi](https://github.com/eolinker/eoapi)
+- API生成 [https://github.com/openapitools/openapi-generator](https://github.com/openapitools/openapi-generator)
+- API客户端 [https://github.com/rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
+- REST客户端 [https://github.com/huachao/vscode-restclient](https://github.com/huachao/vscode-restclient)
+- API客户端 [https://github.com/kong/insomnia](https://github.com/kong/insomnia)
+- HTTP客户端 [https://github.com/fabiobento512/frequest](https://github.com/fabiobento512/frequest)
+- API文档工具 [https://github.com/go-swagger](https://github.com/go-swagger)
+- API文档工具 [https://github.com/domaindrivendev](https://github.com/domaindrivendev)
+- API管理平台 [https://github.com/gravitee-io](https://github.com/gravitee-io)
 
 
 
@@ -249,6 +292,8 @@
 * [注册一个新的 OAuth Application](https://github.com/settings/applications/new)
 * 问卷调查 [https://www.typeform.com](https://www.typeform.com)
 * [https://www.drift.com](https://www.drift.com)
+* 问答平台 [https://github.com/answerdev/answer](https://github.com/answerdev/answer)
+* 讨论论坛 [https://github.com/net4people/bbs](https://github.com/net4people/bbs)
 
 
 
@@ -298,6 +343,10 @@
 + [https://github.com/patarapolw/aloud](https://github.com/patarapolw/aloud)
 + [https://github.com/umputun/remark42](https://github.com/umputun/remark42)
 + [https://github.com/pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments)
++ 评论组件 [https://github.com/tryghost/comments-ui](https://github.com/tryghost/comments-ui)
++ 评论组件 [https://github.com/gitalk/gitalk](https://github.com/gitalk/gitalk)
++ 评论系统 [https://github.com/artalkjs/artalk](https://github.com/artalkjs/artalk)
++ 评论系统 [https://github.com/meathill/awesome-comment](https://github.com/meathill/awesome-comment)
 
 
 
@@ -307,6 +356,11 @@
 * [https://github.com/discourse/discourse](https://github.com/discourse/discourse)
 * [https://gitter.im](https://gitter.im)
 * [https://github.com/ReplCustoms/ReplCustoms](https://github.com/ReplCustoms/ReplCustoms)
+* 社区搜索 [https://github.com/linen-dev/linen.dev](https://github.com/linen-dev/linen.dev)
+* 社区平台 [https://github.com/rocboss/paopao-ce](https://github.com/rocboss/paopao-ce)
+* 链接聚合社区 [https://github.com/epilys/sic](https://github.com/epilys/sic)
+* 即时聊天 [https://github.com/yinxin630/fiora](https://github.com/yinxin630/fiora)
+* 交流社区 [https://www.zhuoju.top](https://www.zhuoju.top)
 
 
 
@@ -382,6 +436,7 @@ www.gravatar.com/avatar         fdn.geekzu.org/avatar
 [0-2].gravatar.com/avatar       fdn.geekzu.org/avatar
 cdnjs.cloudflare.com            cdnjs.loli.net
 ```
+* CDN加速 [https://www.7ed.net/#/raw-cdn](https://www.7ed.net/#/raw-cdn)
 
 
 
@@ -476,6 +531,7 @@ document.getElementsByTagName("a");// 返回文档中指定标签的元素
 
 
 ## 跨域/跨源
+* CORS中间件 [https://github.com/rs/cors](https://github.com/rs/cors)
 
 **浏览器的同源策略**
 

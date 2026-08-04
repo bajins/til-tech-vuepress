@@ -16,6 +16,15 @@
 
 - [Linux常用命令汇总](https://blog.csdn.net/Mculover666/article/details/84558280)
 - [Linux下Shell脚本字符串单引号、双引号、反引号、反斜杠的作用和区别](https://www.cnblogs.com/EasonJim/p/8018545.html)
+- 补全生成器 [https://github.com/adaszko/complgen](https://github.com/adaszko/complgen)
+- Emacs shell [https://www.masteringemacs.org/article/complete-guide-mastering-eshell](https://www.masteringemacs.org/article/complete-guide-mastering-eshell)
+- CLI工具 [https://icyleaf.github.io/better-cli-solution](https://icyleaf.github.io/better-cli-solution)
+- Ping工具 [https://github.com/sheepla/pingu](https://github.com/sheepla/pingu)
+- 命令大全 [https://github.com/trinib/linux-bash-commands](https://github.com/trinib/linux-bash-commands)
+- 文件锁 [https://github.com/discoteq/flock](https://github.com/discoteq/flock)
+- Shell命令 [https://plantegg.github.io/2017/01/01/top_linux_commands](https://plantegg.github.io/2017/01/01/top_linux_commands)
+- awk学习 [https://vim0.com/post/awk](https://vim0.com/post/awk)
+- bash命令 [https://github.com/onceupon/bash-oneliner](https://github.com/onceupon/bash-oneliner)
 
 
 
@@ -139,6 +148,8 @@ ls -l | egrep "postfix|dovecot"
 # 或者
 ls -l | awk "/postfix|dovecot/"
 ```
+* 去重工具 [https://github.com/zer0yu/anew](https://github.com/zer0yu/anew)
+* 彩色高亮 [https://github.com/alexcb/colorgrep](https://github.com/alexcb/colorgrep)
 
 
 ## 定时任务
@@ -158,6 +169,7 @@ crontab -e
 ```
 
 > 在linux中执行shell脚本可以用相对路径找到文件,但是如果通过计划任务`crontab`执行shell脚本时，却不能通过相对路径找到文件!
+* cron生成 [https://crontab-generator.org](https://crontab-generator.org)
 
 
 ## 进制转换
@@ -181,6 +193,8 @@ ls -l /proc/PID
 
 ps -A | grep "nginx" | awk '{print "/proc/"$1"/exe"}' | xargs ls -l
 ```
+* 端口进程管理 [https://github.com/savannahostrowski/gruyere](https://github.com/savannahostrowski/gruyere)
+* 进程输出 [https://github.com/rapiz1/catp](https://github.com/rapiz1/catp)
 
 
 **查看系统进程和线程限制**
@@ -352,6 +366,7 @@ find . | xargs grep -ril 'content'
 find -maxdepth 1 -printf '%P\n'
 find -maxdepth 1 | cut -c3-
 ```
+* 磁盘分析 [https://github.com/konosubakonoakua/ncdu-zig](https://github.com/konosubakonoakua/ncdu-zig)
 
 ## 列出目录
 
@@ -365,6 +380,11 @@ ls -ad */
 # 输出树形结构
 find . -print | sed -e 's/[^\/]*\//│  /g; s/│  \([^│]\)/├── \1/; s/│  $/└── /'
 ```
+* 目录导航 [https://github.com/antonmedv/walk](https://github.com/antonmedv/walk)
+* 现代ls命令 [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
+* 终端浏览 [https://github.com/mgunyho/tere](https://github.com/mgunyho/tere)
+* 目录树工具 [https://github.com/bgreenwell/lstr](https://github.com/bgreenwell/lstr)
+* 文件系统 [https://github.com/canop/dysk](https://github.com/canop/dysk)
 
 
 
@@ -421,6 +441,11 @@ grep 'XXX' text1.txt text2.txt
 # 在以t开头的文件中查找并出含字符串的行
 grep 'XXX' t*
 ```
+* 日志搜索 [https://github.com/vito-go/fsearch](https://github.com/vito-go/fsearch)
+* 文件查找 [https://github.com/raforg/rawhide](https://github.com/raforg/rawhide)
+* grep指南 [https://antonz.org/grep-by-example](https://antonz.org/grep-by-example)
+* 文本搜索 [https://github.com/davidesantangelo/krep](https://github.com/davidesantangelo/krep)
+* 全文搜索 [https://github.com/phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)
 
 
 
@@ -570,6 +595,7 @@ chmod -R 777 文件名
 ```bash
 chown:用户名 文件名
 ```
+* 权限提升 [https://github.com/memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs)
 
 
 

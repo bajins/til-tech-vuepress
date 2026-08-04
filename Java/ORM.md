@@ -56,6 +56,14 @@
     - [https://github.com/apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob)
 - 数据库动态监控 [https://github.com/p6spy/p6spy](https://github.com/p6spy/p6spy)
 - [https://github.com/jdbc-observations](https://github.com/jdbc-observations)
+- 数据映射 [https://github.com/grails/grails-data-mapping](https://github.com/grails/grails-data-mapping)
+- ORM框架 [https://github.com/cyq1162/cyqdata](https://github.com/cyq1162/cyqdata)
+- 数据对象 [https://github.com/apache/db-jdo](https://github.com/apache/db-jdo)
+- ORM框架 [https://github.com/taisandog/buffalobro](https://github.com/taisandog/buffalobro)
+- Mybatis [https://segmentfault.com/a/1190000043614922](https://segmentfault.com/a/1190000043614922)
+- ORM库 [https://github.com/sproket/persism](https://github.com/sproket/persism)
+- ORM工具 [https://github.com/hs-web/hsweb-easy-orm](https://github.com/hs-web/hsweb-easy-orm)
+- ORM工具 [https://gitee.com/xiandafu/beetlsql](https://gitee.com/xiandafu/beetlsql)
 
 
 
@@ -80,6 +88,7 @@
 * [https://github.com/liweihua274/druid-sqlparser](https://github.com/liweihua274/druid-sqlparser)
     * [https://github.com/alibaba/druid/wiki/SQL-Parser](https://github.com/alibaba/druid/wiki/SQL-Parser)
     * [Java工具篇之Druid SQL语法解析树](https://developer.aliyun.com/article/1000273)
+* SQL解析 [https://github.com/jsqlparser/jsqlparser](https://github.com/jsqlparser/jsqlparser)
 
 
 
@@ -246,6 +255,7 @@
 * [Mybatis 源码分析 (一) Mapper扫描及代理](https://cofcool.github.io/tech/2018/06/20/mybatis-sourcecode-1)
 * [一条sql查出树形结构数据](https://my.oschina.net/u/2326864/blog/1622990)
 * [Sql中对于树形结构的处理](https://blog.csdn.net/weixin_43794897/article/details/88534992)
+* Mybatis源码 [https://segmentfault.com/a/1190000042093418](https://segmentfault.com/a/1190000042093418)
 
 
 **trim标签**

@@ -24,6 +24,14 @@
 - GUI [什么是X11-Forwarding](https://blog.csdn.net/weixin_41668084/article/details/113361765)
 - 命令行基准测试工具 [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
     - [https://github.com/chinanf-boy/hyperfine-zh](https://github.com/chinanf-boy/hyperfine-zh)
+- 脚本框架 [https://github.com/oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+- 终端模拟 [https://github.com/exg/rxvt-unicode](https://github.com/exg/rxvt-unicode)
+- AWK教程 [https://github.com/wuzhouhui/awk](https://github.com/wuzhouhui/awk)
+- Shell [https://github.com/tomhrr/cosh](https://github.com/tomhrr/cosh)
+- Shell书籍 [https://billie66.github.io/TLCL/book](https://billie66.github.io/TLCL/book)
+- 终端模拟器 [https://github.com/eugeny/tabby](https://github.com/eugeny/tabby)
+- 终端配置 [https://github.com/zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)
+- 数据查看 [https://github.com/shshemi/tabiew](https://github.com/shshemi/tabiew)
 
 
 
@@ -156,6 +164,42 @@
 
 
 * 快捷脚本 [https://github.com/hvhghv/se-script](https://github.com/hvhghv/se-script)
+* 正则搜索 [https://github.com/burntsushi/ripgrep](https://github.com/burntsushi/ripgrep)
+* 终端主题 [https://github.com/jandedobbeleer/oh-my-posh](https://github.com/jandedobbeleer/oh-my-posh)
+* 十六进制 [https://github.com/sharkdp/hexyl](https://github.com/sharkdp/hexyl)
+* JSON查看器 [https://github.com/antonmedv/fx](https://github.com/antonmedv/fx)
+* 任务运行器 [https://github.com/go-task/task](https://github.com/go-task/task)
+* AI命令行 [https://github.com/0ut0flin3/reptyl](https://github.com/0ut0flin3/reptyl)
+* 插件管理 [https://github.com/jorgebucaran/fisher](https://github.com/jorgebucaran/fisher)
+* 环境管理 [https://github.com/ivaquero/oxidizer.sh](https://github.com/ivaquero/oxidizer.sh)
+* 命令词典 [https://github.com/rican7/define](https://github.com/rican7/define)
+* 终端分页 [https://github.com/noborus/ov](https://github.com/noborus/ov)
+* CIDR工具 [https://github.com/bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
+* 日志压缩 [https://github.com/y-scope/clp](https://github.com/y-scope/clp)
+* 脚本工具 [https://github.com/charmbracelet/gum](https://github.com/charmbracelet/gum)
+* 片段管理 [https://github.com/srijanshetty/snips](https://github.com/srijanshetty/snips)
+* 日志查看 [https://github.com/tstack/lnav](https://github.com/tstack/lnav)
+* 终端画图 [https://github.com/red-data-tools/youplot](https://github.com/red-data-tools/youplot)
+* JSON转换 [https://github.com/sibprogrammer/xq](https://github.com/sibprogrammer/xq)
+* 命令行提示 [https://github.com/b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell)
+* JSON查看 [https://github.com/pauljuliusmartinez/jless](https://github.com/pauljuliusmartinez/jless)
+* 代码片段 [https://github.com/maaslalani/nap](https://github.com/maaslalani/nap)
+* HTTP工具 [https://github.com/knid/httpy](https://github.com/knid/httpy)
+* 命令片段 [https://github.com/knqyf263/pet](https://github.com/knqyf263/pet)
+* 命令历史 [https://github.com/ellie/atuin](https://github.com/ellie/atuin)
+* GIF生成 [https://github.com/asciinema/agg](https://github.com/asciinema/agg)
+* 命令监控 [https://github.com/sachaos/viddy](https://github.com/sachaos/viddy)
+* 命令速查 [https://github.com/chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+* REST工具 [https://github.com/danielgtaylor/restish](https://github.com/danielgtaylor/restish)
+* 终端仪表盘 [https://github.com/VincenzoManto/datacmd](https://github.com/VincenzoManto/datacmd)
+* 终端运行GUI [https://github.com/mmulet/term.everything](https://github.com/mmulet/term.everything)
+* 目录导航工具 [https://github.com/Canop/broot](https://github.com/Canop/broot)
+* 运行手册 [https://github.com/atuinsh/desktop](https://github.com/atuinsh/desktop)
+* 终端文件查看 [https://github.com/SecretDeveloper/lsv](https://github.com/SecretDeveloper/lsv)
+* 云原生终端 [https://github.com/Leask/Tabminal](https://github.com/Leask/Tabminal)
+* 沙箱Shell [https://github.com/xicilion/boxsh](https://github.com/xicilion/boxsh)
+* 命令解释 [https://www.explainshell.com](https://www.explainshell.com)
+* AI转命令 [https://github.com/builderio/ai-shell](https://github.com/builderio/ai-shell)
 
 
 **`terminal`、`shell`、`tty`、`console` 之间的区别**
@@ -174,6 +218,7 @@
 
 
 > 终端（Terminal）是控制台（Console）设备内的软件程序。shell是终端向用户发送输入的程序。shell生成输出并将其传回终端进行显示。
+* 终端模拟器 [https://github.com/contour-terminal](https://github.com/contour-terminal)
 
 
 
@@ -201,6 +246,7 @@
 
 
 **推荐所有shell脚本都使用sh实现，[Windows可安装Git（集成MinGW-w64）、MinGW-w64、MSYS2、Cygwin](/Shell/ShellWindows.md)**
+* Shell教程 [https://github.com/wzb56/13_questions_of_shell](https://github.com/wzb56/13_questions_of_shell)
 **Windows10下推荐使用WSL**
 
 
@@ -289,6 +335,10 @@
 * [https://github.com/mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal)
 * SSH密钥管理 [https://github.com/baerwang/ssh-atch](https://github.com/baerwang/ssh-atch)
 * iOS [https://github.com/blinksh/blink](https://github.com/blinksh/blink)
+* 网页SSH [https://github.com/nirui/sshwifty](https://github.com/nirui/sshwifty)
+* SSH客户端 [https://51.ruyo.net/test/MobaXterm-Pro-License.html](https://51.ruyo.net/test/MobaXterm-Pro-License.html)
+* SSH教程 [https://github.com/wangdoc/ssh-tutorial](https://github.com/wangdoc/ssh-tutorial)
+* SSH管理 [https://github.com/Gu1llaum-3/sshm](https://github.com/Gu1llaum-3/sshm)
 
 
 
@@ -307,6 +357,7 @@
 
 * [https://github.com/janmojzis/tinyssh](https://github.com/janmojzis/tinyssh)
 * [https://github.com/mkj/dropbear](https://github.com/mkj/dropbear)
+* SSH密钥 [https://github.com/maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
 
 
 **WEB**
@@ -320,6 +371,8 @@
 * [https://github.com/tsl0922/ttyd](https://github.com/tsl0922/ttyd)
 * [https://github.com/zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal)
 * 实时协作 [https://github.com/ekzhang/sshx](https://github.com/ekzhang/sshx)
+* awk服务器 [https://github.com/crossbowerbt/awk-webserver](https://github.com/crossbowerbt/awk-webserver)
+* 终端Web化 [https://github.com/yudai/gotty](https://github.com/yudai/gotty)
 
 
 **Android**

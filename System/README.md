@@ -40,6 +40,20 @@
 * [有人说超威半导体（AMD）没有512位高级矢量扩展指令集（AVX512），属于残废，是真的吗？](https://www.zhihu.com/question/367281009)
 * [如何看待Linus Torvalds对AVX512的评价？](https://www.zhihu.com/question/406517759)
 * [如何为智能手机快速充电：快速充电技术详解](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
+* Mac配置指南 [https://github.com/zer0yu/mac-initialize](https://github.com/zer0yu/mac-initialize)
+* NAS应用 [https://tmnascommunity.eu](https://tmnascommunity.eu)
+* 分布式文件 [https://www.openafs.org](https://www.openafs.org)
+* 游戏模拟器 [https://github.com/OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)
+* 文件分享 [https://github.com/vastsa/filecodebox](https://github.com/vastsa/filecodebox)
+* 网络检测 [https://github.com/xykt/netquality](https://github.com/xykt/netquality)
+* 文件传输 [https://github.com/kyantech/palmr](https://github.com/kyantech/palmr)
+* 数据中心搬迁 [https://mp.weixin.qq.com/s/Oi0Xj85qYVPhaoeIZh2kew](https://mp.weixin.qq.com/s/Oi0Xj85qYVPhaoeIZh2kew)
+* 操作系统课 [https://oscourse.org](https://oscourse.org)
+* 图解网络 [https://xiaolincoding.com](https://xiaolincoding.com)
+* 计算机系统 [https://nju-projectn.github.io/ics-pa-gitbook/ics2024](https://nju-projectn.github.io/ics-pa-gitbook/ics2024)
+* 操作系统探索 [https://mohitmishra786.github.io/exploring-os/src](https://mohitmishra786.github.io/exploring-os/src)
+* 显示器管理 [https://github.com/waydabber/betterdisplay](https://github.com/waydabber/betterdisplay)
+* 显示器控制 [https://github.com/MonitorControl](https://github.com/MonitorControl)
 
 
 
@@ -61,6 +75,7 @@
 
 * 克隆部署 [https://github.com/canonical/cloud-init](https://github.com/canonical/cloud-init)
 * BIOS [https://github.com/coreboot](https://github.com/coreboot)
+* USB启动盘 [https://github.com/fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive)
 
 
 
@@ -175,6 +190,36 @@
 - NAS [https://github.com/truenas](https://github.com/truenas)
 - [https://github.com/zvaultio](https://github.com/zvaultio)
 - 智能手表 [https://github.com/AsteroidOS](https://github.com/AsteroidOS)
+- 实时系统 [https://github.com/apache/nuttx](https://github.com/apache/nuttx)
+- 简易OS [https://github.com/casterwx/antzos](https://github.com/casterwx/antzos)
+- 实验系统 [https://github.com/ruddle/fomos](https://github.com/ruddle/fomos)
+- 微型内核 [https://github.com/vvaltchev/tilck](https://github.com/vvaltchev/tilck)
+- 路由器固件 [https://github.com/kiddin9/openwrt_x86-r2s-r4s-r5s-n1](https://github.com/kiddin9/openwrt_x86-r2s-r4s-r5s-n1)
+- 操作系统 [https://github.com/davidgiven/cpm65](https://github.com/davidgiven/cpm65)
+- OS教程 [https://github.com/hemashushu/practice-toy-os-riscv-rust](https://github.com/hemashushu/practice-toy-os-riscv-rust)
+- 分布式OS [https://github.com/inferno-os/inferno-os](https://github.com/inferno-os/inferno-os)
+- 实验OS [https://github.com/theseus-os/theseus](https://github.com/theseus-os/theseus)
+- 发行版 [https://github.com/fsquillace/junest](https://github.com/fsquillace/junest)
+- 开源OS [https://github.com/illumos/illumos-gate](https://github.com/illumos/illumos-gate)
+- IoT操作系统 [https://gitee.com/cmcc-oneos/OneOS](https://gitee.com/cmcc-oneos/OneOS)
+- 鸿蒙系统 [https://weharmony.github.io](https://weharmony.github.io)
+- 容器OS [https://github.com/bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
+- 操作系统 [https://github.com/lemonosproject/lemonos](https://github.com/lemonosproject/lemonos)
+- XV6系统 [https://hehao98.github.io/posts/2019/03/xv6-1](https://hehao98.github.io/posts/2019/03/xv6-1)
+- 操作系统 [https://github.com/mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv)
+- 网络协议栈 [https://github.com/pandax381/xv6-riscv-net](https://github.com/pandax381/xv6-riscv-net)
+- rCore OS [https://rcore-os.github.io](https://rcore-os.github.io)
+- FreeBSD [https://book.bsdcn.org](https://book.bsdcn.org)
+- 操作系统 [https://github.com/asterinas/asterinas](https://github.com/asterinas/asterinas)
+- 操作系统 [https://github.com/stevenbaby/onix](https://github.com/stevenbaby/onix)
+- FreeBSD教程 [https://github.com/freebsd-ask/freebsd-ask](https://github.com/freebsd-ask/freebsd-ask)
+- 操作系统内核 [https://github.com/croakexciting/forfun-os](https://github.com/croakexciting/forfun-os)
+- Symbian工具 [https://github.com/symbiansource](https://github.com/symbiansource)
+- Linux发行版 [https://github.com/almalinux](https://github.com/almalinux)
+- Nix系统 [https://github.com/nixos](https://github.com/nixos)
+- 发行版软件包 [https://github.com/openela-main](https://github.com/openela-main)
+- 开源操作系统 [https://github.com/open-vela](https://github.com/open-vela)
+- 嵌入式操作系统 [https://github.com/vivoblueos](https://github.com/vivoblueos)
 
 
 
@@ -227,6 +272,18 @@
 - [https://github.com/kestra-io/kestra](https://github.com/kestra-io/kestra)
 - IOT虚拟机 [https://github.com/projectacrn](https://github.com/projectacrn)
 - mac上的虚拟机 [https://www.parallels.com](https://www.parallels.com)
+- 虚拟机 [https://github.com/utmapp/utm](https://github.com/utmapp/utm)
+- x86虚拟机 [https://github.com/jart/blink](https://github.com/jart/blink)
+- Mac虚拟机 [https://github.com/beringresearch/macpine](https://github.com/beringresearch/macpine)
+- 系统模拟器 [https://github.com/felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js)
+- macOS兼容层 [https://github.com/darlinghq/darling](https://github.com/darlinghq/darling)
+- 游戏模拟器 [https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
+- 游戏模拟器 [https://github.com/jawline/mimic](https://github.com/jawline/mimic)
+- 虚拟机下载 [https://www.proxmox.com/downloads](https://www.proxmox.com/downloads)
+- 运行Win应用 [https://github.com/Fmstrat/winapps](https://github.com/Fmstrat/winapps)
+- 云操作系统 [https://github.com/heyputer/puter](https://github.com/heyputer/puter)
+- 网页桌面 [https://github.com/tobychui/arozos](https://github.com/tobychui/arozos)
+- 云平台 [https://github.com/opennebula](https://github.com/opennebula)
 
 
 
@@ -558,6 +615,38 @@
     - [https://bigbully.github.io/Dapper-translation](https://bigbully.github.io/Dapper-translation)
 - [https://github.com/jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
 - GitHubActions监控服务 [https://github.com/WCY-dt/ponghub](https://github.com/WCY-dt/ponghub)
+- 库存管理 [https://github.com/inventree/inventree](https://github.com/inventree/inventree)
+- 流程自动化 [https://github.com/automatisch/automatisch](https://github.com/automatisch/automatisch)
+- 即时通讯 [https://github.com/tinode/chat](https://github.com/tinode/chat)
+- 远程唤醒 [https://github.com/seriousm4x/upsnap](https://github.com/seriousm4x/upsnap)
+- 后端开发平台 [https://github.com/appwrite/appwrite](https://github.com/appwrite/appwrite)
+- 服务器面板 [https://github.com/1panel-dev/1panel](https://github.com/1panel-dev/1panel)
+- 运维平台 [https://github.com/alibaba/sreworks](https://github.com/alibaba/sreworks)
+- 可观测平台 [https://github.com/vectordotdev/vector](https://github.com/vectordotdev/vector)
+- 服务器系统 [https://github.com/yunohost/doc](https://github.com/yunohost/doc)
+- 服务器管理 [https://github.com/cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
+- 音视频服务 [https://github.com/starrtc/starrtc-server](https://github.com/starrtc/starrtc-server)
+- 视频平台 [https://github.com/chocobozzz/peertube](https://github.com/chocobozzz/peertube)
+- Web服务器 [https://github.com/robdelacruz/lkwebserver](https://github.com/robdelacruz/lkwebserver)
+- 媒体管理 [https://github.com/stashapp/stash](https://github.com/stashapp/stash)
+- 聊天服务器 [https://github.com/matrix-org/synapse](https://github.com/matrix-org/synapse)
+- 自建CDN [https://www.funcdn.com](https://www.funcdn.com)
+- DNS部署 [https://www.cnblogs.com/Star-Haitian/articles/8298222.html](https://www.cnblogs.com/Star-Haitian/articles/8298222.html)
+- 云平台 [https://github.com/zstackio/zstack](https://github.com/zstackio/zstack)
+- 运维面板 [https://github.com/thetnb/panel](https://github.com/thetnb/panel)
+- 服务器面板 [https://www.cloudpanel.io/docs/v2/getting-started/other](https://www.cloudpanel.io/docs/v2/getting-started/other)
+- 时间追踪 [https://github.com/DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker)
+- 应用仪表盘 [https://github.com/gethomepage/homepage](https://github.com/gethomepage/homepage)
+- 右键菜单 [https://github.com/jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master)
+- IP信息查询 [https://github.com/soulteary/ip-helper](https://github.com/soulteary/ip-helper)
+- 服务器监控 [https://github.com/bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate)
+- 软件管理 [https://github.com/milanvarady/applite](https://github.com/milanvarady/applite)
+- 云媒体 [https://github.com/fivif/zay-cloud](https://github.com/fivif/zay-cloud)
+- 文件管理 [https://github.com/devld/go-drive](https://github.com/devld/go-drive)
+- 网络诊断 [https://github.com/sn4k3/NetSonar](https://github.com/sn4k3/NetSonar)
+- 视频流媒体 [https://github.com/ant-media](https://github.com/ant-media)
+- DNS服务器 [https://github.com/powerdns](https://github.com/powerdns)
+- 系统监控工具 [https://github.com/rapidloop](https://github.com/rapidloop)
 
 
 
@@ -625,6 +714,7 @@
 * [https://github.com/outroll/vesta](https://github.com/outroll/vesta)
 * [https://www.ispconfig.org](https://www.ispconfig.org)
 * [https://github.com/Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
+* 运维监控 [https://github.com/tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud)
 
 
 
@@ -874,6 +964,7 @@
 * 批量重命名文件 [https://github.com/chenz24/rename.tools](https://github.com/chenz24/rename.tools)
 * 字幕字体管理 [https://github.com/Yuri-NagaSaki/FontInAss](https://github.com/Yuri-NagaSaki/FontInAss)
 * 解密流程 [https://github.com/marlkiller/flowforge-crypto](https://github.com/marlkiller/flowforge-crypto)
+* 远程桌面 [https://github.com/cea-sec/sanzu](https://github.com/cea-sec/sanzu)
 
 
 
@@ -941,6 +1032,8 @@
 * [https://github.com/xiangechen/chili3d](https://github.com/xiangechen/chili3d)
 * 屏幕刷新率区别 [https://github.com/MaskerPRC/refresh-rate-expericence](https://github.com/MaskerPRC/refresh-rate-expericence)
 * 比较编程语言 [https://github.com/erweixin/langshift.dev](https://github.com/erweixin/langshift.dev)
+* 屏幕共享 [https://github.com/screego/server](https://github.com/screego/server)
+* 项目管理 [https://github.com/Leantime/leantime](https://github.com/Leantime/leantime)
 
 
 

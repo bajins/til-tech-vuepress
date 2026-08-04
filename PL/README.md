@@ -4,6 +4,7 @@
 
 
 ## Flag
+* 软件验证 [https://xiongyingfei.github.io/SF/2022/lectures](https://xiongyingfei.github.io/SF/2022/lectures)
 
 **千万不要尝试用记忆力去替代自己的理解力！**
 > 代码不是靠死记硬背，而是不停的写、不停的思考，在反复的练习中熟练掌握的。
@@ -163,6 +164,23 @@
 - [https://github.com/need-to-know](https://github.com/need-to-know)
 - [https://github.com/DevotionZhu](https://github.com/DevotionZhu)
 - [https://github.com/huihoo](https://github.com/huihoo)
+- 个人开发者 [https://github.com/jamietanna](https://github.com/jamietanna)
+- 个人开发者 [https://github.com/lemonhx](https://github.com/lemonhx)
+- 个人开发者 [https://github.com/mbvisti](https://github.com/mbvisti)
+- 个人开发者 [https://github.com/zegl](https://github.com/zegl)
+- 个人开发者 [https://github.com/themisir](https://github.com/themisir)
+- Rust开发者 [https://github.com/federico-terzi](https://github.com/federico-terzi)
+- 数据格式库 [https://github.com/jorgecarleitao](https://github.com/jorgecarleitao)
+- 性能分析 [https://github.com/polarsignals](https://github.com/polarsignals)
+- 开发工具 [https://github.com/closeio](https://github.com/closeio)
+- 杂项开源 [https://github.com/trholding](https://github.com/trholding)
+- 游戏引擎开发 [https://github.com/eduard-permyakov](https://github.com/eduard-permyakov)
+- 文件去重工具 [https://github.com/adrianlopezroche](https://github.com/adrianlopezroche)
+- 图形标准 [https://github.com/khronosgroup](https://github.com/khronosgroup)
+- Ruby开发 [https://github.com/evilmartians](https://github.com/evilmartians)
+- 后端开发 [https://github.com/wenfh2020](https://github.com/wenfh2020)
+- 系统与AI [https://github.com/conless](https://github.com/conless)
+- 综合开发 [https://github.com/momeak9](https://github.com/momeak9)
 
 
 
@@ -319,6 +337,12 @@
     - [https://allinone.tools](https://allinone.tools)
 - [https://github.com/jaywcjlove/reference](https://github.com/jaywcjlove/reference)
 - 图像注入载荷 [https://github.com/sighook/pixload](https://github.com/sighook/pixload)
+- 构建工具 [https://github.com/michaelforney/samurai](https://github.com/michaelforney/samurai)
+- 构建工具 [https://github.com/xmake-io/xmake](https://github.com/xmake-io/xmake)
+- 文件监听 [https://github.com/e-dant/watcher](https://github.com/e-dant/watcher)
+- 本地化 [https://projectfluent.org](https://projectfluent.org)
+- 语言对比 [https://github.com/bddicken/languages](https://github.com/bddicken/languages)
+- 构建工具 [https://github.com/benchkram](https://github.com/benchkram)
 
 
 
@@ -377,6 +401,20 @@
 > Yacc（Yet Another Compiler-Compiler）用于生成语法解析器，用于确定上述分隔好的token之间的关联
 >
 > Flex是由Vern Paxon实现的一个Lex，Bison则是GNU版本的YACC
+* 查询解析 [https://github.com/vilterp/datalog-ts](https://github.com/vilterp/datalog-ts)
+* 错误报告库 [https://github.com/mesabloo/diagnose](https://github.com/mesabloo/diagnose)
+* 解析器组合子 [https://github.com/jneen/parsimmon](https://github.com/jneen/parsimmon)
+* 解析器库 [https://github.com/zesterer/chumsky](https://github.com/zesterer/chumsky)
+* 解释器教程 [https://github.com/guoyaxiang/craftinginterpreters_zh](https://github.com/guoyaxiang/craftinginterpreters_zh)
+* 编译器 [https://github.com/spl0i7/gollvm-bf](https://github.com/spl0i7/gollvm-bf)
+* LLVM库 [https://github.com/llir/llvm](https://github.com/llir/llvm)
+* JS解析器 [https://github.com/acornjs/acorn](https://github.com/acornjs/acorn)
+* JS解析器 [https://github.com/boshen/javascript-compiler-in-rust](https://github.com/boshen/javascript-compiler-in-rust)
+* 编译器 [https://github.com/eatonphil/ulisp](https://github.com/eatonphil/ulisp)
+* 编译器生成器 [https://github.com/jzimmerman/langcc](https://github.com/jzimmerman/langcc)
+* 词法分析 [https://github.com/wgrape/lexer](https://github.com/wgrape/lexer)
+* WASM编译器 [https://github.com/thomscoder/luna](https://github.com/thomscoder/luna)
+* 自制语言 [https://github.com/karminski/write-a-programming-language-in-450-lines](https://github.com/karminski/write-a-programming-language-in-450-lines)
 
 
 
@@ -434,6 +472,81 @@
 
 * [DSL 领域特定语言](https://blog.csdn.net/u011487470/article/details/124583051)
 * 动态脚本语言解析 [https://gitee.com/tenmg/dsl](https://gitee.com/tenmg/dsl)
+* 编译工具 [https://github.com/otterkit/otterkit](https://github.com/otterkit/otterkit)
+* 脚本语言 [https://github.com/fubark/cyber](https://github.com/fubark/cyber)
+* 编程语言 [https://github.com/witheve/eve](https://github.com/witheve/eve)
+* 编程语言 [https://github.com/antirez/aocla](https://github.com/antirez/aocla)
+* Elixir JSON库 [https://github.com/michalmuskala/jason](https://github.com/michalmuskala/jason)
+* Elixir HTTP库 [https://github.com/wojtekmach/req](https://github.com/wojtekmach/req)
+* Vale编程语言 [https://github.com/valelang/vale](https://github.com/valelang/vale)
+* Virgil编程语言 [https://github.com/titzer/virgil](https://github.com/titzer/virgil)
+* 图片转汇编 [https://github.com/adorianm/assembly-from-image](https://github.com/adorianm/assembly-from-image)
+* Crystal语言 [https://github.com/crystal-lang/crystal](https://github.com/crystal-lang/crystal)
+* Carbon语言 [https://github.com/carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+* 汇编入门 [https://github.com/hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
+* 编程语言 [https://github.com/splware/esproc](https://github.com/splware/esproc)
+* JVM语言 [https://github.com/luisthiamnye/chic](https://github.com/luisthiamnye/chic)
+* 编程语言 [https://github.com/crossoverjie/gscript](https://github.com/crossoverjie/gscript)
+* 合约编程 [https://github.com/amazingang/wtf-solidity](https://github.com/amazingang/wtf-solidity)
+* Smalltalk [https://github.com/michaelengel/crosstalk](https://github.com/michaelengel/crosstalk)
+* 汇编示例 [https://github.com/plummerssoftwarellc/helloassembly](https://github.com/plummerssoftwarellc/helloassembly)
+* 语言示例 [https://github.com/leachim6/hello-world](https://github.com/leachim6/hello-world)
+* Clojure语言 [https://github.com/jank-lang/jank](https://github.com/jank-lang/jank)
+* Fortran编译器 [https://github.com/llvm/llvm-project/tree/main/flang](https://github.com/llvm/llvm-project/tree/main/flang)
+* 语言数据库 [https://github.com/breck7/pldb](https://github.com/breck7/pldb)
+* Ruby版本管理 [https://github.com/sstephenson/rbenv](https://github.com/sstephenson/rbenv)
+* 多语言编程 [https://github.com/bhaskar0120/languages-of-code](https://github.com/bhaskar0120/languages-of-code)
+* CLI组件 [https://github.com/symfony/console](https://github.com/symfony/console)
+* 法语编程 [https://github.com/bnjbvr/rouille](https://github.com/bnjbvr/rouille)
+* 编程语言 [https://kotlinlang.org](https://kotlinlang.org)
+* 编程语言 [https://www.strongtalk.org](https://www.strongtalk.org)
+* 编程语言 [https://www.swift.org/download](https://www.swift.org/download)
+* 编程语言 [https://raku.guide](https://raku.guide)
+* Lisp解释器 [https://woodrush.github.io/blog/lambdalisp.html](https://woodrush.github.io/blog/lambdalisp.html)
+* 编程语言 [https://github.com/google/rune](https://github.com/google/rune)
+* D语言 [https://dlang.org/spec/class.html#auto](https://dlang.org/spec/class.html#auto)
+* 形式验证 [https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
+* Buffer池 [https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
+* 汇编语言 [https://kviccn.github.io/series/汇编语言一发入魂](https://kviccn.github.io/series/汇编语言一发入魂)
+* Lisp开发 [https://github.com/sharplispers/cormanlisp](https://github.com/sharplispers/cormanlisp)
+* 编程语言手册 [https://github.com/chai2010/china-programming-languages](https://github.com/chai2010/china-programming-languages)
+* 新语言 [https://github.com/linuxdeepin/unilang](https://github.com/linuxdeepin/unilang)
+* Kotlin函数库 [https://github.com/arrow-kt/arrow](https://github.com/arrow-kt/arrow)
+* HTTP服务器 [https://github.com/shopify/pitchfork](https://github.com/shopify/pitchfork)
+* 脚本语言 [https://github.com/water-melon/melang](https://github.com/water-melon/melang)
+* 区块链 [https://github.com/mystenlabs/sui](https://github.com/mystenlabs/sui)
+* 区块链 [https://github.com/aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
+* Kotlin工具 [https://github.com/fbsamples/kotlin_ast_tools](https://github.com/fbsamples/kotlin_ast_tools)
+* SICP课程 [https://github.com/deathking/learning-sicp](https://github.com/deathking/learning-sicp)
+* 后台任务 [https://github.com/mperham/sidekiq](https://github.com/mperham/sidekiq)
+* HTTP框架 [https://github.com/jaguar-dart/jaguar](https://github.com/jaguar-dart/jaguar)
+* EVM编译器 [https://github.com/huff-language/huff-rs](https://github.com/huff-language/huff-rs)
+* 区块链课程 [https://github.com/smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+* Scheme教程 [https://songjinghe.github.io/TYS-zh-translation](https://songjinghe.github.io/TYS-zh-translation)
+* 编程语言 [https://git.sr.ht/~technomancy/fennel](https://git.sr.ht/~technomancy/fennel)
+* Ruby实现 [https://github.com/mruby/mruby](https://github.com/mruby/mruby)
+* 编程语言 [https://github.com/albertodemichelis/squirrel](https://github.com/albertodemichelis/squirrel)
+* 编程语言 [https://wren.io](https://wren.io)
+* Swift开发 [https://fatbobman.com/zh/posts](https://fatbobman.com/zh/posts)
+* awk实现 [https://github.com/raygard/wak](https://github.com/raygard/wak)
+* 贪吃蛇 [https://github.com/donno2048/snake](https://github.com/donno2048/snake)
+* jq实现 [https://github.com/wader/jqjq](https://github.com/wader/jqjq)
+* Lisp手册 [https://oneforalone.github.io/cl-cookbook-cn](https://oneforalone.github.io/cl-cookbook-cn)
+* Coq证明 [https://coq.vercel.app](https://coq.vercel.app)
+* Dart性能 [https://gitlab.com/HankG/dart-vs-go-performance-test](https://gitlab.com/HankG/dart-vs-go-performance-test)
+* 汇编入门 [https://evian-zhang.github.io/learn-assembly-on-Apple-Silicon-Mac/index.html](https://evian-zhang.github.io/learn-assembly-on-Apple-Silicon-Mac/index.html)
+* 汇编入门 [https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
+* Zig语言 [https://github.com/ziglang/zig](https://github.com/ziglang/zig)
+* Zig游戏开发 [https://github.com/michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev)
+* 编程语言 [https://github.com/dada-lang/dada](https://github.com/dada-lang/dada)
+* Racket语言 [https://docs.racket-lang.org](https://docs.racket-lang.org)
+* 3D着色器 [https://lettier.github.io/3d-game-shaders-for-beginners](https://lettier.github.io/3d-game-shaders-for-beginners)
+* Zig语言 [https://zigcc.github.io/learning-zig](https://zigcc.github.io/learning-zig)
+* Ruby HTTP [https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
+* 编程语言 [https://github.com/unisonweb](https://github.com/unisonweb)
+* 包管理器 [https://github.com/hexpm](https://github.com/hexpm)
+* Julia GUI引擎 [https://github.com/clemapfel](https://github.com/clemapfel)
+* 太阳系模拟游戏 [https://github.com/ivoyager](https://github.com/ivoyager)
 
 
 
@@ -469,6 +582,22 @@
 * [https://github.com/plasmicapp/plasmic](https://github.com/plasmicapp/plasmic)
 * [https://github.com/entropy-cloud/nop-entropy](https://github.com/entropy-cloud/nop-entropy)
 * [https://github.com/tryretool](https://github.com/tryretool)
+* 低代码框架 [https://github.com/refinedev/refine](https://github.com/refinedev/refine)
+* 可视化搭建 [https://github.com/tencent/tmagic-editor](https://github.com/tencent/tmagic-editor)
+* 低代码引擎 [https://github.com/alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)
+* 低代码平台 [https://github.com/illa-family/illa-builder](https://github.com/illa-family/illa-builder)
+* 低代码平台 [https://github.com/makunet/maku-boot](https://github.com/makunet/maku-boot)
+* 低代码UI [https://github.com/smartxworks/sunmao-ui](https://github.com/smartxworks/sunmao-ui)
+* 工作流平台 [https://github.com/n8n-io/n8n](https://github.com/n8n-io/n8n)
+* 低代码 [https://segmentfault.com/a/1190000042366284](https://segmentfault.com/a/1190000042366284)
+* 低代码工具 [https://github.com/openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks)
+* 游戏引擎 [https://gdevelop.io](https://gdevelop.io)
+* 低代码平台 [https://github.com/amplication/amplication](https://github.com/amplication/amplication)
+* 低代码脚手架 [https://github.com/yiuman/citrus](https://github.com/yiuman/citrus)
+* 低代码平台 [https://github.com/rintagi/low-code-development-platform](https://github.com/rintagi/low-code-development-platform)
+* 低代码语言 [https://github.com/byzer-org/byzer-lang](https://github.com/byzer-org/byzer-lang)
+* 低代码 [https://segmentfault.com/a/1190000042810460](https://segmentfault.com/a/1190000042810460)
+* 低代码平台 [https://github.com/teleporthq](https://github.com/teleporthq)
 
 
 
@@ -500,6 +629,11 @@
 
 
 - 超集 [https://github.com/Roblox/luau](https://github.com/Roblox/luau)
+- Lua打包 [https://github.com/frityet/combustion](https://github.com/frityet/combustion)
+- LuaJIT [https://github.com/luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake)
+- Lua扩展 [https://github.com/kingluo/lua-resty-ffi](https://github.com/kingluo/lua-resty-ffi)
+- Lua嵌入式 [https://github.com/whitecatboard/Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32)
+- Lua实现 [https://github.com/moonsharp-devs/moonsharp](https://github.com/moonsharp-devs/moonsharp)
 
 
 
@@ -525,6 +659,9 @@
 
 
 - 方言 [https://github.com/typelead/eta](https://github.com/typelead/eta)
+- 解析器 [https://github.com/ethframe/reparsec](https://github.com/ethframe/reparsec)
+- Haskell开发 [https://github.com/ollef](https://github.com/ollef)
+- Haskell库 [https://github.com/foxhound-systems](https://github.com/foxhound-systems)
 
 
 

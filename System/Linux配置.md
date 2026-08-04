@@ -89,6 +89,7 @@ yum -y groupinstall chinese-support
 ```
 
 ### 设置中文utf8编码
+* 环境配置 [https://github.com/crispyconductor/environment-crisp](https://github.com/crispyconductor/environment-crisp)
 
 **临时**
 
@@ -253,6 +254,7 @@ grep 'processor' /proc/cpuinfo | sort -u | wc -l
 
 
 ## 开机启动
+* init脚本 [https://github.com/fhd/init-script-template](https://github.com/fhd/init-script-template)
 
 **添加命令到`/etc/rc.local`文件末尾**
 

@@ -93,6 +93,8 @@
 
 
 > `计算机\HKEY_CURRENT_USER\SOFTWARE\JavaSoft\Prefs`
+* IDE主题 [https://github.com/chrisrm/material-theme-jetbrains](https://github.com/chrisrm/material-theme-jetbrains)
+* IDEA插件 [https://github.com/szymonprz/idea-cheatsh-plugin](https://github.com/szymonprz/idea-cheatsh-plugin)
 
 
 
@@ -105,6 +107,8 @@
 - [https://plugins.jetbrains.com/plugin/17809-lingma--alibaba-cloud-ai-coding-assistant](https://plugins.jetbrains.com/plugin/17809-lingma--alibaba-cloud-ai-coding-assistant)
 - [https://plugins.jetbrains.com/plugin/23475-baidu-comate](https://plugins.jetbrains.com/plugin/23475-baidu-comate)
 - [https://github.com/big-mouth-cn/talkx-idea-plugin](https://github.com/big-mouth-cn/talkx-idea-plugin)
+- AI开发 [https://github.com/unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev)
+- AI编程助手 [https://github.com/intitni/copilotforxcode](https://github.com/intitni/copilotforxcode)
 
 
 

@@ -62,6 +62,9 @@
 - [https://java-source.net](https://java-source.net)
 
 * [原来实现项目多环境打包部署是如此的简单](https://www.cnblogs.com/hafiz/p/7559976.html)
+* 构建工具 [https://github.com/bazelbuild/bazel](https://github.com/bazelbuild/bazel)
+* 构建工具 [https://github.com/benchkram/bob](https://github.com/benchkram/bob)
+* Java提速 [https://developer.aliyun.com/ebook/7850](https://developer.aliyun.com/ebook/7850)
 
 
 **可执行文件打包**
@@ -267,6 +270,14 @@
 + [史上最全的maven的pom.xml文件详解](https://www.cnblogs.com/hafiz/p/5360195.html)
 + [Maven - 花落花开](http://www.hualuohuakai.net/tags/Maven)
 + maven手册 [https://github.com/inuter/Maven-Notebook](https://github.com/inuter/Maven-Notebook)
++ 构建示例 [https://github.com/inuter/maven-notebook](https://github.com/inuter/maven-notebook)
++ 构建插件 [https://github.com/mojohaus/aspectj-maven-plugin](https://github.com/mojohaus/aspectj-maven-plugin)
++ Lombok插件 [https://github.com/awhitford/lombok.maven](https://github.com/awhitford/lombok.maven)
++ Maven管理 [https://github.com/repaint-io/maven-tiles](https://github.com/repaint-io/maven-tiles)
++ 签名检测 [https://www.mojohaus.org/animal-sniffer/animal-sniffer-annotations](https://www.mojohaus.org/animal-sniffer/animal-sniffer-annotations)
++ Maven版本 [https://segmentfault.com/a/1190000042345408](https://segmentfault.com/a/1190000042345408)
++ Maven仓库 [https://developer.aliyun.com/mvn/view](https://developer.aliyun.com/mvn/view)
++ Maven发布 [https://github.com/him188/maven-central-publish](https://github.com/him188/maven-central-publish)
 
 
 **仓库**

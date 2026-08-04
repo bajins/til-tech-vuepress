@@ -46,6 +46,14 @@
 
 
 > Manifest V2 被限制使用，在Chrome浏览器中输入地址：`chrome://flags/#allow-legacy-mv2-extensions`，将 `default` 改成 `enable` 即可启用 Manifest V2 兼容性
+* Web浏览器 [https://github.com/engramhq/browser](https://github.com/engramhq/browser)
+* Web浏览器 [https://github.com/pulse-browser/browser](https://github.com/pulse-browser/browser)
+* 硬件解码 [https://github.com/stazhu/enable-chromium-hevc-hardware-decoding/releases](https://github.com/stazhu/enable-chromium-hevc-hardware-decoding/releases)
+* 浏览器精简 [https://github.com/corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser)
+* 隐私浏览器 [https://github.com/botswin/BotBrowser](https://github.com/botswin/BotBrowser)
+* macOS浏览器 [https://github.com/nook-browser/Nook](https://github.com/nook-browser/Nook)
+* 浏览器 [https://github.com/floorp-projects/floorp](https://github.com/floorp-projects/floorp)
+* 自制浏览器 [https://github.com/zerox-dg/moon](https://github.com/zerox-dg/moon)
 
 
 
@@ -60,6 +68,8 @@
     + 权限访问示例 [https://github.com/chromium/permission.site](https://github.com/chromium/permission.site)
 + [https://github.com/googlechrome](https://github.com/googlechrome)
     + [https://github.com/GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
++ HEVC解码 [https://github.com/stazhu/enable-chromium-hevc-hardware-decoding](https://github.com/stazhu/enable-chromium-hevc-hardware-decoding)
++ 浏览器 [https://github.com/ladybirdbrowser/ladybird](https://github.com/ladybirdbrowser/ladybird)
 
 
 
@@ -218,6 +228,9 @@ chrome://flags/#enable-parallel-downloading
 - [https://github.com/mozilla-spidermonkey](https://github.com/mozilla-spidermonkey)
 - 终端调试 [https://github.com/taotao7/termdev](https://github.com/taotao7/termdev)
 - 流式连接 [https://github.com/bywwcnll/StreamPanel](https://github.com/bywwcnll/StreamPanel)
+- 移动端调试 [https://github.com/liriliri/eruda](https://github.com/liriliri/eruda)
+- 网页审计 [https://github.com/googlechrome/lighthouse](https://github.com/googlechrome/lighthouse)
+- Chrome开发 [https://developer.chrome.google.cn](https://developer.chrome.google.cn)
 
 
 **其他设置**
@@ -272,6 +285,7 @@ chrome://flags/#enable-parallel-downloading
 - [https://github.com/ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
 - [https://github.com/g1879/DrissionPage](https://github.com/g1879/DrissionPage)
 - [https://github.com/Davincible/chromedp-undetected](https://github.com/Davincible/chromedp-undetected)
+- 文本渲染 [https://github.com/transitive-bullshit/puppeteer-render-text](https://github.com/transitive-bullshit/puppeteer-render-text)
 
 
 
@@ -308,6 +322,7 @@ ps -efww|grep LOCAL=chromedriver|grep -v grep|cut -c 9-15|xargs kill -9
 :: Windows
 taskkill /f /im chromedriver.exe
 ```
+* 反爬虫 [https://github.com/flaresolverr/flaresolverr](https://github.com/flaresolverr/flaresolverr)
 
 
 **参数列表**
@@ -370,6 +385,21 @@ taskkill /f /im chromedriver.exe
 * 搜索 [https://github.com/hoothin/SearchJumper](https://github.com/hoothin/SearchJumper)
 * 管理Cookie [https://github.com/Dolov/chrome-best-cookier](https://github.com/Dolov/chrome-best-cookier)
 * 插件开发工具 [https://github.com/cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js)
+* 扩展框架 [https://github.com/nyaggah/bedframe](https://github.com/nyaggah/bedframe)
+* 头部排序 [https://github.com/rviscomi/capo.js](https://github.com/rviscomi/capo.js)
+* Git可视化 [https://github.com/nirmalscaria/le-git-graph](https://github.com/nirmalscaria/le-git-graph)
+* 小说下载 [https://github.com/lifegpc/qdbookdownloadv3](https://github.com/lifegpc/qdbookdownloadv3)
+* JSON查看 [https://github.com/gildas-lormeau/jsonview-for-chrome](https://github.com/gildas-lormeau/jsonview-for-chrome)
+* RSS扩展 [https://github.com/easychen/rsshub-radar-with-checkchan](https://github.com/easychen/rsshub-radar-with-checkchan)
+* 网页监控 [https://github.com/easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
+* 网页存档 [https://github.com/webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page)
+* 音乐扩展 [https://github.com/listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension)
+* 响应式预览 [https://github.com/skmail/responsive-viewer](https://github.com/skmail/responsive-viewer)
+* Cookie同步 [https://github.com/easychen/CookieCloud](https://github.com/easychen/CookieCloud)
+* Bing扩展 [https://github.com/malaohu/chrome_extensions_unlock-newbing](https://github.com/malaohu/chrome_extensions_unlock-newbing)
+* 浏览器插件 [https://lutaonan.com/blog/my-extension-sold-1k-yuan](https://lutaonan.com/blog/my-extension-sold-1k-yuan)
+* 广告拦截 [https://github.com/ublockorigin/ubol-home](https://github.com/ublockorigin/ubol-home)
+* 浏览器扩展 [https://github.com/polywock](https://github.com/polywock)
 
 
 
@@ -495,6 +525,8 @@ taskkill /f /im chromedriver.exe
 
 
 - AdGuard Android 解锁高级版 [https://www.lanzoui.com/b0f19420h](https://www.lanzoui.com/b0f19420h)
+- Chrome插件 [https://chrome.zzzmh.cn](https://chrome.zzzmh.cn)
+- 插件下载 [https://crxdl.com](https://crxdl.com)
 
 
 **过滤规则**
@@ -601,6 +633,14 @@ taskkill /f /im chromedriver.exe
 
 
 - [https://github.com/lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey)
+- 广告拦截 [https://github.com/anfragment/zen](https://github.com/anfragment/zen)
+- 广告过滤 [https://easylist.to/easylist/easylist.txt](https://easylist.to/easylist/easylist.txt)
+- 广告过滤 [https://easylist-downloads.adblockplus.org/antiadblockfilters.txt](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
+- 隐私过滤 [https://easylist-downloads.adblockplus.org/easyprivacy.txt](https://easylist-downloads.adblockplus.org/easyprivacy.txt)
+- 广告过滤 [https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
+- 广告过滤 [https://easylist-downloads.adblockplus.org/easylistchina.txt](https://easylist-downloads.adblockplus.org/easylistchina.txt)
+- 广告过滤 [https://easylist-downloads.adblockplus.org/easylist.txt](https://easylist-downloads.adblockplus.org/easylist.txt)
+- 广告过滤 [https://github.com/adguardteam/adguardfilters](https://github.com/adguardteam/adguardfilters)
 
 
 

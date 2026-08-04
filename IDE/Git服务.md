@@ -25,6 +25,11 @@
 * [https://github.com/scm-manager/scm-manager](https://github.com/scm-manager/scm-manager)
 * [https://github.com/projectkudu/kudu](https://github.com/projectkudu/kudu)
 * 提取错误上传内容 [https://github.com/liamg/gitjacker](https://github.com/liamg/gitjacker)
+* Git托管 [https://github.com/nathants/git-remote-aws](https://github.com/nathants/git-remote-aws)
+* Git托管 [https://github.com/sitaramc/gitolite](https://github.com/sitaramc/gitolite)
+* Git分析 [https://github.com/mergestat/mergestat](https://github.com/mergestat/mergestat)
+* 开发平台 [https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)
+* Git同步 [https://github.com/akashrajpurohit/git-sync](https://github.com/akashrajpurohit/git-sync)
 
 
 
@@ -94,6 +99,7 @@ volumes:
     data:
     logs:
 ```
+* GitLab安装 [https://about.gitlab.com/install/ce-or-ee](https://about.gitlab.com/install/ce-or-ee)
 
 
 
@@ -132,6 +138,10 @@ volumes:
 - GitHub的Java API [https://github.com/hub4j/github-api](https://github.com/hub4j/github-api)
 - 自动拉取请求 [https://github.com/dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 - 项目管理 [https://www.zenhub.com](https://www.zenhub.com)
+- GitHub通知 [https://github.com/devhubapp/devhub](https://github.com/devhubapp/devhub)
+- 代码机器人 [https://github.com/robb-oat/server](https://github.com/robb-oat/server)
+- GitHub分析 [https://ossinsight.io](https://ossinsight.io)
+- GitHub历史 [https://graphite.dev/blog/github-monopoly-on-code-hosting](https://graphite.dev/blog/github-monopoly-on-code-hosting)
 
 
 
@@ -405,3 +415,4 @@ WantedBy=multi-user.target
 * [https://kolaente.dev](https://kolaente.dev)
 * [https://git.resf.org](https://git.resf.org)
 * 软件相似度比较 [https://copycat.gitee.com](https://copycat.gitee.com)
+* Git托管 [https://codeberg.org/forgejo/forgejo](https://codeberg.org/forgejo/forgejo)

@@ -160,6 +160,13 @@
 - [https://github.com/Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere)
 - [https://github.com/HTMLElements](https://github.com/HTMLElements)
 - 第三方认证 [https://github.com/openauthjs/openauth](https://github.com/openauthjs/openauth)
+- 数据绑定 [https://github.com/mikeric/rivets](https://github.com/mikeric/rivets)
+- 字幕解析 [https://github.com/mozilla/vtt.js](https://github.com/mozilla/vtt.js)
+- 游戏引擎 [https://github.com/boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)
+- 开发者检测 [https://github.com/sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect)
+- 静态搜索 [https://pagefind.app](https://pagefind.app)
+- protobuf库 [https://github.com/protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js)
+- JS工具库 [https://github.com/jsmini](https://github.com/jsmini)
 
 
 
@@ -180,6 +187,8 @@
 * 提示和弹出框 [https://github.com/popperjs/popper-core](https://github.com/popperjs/popper-core)
 * alert()和confirm()包装 [https://github.com/makeusabrew/bootbox](https://github.com/makeusabrew/bootbox)
 * 提示引导 [https://github.com/kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js)
+* 提示框 [https://github.com/atomiks/tippyjs](https://github.com/atomiks/tippyjs)
+* 通知组件 [https://github.com/fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
 
 
 
@@ -211,6 +220,7 @@
 * [https://github.com/pamelafox/lscache](https://github.com/pamelafox/lscache)
 * [https://github.com/pubkey/rxdb](https://github.com/pubkey/rxdb)
 * [https://github.com/aspen-cloud/triplit](https://github.com/aspen-cloud/triplit)
+* 缓存工具 [https://github.com/mikevalstar/gorgon](https://github.com/mikevalstar/gorgon)
 
 
 
@@ -235,6 +245,12 @@
 - [https://github.com/mdx-js/mdx](https://github.com/mdx-js/mdx)
     - [https://www.mdxjs.cn](https://www.mdxjs.cn)
 - [https://github.com/JiHong88/suneditor](https://github.com/JiHong88/suneditor)
+- 画布编辑器 [https://github.com/hufe921/canvas-editor](https://github.com/hufe921/canvas-editor)
+- 代码编辑器 [https://github.com/react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor)
+- 代码编辑器 [https://github.com/codemirror/codemirror.next](https://github.com/codemirror/codemirror.next)
+- 富文本编辑器 [https://github.com/ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum)
+- 协作编辑 [https://github.com/convergencelabs/monaco-collab-ext](https://github.com/convergencelabs/monaco-collab-ext)
+- 富文本编辑 [https://github.com/udecode/plate](https://github.com/udecode/plate)
 
 
 
@@ -336,6 +352,35 @@
 - [https://freejsobfuscator.com](https://freejsobfuscator.com)
 - [https://www.h5pack.com/js-obfuscator](https://www.h5pack.com/js-obfuscator)
 - [http://jsnice.org](http://jsnice.org)
+- 用户引导 [https://github.com/usablica/intro.js](https://github.com/usablica/intro.js)
+- curl转换 [https://github.com/curlconverter/curlconverter](https://github.com/curlconverter/curlconverter)
+- 数据比对 [https://github.com/wsafight/diff-helper](https://github.com/wsafight/diff-helper)
+- 头部管理 [https://github.com/unjs/unhead](https://github.com/unjs/unhead)
+- 并发计算 [https://github.com/bitair-org/concurrent.js](https://github.com/bitair-org/concurrent.js)
+- 防屏幕休眠 [https://github.com/richtr/nosleep.js](https://github.com/richtr/nosleep.js)
+- JS工具集 [https://github.com/xrkffgg/ktools](https://github.com/xrkffgg/ktools)
+- 模糊搜索 [https://github.com/leeoniya/ufuzzy](https://github.com/leeoniya/ufuzzy)
+- 大数计算 [https://github.com/royniladri/js-big-decimal](https://github.com/royniladri/js-big-decimal)
+- 调试工具 [https://github.com/huolalatech/page-spy-web](https://github.com/huolalatech/page-spy-web)
+- 输入法工具 [https://github.com/googlei18n/google-input-tools.git](https://github.com/googlei18n/google-input-tools.git)
+- 性能监控 [https://github.com/mrdoob/stats.js](https://github.com/mrdoob/stats.js)
+- 进度条 [https://github.com/kimmobrunfeldt/progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js)
+- 模糊搜索 [https://fusejs.io](https://fusejs.io)
+- 不可变数据 [https://segmentfault.com/a/1190000042282263](https://segmentfault.com/a/1190000042282263)
+- 内存泄漏 [https://engineering.fb.com/2022/09/12/open-source/memlab](https://engineering.fb.com/2022/09/12/open-source/memlab)
+- 加载按钮 [https://github.com/hakimel/ladda](https://github.com/hakimel/ladda)
+- 不可变数据 [https://github.com/immutable-js/immutable-js](https://github.com/immutable-js/immutable-js)
+- 汉字工具 [https://github.com/theajack/cnchar](https://github.com/theajack/cnchar)
+- 货币计算 [https://github.com/scurker/currency.js](https://github.com/scurker/currency.js)
+- 数据转换 [https://segmentfault.com/a/1190000042216483](https://segmentfault.com/a/1190000042216483)
+- 协同编辑 [https://github.com/yjs/yjs](https://github.com/yjs/yjs)
+- CRDT测试 [https://github.com/dmonad/crdt-benchmarks](https://github.com/dmonad/crdt-benchmarks)
+- 移动调试 [https://github.com/tencent/vconsole](https://github.com/tencent/vconsole)
+- 并发映射 [https://github.com/sindresorhus/p-map](https://github.com/sindresorhus/p-map)
+- 网络延迟 [https://github.com/alfg/ping.js](https://github.com/alfg/ping.js)
+- 键盘快捷键 [https://github.com/ccampbell/mousetrap](https://github.com/ccampbell/mousetrap)
+- 键盘快捷键 [https://github.com/jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js)
+- 火焰图 [https://github.com/spiermar/d3-flame-graph](https://github.com/spiermar/d3-flame-graph)
 
 
 
@@ -357,6 +402,7 @@
 * [https://github.com/flatpickr](https://github.com/flatpickr)
 * [https://github.com/fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
 * [https://github.com/uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+* 日期选择 [https://github.com/pikaday/pikaday](https://github.com/pikaday/pikaday)
 
 
 **HTTP**
@@ -401,6 +447,7 @@
 - [https://github.com/rndme/download](https://github.com/rndme/download)
 - [https://github.com/jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js)
 - [https://github.com/jimmywarting/native-file-system-adapter](https://github.com/jimmywarting/native-file-system-adapter)
+- HTTP头解析 [https://github.com/kesla/parse-headers](https://github.com/kesla/parse-headers)
 
 
 
@@ -416,6 +463,8 @@
 - [https://github.com/superwf/ts-gear](https://github.com/superwf/ts-gear)
 - [https://github.com/acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api)
 - [https://github.com/Manweill/swagger-axios-codegen](https://github.com/Manweill/swagger-axios-codegen)
+- 文件上传 [https://github.com/pqina/filepond](https://github.com/pqina/filepond)
+- JSZip压缩 [https://stuk.github.io/jszip/documentation/api_jszip.html](https://stuk.github.io/jszip/documentation/api_jszip.html)
 
 
 **数据表格**
@@ -434,6 +483,16 @@
 * [https://github.com/TonyGermaneri/canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid)
 * [https://github.com/VisActor](https://github.com/VisActor)
 * 交互式 [https://github.com/olifolkerd/tabulator](https://github.com/olifolkerd/tabulator)
+* 时间线图 [https://github.com/visjs/vis-timeline](https://github.com/visjs/vis-timeline)
+* K线图库 [https://github.com/liihuu/klinechart](https://github.com/liihuu/klinechart)
+* 在线表格库 [https://github.com/ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)
+* 数据图表 [https://github.com/dc-js/dc.js](https://github.com/dc-js/dc.js)
+* 数据图表 [https://github.com/metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics)
+* 基因组可视化 [https://github.com/gosling-lang/gosling.js](https://github.com/gosling-lang/gosling.js)
+* 电子表格 [https://github.com/jspreadsheet/ce](https://github.com/jspreadsheet/ce)
+* 图表库 [https://github.com/antvis/f2](https://github.com/antvis/f2)
+* 表格分析 [https://github.com/antvis/s2](https://github.com/antvis/s2)
+* 图表绘制 [https://github.com/mendableai/firegraph](https://github.com/mendableai/firegraph)
 
 
 **拖动/拖拽/拖放**
@@ -447,6 +506,9 @@
 * 拖放 [https://github.com/bevacqua/dragula](https://github.com/bevacqua/dragula)
 * 拖动表格行 [https://github.com/isocra/TableDnD](https://github.com/isocra/TableDnD)
 * [https://github.com/SortableJS](https://github.com/SortableJS)
+* 列表拖拽 [https://github.com/kornelski/slip](https://github.com/kornelski/slip)
+* 手势库 [https://github.com/pmndrs/use-gesture](https://github.com/pmndrs/use-gesture)
+* 拖拽库 [https://github.com/dflex-js/dflex](https://github.com/dflex-js/dflex)
 
 
 
@@ -471,6 +533,15 @@
 * [https://github.com/zumerlab/snapdom](https://github.com/zumerlab/snapdom)
 * [https://github.com/1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more)
 * [https://github.com/zumerlab/snapdom](https://github.com/zumerlab/snapdom)
+* 字形渲染 [https://github.com/kamichikoichi/kage-engine](https://github.com/kamichikoichi/kage-engine)
+* 头像生成库 [https://github.com/dicebear/dicebear](https://github.com/dicebear/dicebear)
+* 游戏引擎 [https://github.com/melonjs/melonjs](https://github.com/melonjs/melonjs)
+* 图片占位 [https://evanw.github.io/thumbhash](https://evanw.github.io/thumbhash)
+* 音频编辑器 [https://github.com/ahilss/wavvy](https://github.com/ahilss/wavvy)
+* 媒体组件 [https://github.com/muxinc/elements](https://github.com/muxinc/elements)
+* 景深模拟 [https://jherr.github.io/depth-of-field](https://jherr.github.io/depth-of-field)
+* 媒体处理库 [https://github.com/Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny)
+* PNG解析库 [https://github.com/image-js/fast-png](https://github.com/image-js/fast-png)
 
 
 
@@ -529,6 +600,14 @@
 * [https://github.com/jwilber/roughViz](https://github.com/jwilber/roughViz)
 * [https://github.com/didi/LogicFlow](https://github.com/didi/LogicFlow)
 * [https://github.com/jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js)
+* 协同画图部署 [https://github.com/alswl/excalidraw-collaboration](https://github.com/alswl/excalidraw-collaboration)
+* 图形编辑 [https://github.com/antvis/x6](https://github.com/antvis/x6)
+* 流程图库 [https://github.com/northwoodssoftware/gojs](https://github.com/northwoodssoftware/gojs)
+* 流程图协作 [https://github.com/vanila-io/wireflow](https://github.com/vanila-io/wireflow)
+* 流程图字体 [https://github.com/mebtte/excalidraw](https://github.com/mebtte/excalidraw)
+* 图可视化 [https://github.com/antvis/g6](https://github.com/antvis/g6)
+* 网络可视化 [https://github.com/visjs/vis-network](https://github.com/visjs/vis-network)
+* 流程图库 [https://github.com/alyssaxuu/flowy](https://github.com/alyssaxuu/flowy)
 
 
 
@@ -587,6 +666,20 @@
 * [https://github.com/scottcgi/MojoJS-Animation](https://github.com/scottcgi/MojoJS-Animation)
 * [https://github.com/drawcall/Proton](https://github.com/drawcall/Proton)
 * [https://github.com/dromara/newcar](https://github.com/dromara/newcar)
+* 图形教程 [https://github.com/mrweilian/icewebgl](https://github.com/mrweilian/icewebgl)
+* 2D图形库 [https://github.com/createjs/easeljs](https://github.com/createjs/easeljs)
+* 视觉小说引擎 [https://github.com/makinoharashoko/webgal](https://github.com/makinoharashoko/webgal)
+* 动画引擎 [https://github.com/motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+* 动画渲染 [https://github.com/tencent/libpag](https://github.com/tencent/libpag)
+* 3D渲染 [https://github.com/jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d)
+* 动画渲染 [https://github.com/airbnb/lottie-web](https://github.com/airbnb/lottie-web)
+* 3D引擎 [https://github.com/metafizzy/zdog](https://github.com/metafizzy/zdog)
+* 动画编辑器 [https://github.com/alyssaxuu/motionity](https://github.com/alyssaxuu/motionity)
+* 3D引擎 [https://github.com/needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support)
+* 滚动动画 [https://github.com/electerious/basicscroll](https://github.com/electerious/basicscroll)
+* 滚动动画 [https://github.com/alexfoxy/lax.js](https://github.com/alexfoxy/lax.js)
+* Three.js大屏 [https://segmentfault.com/a/1190000042216817](https://segmentfault.com/a/1190000042216817)
+* 动画工具 [https://github.com/still-scene/t3](https://github.com/still-scene/t3)
 
 
 
@@ -614,6 +707,10 @@
 * [https://github.com/phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg)
 * [https://github.com/wangrongding/tiny-player](https://github.com/wangrongding/tiny-player)
 * [https://github.com/codeacme17/echo-ui](https://github.com/codeacme17/echo-ui)
+* 网页播放器 [https://github.com/langhuihui/jessibuca](https://github.com/langhuihui/jessibuca)
+* 音乐制作 [https://github.com/valent-in/pulseq](https://github.com/valent-in/pulseq)
+* 视频播放器 [https://github.com/videojs/video.js](https://github.com/videojs/video.js)
+* 音乐播放器 [https://github.com/imsyy/splayer](https://github.com/imsyy/splayer)
 
 
 **反爬虫**

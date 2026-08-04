@@ -38,6 +38,8 @@
 * [https://github.com/stylus](https://github.com/stylus)
 * 自动重启Node [https://github.com/remy/nodemon](https://github.com/remy/nodemon)
 * [2023年最受欢迎的node.js框架](https://stackdiary.com/node-js-frameworks)
+* Node实战 [https://github.com/bailicangdu/node-elm](https://github.com/bailicangdu/node-elm)
+* SPA服务器 [https://github.com/devforth/spa-to-http](https://github.com/devforth/spa-to-http)
 
 
 
@@ -82,6 +84,14 @@
 * [https://github.com/Tencent/hel](https://github.com/Tencent/hel)
 * 打包单个可执行文件 [https://github.com/Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe)
 * [https://github.com/t8nlab/titanpl](https://github.com/t8nlab/titanpl)
+* Web打包器 [https://github.com/web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
+* 原生模块编译 [https://github.com/nodejs/node-gyp](https://github.com/nodejs/node-gyp)
+* 浏览器同步 [https://github.com/browsersync/browser-sync](https://github.com/browsersync/browser-sync)
+* JS压缩 [https://opensource.perlig.de/rjsmin](https://opensource.perlig.de/rjsmin)
+* JS转译 [https://segmentfault.com/a/1190000042306044](https://segmentfault.com/a/1190000042306044)
+* 前端工程 [https://woai3c.github.io/introduction-to-front-end-engineering](https://woai3c.github.io/introduction-to-front-end-engineering)
+* Webpack [https://segmentfault.com/a/1190000042232699](https://segmentfault.com/a/1190000042232699)
+* 构建优化 [https://segmentfault.com/a/1190000042256837](https://segmentfault.com/a/1190000042256837)
 
 
 
@@ -168,6 +178,13 @@
 * 静态HTTP服务器 [https://github.com/http-party/http-server](https://github.com/http-party/http-server)
 * 发送邮件 [https://github.com/dahlia/upyo](https://github.com/dahlia/upyo)
 * 进程守护 [https://github.com/Unitech/pm2](https://github.com/Unitech/pm2)
+* 实时通信 [https://github.com/wonderlnventions/node-webrtc](https://github.com/wonderlnventions/node-webrtc)
+* 终端加载动画 [https://github.com/sindresorhus/ora](https://github.com/sindresorhus/ora)
+* 包目录索引 [https://github.com/maximization/nodejs-toolbox-catalog](https://github.com/maximization/nodejs-toolbox-catalog)
+* 哈希表 [https://github.com/jhuckaby/megahash](https://github.com/jhuckaby/megahash)
+* 网络延迟 [https://github.com/nospaceships/node-net-ping](https://github.com/nospaceships/node-net-ping)
+* 网络延迟 [https://github.com/danielzzz/node-ping](https://github.com/danielzzz/node-ping)
+* FreeType绑定 [https://github.com/ericfreese/node-freetype2](https://github.com/ericfreese/node-freetype2)
 
 
 
@@ -243,6 +260,10 @@ nvm install <最新的版本号>
 # 安装
 npm install -g yarn
 ```
+* 单体仓库 [https://github.com/ycjcl868/monorepo](https://github.com/ycjcl868/monorepo)
+* 包管理器 [https://github.com/orogene/orogene](https://github.com/orogene/orogene)
+* 前端工程化 [https://github.com/waldronmatt/pnpm-turborepo-auto-boilerplate](https://github.com/waldronmatt/pnpm-turborepo-auto-boilerplate)
+* 前端包管理 [https://bower.io](https://bower.io)
 
 **卸载**
 
@@ -467,6 +488,7 @@ request({
     }
 });
 ```
+* 正文提取 [https://github.com/chromium/dom-distiller](https://github.com/chromium/dom-distiller)
 
 
 
@@ -519,6 +541,12 @@ request({
 **[xpath和css选择器](/Python/Python爬虫.md#xpath和css选择器)**
 
 **[`chromedriver`](/Python/Python爬虫.md#chromedriver)**
+* 网页爬虫 [https://github.com/webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler)
+* 浏览器自动化 [https://github.com/puppeteer/puppeteer/tree/main/packages/puppeteer-core](https://github.com/puppeteer/puppeteer/tree/main/packages/puppeteer-core)
+* 无头浏览器 [https://github.com/ulixee/hero](https://github.com/ulixee/hero)
+* 公众号导出 [https://github.com/wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
+* 浏览器自动化 [https://github.com/browserwing/browserwing](https://github.com/browserwing/browserwing)
+* 反爬虫 [https://github.com/unixfox/pupflare](https://github.com/unixfox/pupflare)
 
 
 **脚本**
@@ -549,6 +577,8 @@ request({
 * [https://github.com/YanxinNet/uView](https://github.com/YanxinNet/uView)
 
 - 使用Golang开发的微信SDK: [https://github.com/silenceper/wechat](https://github.com/silenceper/wechat)
+- 小程序 [https://github.com/jaywcjlove/wxmp](https://github.com/jaywcjlove/wxmp)
+- Telegram电商 [https://github.com/mini-woo](https://github.com/mini-woo)
 
 
 **框架**

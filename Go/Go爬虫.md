@@ -17,6 +17,7 @@
 - [https://github.com/projectdiscovery/katana](https://github.com/projectdiscovery/katana)
 - 类BeautifulSoup [https://github.com/anaskhan96/soup](https://github.com/anaskhan96/soup)
 - 示例 [https://github.com/bestnite/bilinovel-downloader](https://github.com/bestnite/bilinovel-downloader)
+- 搜索引擎 [https://github.com/johnlui/diy-search-engine](https://github.com/johnlui/diy-search-engine)
 
 
 ## HTML解析

@@ -15,6 +15,18 @@
 - [https://www.fileviewpro.com/zh-cn](https://www.fileviewpro.com/zh-cn)
 - [https://alternativeto.net](https://alternativeto.net)
 - [https://github.com/aaronparker/evergreen](https://github.com/aaronparker/evergreen)
+- 音量滚轮 [https://github.com/dvingerh/tb-vol-scroll](https://github.com/dvingerh/tb-vol-scroll)
+- 开源软件 [https://meta.appinn.net/t/topic/21676](https://meta.appinn.net/t/topic/21676)
+- 鼠标手势 [https://docs.shuax.com/MouseInc](https://docs.shuax.com/MouseInc)
+- 鼠标手势 [https://meta.appinn.net/t/topic/18180/19](https://meta.appinn.net/t/topic/18180/19)
+- 通知栏背词 [https://github.com/uahh/toastfish](https://github.com/uahh/toastfish)
+- 微信备份 [https://github.com/git-jiadong/wechatdatabackup](https://github.com/git-jiadong/wechatdatabackup)
+- 文件转换 [https://github.com/tichau/fileconverter](https://github.com/tichau/fileconverter)
+- 任务栏透明 [https://github.com/translucenttb/translucenttb](https://github.com/translucenttb/translucenttb)
+- 多开微信 [https://github.com/wfql1024/multiwechatmanager](https://github.com/wfql1024/multiwechatmanager)
+- 番茄钟 [https://github.com/vladelaina/catime](https://github.com/vladelaina/catime)
+- 磁盘恢复 [https://www.r-studio.com/zhcn](https://www.r-studio.com/zhcn)
+- 触控板鼠标工具 [https://github.com/esporttoys](https://github.com/esporttoys)
 
 
 **博客**
@@ -150,6 +162,9 @@
 - Instagram [https://github.com/jigar-sable/instagram-mern](https://github.com/jigar-sable/instagram-mern)
 - [https://github.com/Linen-dev](https://github.com/Linen-dev)
 - [https://github.com/lensterxyz/lenster](https://github.com/lensterxyz/lenster)
+- 微信机器人 [https://github.com/ljc545w/comwechatrobot](https://github.com/ljc545w/comwechatrobot)
+- 聊天客户端 [https://github.com/vector-im/element-web](https://github.com/vector-im/element-web)
+- 微信机器人 [https://github.com/wechatferry/wechatferry](https://github.com/wechatferry/wechatferry)
 
 
 **Telegram**
@@ -286,6 +301,21 @@
     * [http://ed2k.im/nodes.dat](http://ed2k.im/nodes.dat)
 * [https://github.com/pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus)
 * [https://sourceforge.net/projects/frostwire](https://sourceforge.net/projects/frostwire)
+* 下载激活 [https://github.com/windowsaddict/idm-activation-script](https://github.com/windowsaddict/idm-activation-script)
+* 下载激活 [https://github.com/lstprjct/idm-activation-script](https://github.com/lstprjct/idm-activation-script)
+* 剧集管理器 [https://github.com/sonarr/sonarr](https://github.com/sonarr/sonarr)
+* 下载器 [https://github.com/filecxx/filecentipede](https://github.com/filecxx/filecentipede)
+* 下载链接转换 [https://github.com/helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https)
+* BT下载 [https://dev.deluge-torrent.org](https://dev.deluge-torrent.org)
+* 高速下载 [https://github.com/gopeedlab/gopeed](https://github.com/gopeedlab/gopeed)
+* 古籍下载 [https://github.com/deweizhu/bookget](https://github.com/deweizhu/bookget)
+* 下载加速 [https://github.com/aochagavia/toy-download-accelerator](https://github.com/aochagavia/toy-download-accelerator)
+* 下载管理器 [https://filecxx.com](https://filecxx.com)
+* 媒体下载 [https://github.com/mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)
+* 下载管理器 [https://github.com/giantpinkrobots/varia](https://github.com/giantpinkrobots/varia)
+* 跨站做种 [https://github.com/cross-seed/cross-seed](https://github.com/cross-seed/cross-seed)
+* m3u8下载 [https://github.com/zhiyiyo/fluent-m3u8](https://github.com/zhiyiyo/fluent-m3u8)
+* 视频下载 [https://github.com/caorushizi/mediago](https://github.com/caorushizi/mediago)
 
 
 **磁力搜索**
@@ -344,6 +374,7 @@
 * [https://github.com/1265578519/OpenTracker](https://github.com/1265578519/OpenTracker)
 * [http://opentrackr.org](http://opentrackr.org)
 * [https://github.com/sabersalv/awesome-pt](https://github.com/sabersalv/awesome-pt)
+* BT索引器 [https://github.com/jackett/jackett](https://github.com/jackett/jackett)
 
 
 **迅雷**
@@ -476,6 +507,60 @@
 - [https://github.com/iv-org/invidious](https://github.com/iv-org/invidious)
 - 直播录制 [https://github.com/WhiteMinds/LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord)
 - [https://github.com/chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+- 录屏GIF [https://github.com/nickemanarin/screentogif](https://github.com/nickemanarin/screentogif)
+- GIF录屏 [https://github.com/aardio/gif123](https://github.com/aardio/gif123)
+- 交互乐谱 [https://github.com/ossia/score](https://github.com/ossia/score)
+- 媒体服务 [https://github.com/misakafxxk/misakaf_emby](https://github.com/misakafxxk/misakaf_emby)
+- 媒体管理 [https://github.com/dusk-labs/dim](https://github.com/dusk-labs/dim)
+- 视频监控 [https://github.com/dlandon/zoneminder.machine.learning](https://github.com/dlandon/zoneminder.machine.learning)
+- 媒体代理 [https://github.com/luckypuppy514/jproxy](https://github.com/luckypuppy514/jproxy)
+- 媒体服务器 [https://github.com/cloudbox/cloudbox](https://github.com/cloudbox/cloudbox)
+- 音频同步 [https://github.com/haileys/bark](https://github.com/haileys/bark)
+- 媒体管理指南 [https://github.com/trash-/guides](https://github.com/trash-/guides)
+- 媒体百科 [https://github.com/servarr/wiki](https://github.com/servarr/wiki)
+- 媒体请求 [https://github.com/tidusjar/ombi](https://github.com/tidusjar/ombi)
+- 电影管理 [https://github.com/radarr/radarr](https://github.com/radarr/radarr)
+- 媒体请求 [https://github.com/sct/overseerr](https://github.com/sct/overseerr)
+- 媒体请求 [https://github.com/fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr)
+- 通知脚本 [https://github.com/canoziia/sonarrnotification](https://github.com/canoziia/sonarrnotification)
+- 视频转码 [https://github.com/handbrake/handbrake](https://github.com/handbrake/handbrake)
+- 媒体播放器 [https://github.com/clsid2/mpc-hc/releases](https://github.com/clsid2/mpc-hc/releases)
+- 音乐服务器 [https://github.com/navidrome/navidrome](https://github.com/navidrome/navidrome)
+- 音乐播放器 [https://github.com/zhongyang219/musicplayer2](https://github.com/zhongyang219/musicplayer2)
+- 音乐伴奏 [https://github.com/jjazzboss/jjazzlab-x](https://github.com/jjazzboss/jjazzlab-x)
+- 白噪音应用 [https://github.com/jenius-apps/ambie](https://github.com/jenius-apps/ambie)
+- 音量控制 [https://github.com/file-new-project/eartrumpet](https://github.com/file-new-project/eartrumpet)
+- 媒体中心 [https://github.com/xbmc/xbmc](https://github.com/xbmc/xbmc)
+- 虚拟声卡 [https://vb-audio.com/Cable](https://vb-audio.com/Cable)
+- 弹幕播放器 [https://github.com/kikoplayproject/kikoplay](https://github.com/kikoplayproject/kikoplay)
+- 视频播放器 [https://mpv.io/installation](https://mpv.io/installation)
+- FFmpeg原理 [https://ffmpeg.xianwaizhiyin.net](https://ffmpeg.xianwaizhiyin.net)
+- 视频推流 [https://www.cnblogs.com/2944014083-zhiyu/p/14873976.html](https://www.cnblogs.com/2944014083-zhiyu/p/14873976.html)
+- 视频推拉流 [https://www.jianshu.com/p/6f6d7d336353](https://www.jianshu.com/p/6f6d7d336353)
+- 流媒体协议 [https://www.cnblogs.com/innershare/p/10845142.html](https://www.cnblogs.com/innershare/p/10845142.html)
+- 视频转换 [https://www.any-video-converter.com/cn](https://www.any-video-converter.com/cn)
+- FFmpeg界面 [https://github.com/Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)
+- 音频混音 [https://voicemeeter.com/voicemeeter-for-online-conferencing](https://voicemeeter.com/voicemeeter-for-online-conferencing)
+- 音视频处理 [https://github.com/arenascats/MarukoToolbox-Rewrite](https://github.com/arenascats/MarukoToolbox-Rewrite)
+- 投屏工具 [https://github.com/stupside/castor](https://github.com/stupside/castor)
+- 视频流媒体 [https://www.plex.tv](https://www.plex.tv)
+- 媒体服务器 [https://github.com/zoriya/kyoo](https://github.com/zoriya/kyoo)
+- 屏幕录制 [https://github.com/lihaoyun6/quickrecorder](https://github.com/lihaoyun6/quickrecorder)
+- 直播录制 [https://github.com/hua0512/stream-rec](https://github.com/hua0512/stream-rec)
+- IPTV源 [https://github.com/guovin/tv](https://github.com/guovin/tv)
+- 视频处理 [https://github.com/271374667/videofusion](https://github.com/271374667/videofusion)
+- 视频搜索 [https://github.com/bestzwei/libretv](https://github.com/bestzwei/libretv)
+- 歌声合成 [https://github.com/stakira/openutau](https://github.com/stakira/openutau)
+- 音乐播放 [https://github.com/BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
+- 电视播放 [https://github.com/orion-lib/OrionTV](https://github.com/orion-lib/OrionTV)
+- 音频串流 [https://github.com/std-microblock/audivis-relay](https://github.com/std-microblock/audivis-relay)
+- 音频编辑器 [https://github.com/audacium/audacium](https://github.com/audacium/audacium)
+- FFmpeg命令 [https://amiaopensource.github.io/ffmprovisr](https://amiaopensource.github.io/ffmprovisr)
+- 录屏工具 [https://www.cockos.com/licecap](https://www.cockos.com/licecap)
+- 弹幕追番 [https://github.com/open-ani/ani](https://github.com/open-ani/ani)
+- IPTV播放 [https://github.com/4gray/iptvnator](https://github.com/4gray/iptvnator)
+- 网易云播放 [https://github.com/qier222/yesplaymusic](https://github.com/qier222/yesplaymusic)
+- 音乐播放器 [https://github.com/losses/rune](https://github.com/losses/rune)
 
 
 **Potplayer**
@@ -648,6 +733,12 @@
 * 模拟iPhone截图 [https://shots.so](https://shots.so)
 * [https://app.jellylade.com](https://app.jellylade.com)
 * [图片分割工具带实时预览](https://www.52pojie.cn/thread-2077339-1-1.html)
+* 截图工具 [https://github.com/yeahitsjan/pawxel](https://github.com/yeahitsjan/pawxel)
+* 截屏搜索 [https://github.com/xushengfeng/esearch](https://github.com/xushengfeng/esearch)
+* 截屏工具 [https://github.com/poerin/Screenote](https://github.com/poerin/Screenote)
+* 截屏工具 [https://github.com/xland/ScreenCapture](https://github.com/xland/ScreenCapture)
+* 图片编辑器 [https://github.com/CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)
+* 图片查看器 [https://github.com/jark006/jarkviewer](https://github.com/jark006/jarkviewer)
 
 
 **Icon矢量图**
@@ -841,6 +932,8 @@
     * [7-ZIP SFX Maker v3.3 完整汉化版](https://www.52pojie.cn/thread-1133336-1-1.html)
     * [7-ZIP SFX Maker v3.3 完美汉化版](https://www.52pojie.cn/thread-1136281-1-1.html)
 * [https://sourceforge.net/projects/s-zipsfxbuilder](https://sourceforge.net/projects/s-zipsfxbuilder)
+* 安装包工具 [https://github.com/wixtoolset/wix4](https://github.com/wixtoolset/wix4)
+* MSIX打包 [https://apps.microsoft.com/store/detail/9N5LW3JBCXKF](https://apps.microsoft.com/store/detail/9N5LW3JBCXKF)
 
 
 
@@ -901,6 +994,8 @@
     [Product]
     IcFjFBshxFLQCPSDLPAlXA..=t214Nk2CiIjrcDPrikX5Iw..
     ```
+* Office工具 [https://github.com/odysseusyuan/lky_officetools](https://github.com/odysseusyuan/lky_officetools)
+* Office激活 [https://github.com/asdcorp/ohook](https://github.com/asdcorp/ohook)
 
 **wps key**
 
@@ -933,6 +1028,7 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * [https://github.com/Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu)
     * [https://github.com/coddec/Classic-Shell](https://github.com/coddec/Classic-Shell)
 * [https://www.startisback.com](https://www.startisback.com)
+* 快速启动 [https://github.com/flow-launcher/flow.launcher](https://github.com/flow-launcher/flow.launcher)
 
 
 
@@ -975,6 +1071,9 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 
 - [https://copiedapp.com](https://copiedapp.com)
 - [一个实用的剪贴板小工具——TimeClip](https://www.devsong.org/article/127)
+- 剪贴板工具 [https://github.com/slackdays/clipboard](https://github.com/slackdays/clipboard)
+- 剪贴板管理 [https://github.com/saumsy/Macboard](https://github.com/saumsy/Macboard)
+- 剪贴板管理 [https://github.com/ayangweb/ecopaste](https://github.com/ayangweb/ecopaste)
 
 
 
@@ -1018,6 +1117,7 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * [https://www.twobird.com](https://www.twobird.com)
 * [https://sparkmailapp.com](https://sparkmailapp.com)
 * Outlook 使用时有自动删除邮件的BUG
+* 邮件客户端 [https://github.com/cypht-org/cypht](https://github.com/cypht-org/cypht)
 
 
 
@@ -1071,6 +1171,15 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 
 
 - ScreenWings 反截屏
+- 远程控制 [https://github.com/wisny101/rdviewer](https://github.com/wisny101/rdviewer)
+- 远程管理 [https://github.com/1remote/premotem](https://github.com/1remote/premotem)
+- 远程桌面 [https://github.com/freerdp/freerdp/wiki/prebuilds](https://github.com/freerdp/freerdp/wiki/prebuilds)
+- 远程桌面 [https://github.com/freerdp/freerdp](https://github.com/freerdp/freerdp)
+- 远程控制 [https://github.com/cescobaz/fullcontrolx](https://github.com/cescobaz/fullcontrolx)
+- 远程桌面 [https://github.com/1remote/1remote](https://github.com/1remote/1remote)
+- 远程桌面 [https://github.com/mirrorx-desktop/mirrorx](https://github.com/mirrorx-desktop/mirrorx)
+- 远程连接 [https://github.com/mremoteng/mremoteng](https://github.com/mremoteng/mremoteng)
+- 手机控电脑 [https://github.com/smilexizheng/mobile-pc-control-server](https://github.com/smilexizheng/mobile-pc-control-server)
 
 
 
@@ -1168,6 +1277,17 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * 数据恢复 [https://github.com/wlzh/DiskRescue](https://github.com/wlzh/DiskRescue)
 * [https://www.cgsecurity.org/wiki/TestDisk_CN](https://www.cgsecurity.org/wiki/TestDisk_CN)
 * [https://www.ccleaner.com/zh-cn/recuva](https://www.ccleaner.com/zh-cn/recuva)
+* 搜索工具栏 [https://github.com/stnkl/everythingtoolbar](https://github.com/stnkl/everythingtoolbar)
+* 文件管理 [https://github.com/aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+* 文件管理 [https://github.com/tagspaces/tagspaces](https://github.com/tagspaces/tagspaces)
+* 文件管理 [https://github.com/files-community/files](https://github.com/files-community/files)
+* 终端文件管 [https://github.com/giorgosxou/tuifimanager](https://github.com/giorgosxou/tuifimanager)
+* 文件恢复 [https://www.microsoft.com/store/productId/9N26S50LN705](https://www.microsoft.com/store/productId/9N26S50LN705)
+* 缩略图扩展 [https://github.com/Xanashi/Icaros](https://github.com/Xanashi/Icaros)
+* 文件转换 [https://github.com/Tichau/FileConverter](https://github.com/Tichau/FileConverter)
+* 磁盘占用 [https://grandperspectiv.sourceforge.net](https://grandperspectiv.sourceforge.net)
+* 文件搜索 [https://github.com/Pixel-Master/File-Find](https://github.com/Pixel-Master/File-Find)
+* 备份软件 [https://kopia.io](https://kopia.io)
 
 
 
@@ -1239,6 +1359,8 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * [https://www.iobit.com](https://www.iobit.com)
 * [http://www.emptyloop.com/unlocker](http://www.emptyloop.com/unlocker)
     * [https://github.com/ez8-co/unlocker](https://github.com/ez8-co/unlocker)
+* 微信清理 [https://github.com/blackboxo/cleanmywechat](https://github.com/blackboxo/cleanmywechat)
+* 内存清理 [https://github.com/henrypp/memreduct](https://github.com/henrypp/memreduct)
 
 
 
@@ -1297,6 +1419,12 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * [https://www.authenticid.com/products/identity-pass](https://www.authenticid.com/products/identity-pass)
 * [https://github.com/hazcod/enpass-cli](https://github.com/hazcod/enpass-cli)
 * [https://github.com/OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)
+* 密码管理 [https://github.com/padloc/padloc](https://github.com/padloc/padloc)
+* 密码管理 [https://github.com/biox/pa](https://github.com/biox/pa)
+* 密码管理 [https://github.com/saumitralohokare/you-shall-pass](https://github.com/saumitralohokare/you-shall-pass)
+* 密码管理 [https://github.com/gopasspw/gopass](https://github.com/gopasspw/gopass)
+* 密码管理 [https://github.com/Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+* 密码管理器 [https://github.com/protonpass](https://github.com/protonpass)
 
 
 
@@ -1363,6 +1491,11 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * CoolEjectUSB [https://github.com/nckstwrt/USBEject](https://github.com/nckstwrt/USBEject)
 * [https://www.aignes.com/psmenu.htm](https://www.aignes.com/psmenu.htm)
 * 风扇控制 [https://github.com/Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases)
+* 系统监控 [https://github.com/zhongyang219/trafficmonitor](https://github.com/zhongyang219/trafficmonitor)
+* 硬件监控 [https://github.com/librehardwaremonitor/librehardwaremonitor](https://github.com/librehardwaremonitor/librehardwaremonitor)
+* 风扇控制 [https://github.com/rem0o/fancontrol.releases](https://github.com/rem0o/fancontrol.releases)
+* GPU压测 [https://www.geeks3d.com/furmark](https://www.geeks3d.com/furmark)
+* 鼠标DPI [https://github.com/mgth/littlebigmouse](https://github.com/mgth/littlebigmouse)
 
 
 
@@ -1512,4 +1645,37 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 + [https://github.com/cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet)
 + [有哪些可以替代常用软件的开源软件？](https://www.zhihu.com/question/20161085)
 + 教学资源 [https://github.com/52beijixing/smartedu-download](https://github.com/52beijixing/smartedu-download)
++ 系统弹窗 [https://github.com/firecubestudios/fluentflyouts3](https://github.com/firecubestudios/fluentflyouts3)
++ 手势识别 [https://github.com/transposony/gesturesign](https://github.com/transposony/gesturesign)
++ 鼠标手势 [https://github.com/poerin/Stroke](https://github.com/poerin/Stroke)
++ 电子书阅读器 [https://github.com/troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)
++ 翻译软件 [https://github.com/inktimerecord/ttime](https://github.com/inktimerecord/ttime)
++ 打字音效 [https://github.com/orhun/daktilo](https://github.com/orhun/daktilo)
++ 待办管理器 [https://github.com/ransome1/sleek](https://github.com/ransome1/sleek)
++ Steam挂卡工具 [https://github.com/justarchinet/archisteamfarm](https://github.com/justarchinet/archisteamfarm)
++ 3D CAD查看器 [https://github.com/fougue/mayo](https://github.com/fougue/mayo)
++ 终端模拟 [https://github.com/felixse/fluentterminal](https://github.com/felixse/fluentterminal)
++ 输入自动化 [https://github.com/repeats/repeat](https://github.com/repeats/repeat)
++ 窗口管理 [https://github.com/klesh/jigsawwm](https://github.com/klesh/jigsawwm)
++ 游戏工具箱 [https://github.com/beyonddimension/steamtools](https://github.com/beyonddimension/steamtools)
++ 桌面工具箱 [https://github.com/rubickcenter/rubick](https://github.com/rubickcenter/rubick)
++ 桌面助手 [https://github.com/aardio/imtip](https://github.com/aardio/imtip)
++ 输入法切换 [https://github.com/flyinclouds/kblautoswitch](https://github.com/flyinclouds/kblautoswitch)
++ E5续订 [https://e5renew.com](https://e5renew.com)
++ 屏幕记忆 [https://github.com/yuka-friends/windrecorder](https://github.com/yuka-friends/windrecorder)
++ 包管理工具 [https://github.com/marticliment/wingetui](https://github.com/marticliment/wingetui)
++ 语音输入 [https://github.com/yan5xu/ququ](https://github.com/yan5xu/ququ)
++ 智能日记 [https://github.com/UdaraJay/Pile](https://github.com/UdaraJay/Pile)
++ 屏幕标注 [https://github.com/DmytroVasin/DrawPen](https://github.com/DmytroVasin/DrawPen)
++ 词典应用 [https://github.com/ahpxex/Aictionary](https://github.com/ahpxex/Aictionary)
++ 快捷启动器 [https://github.com/oliverschwendener/ueli](https://github.com/oliverschwendener/ueli)
++ 自动登录 [https://github.com/JonBunator/Enterr](https://github.com/JonBunator/Enterr)
++ 语音输入 [https://github.com/josiahsrc/voquill](https://github.com/josiahsrc/voquill)
++ 白板应用 [https://github.com/kiraaziz/Neoflow](https://github.com/kiraaziz/Neoflow)
++ 语音输入 [https://github.com/appergb/openless](https://github.com/appergb/openless)
++ 按键可视化 [https://github.com/zetaloop/keyviz](https://github.com/zetaloop/keyviz)
++ 鼠标连点 [https://github.com/lalakii/mouseclicktool](https://github.com/lalakii/mouseclicktool)
++ 输入法 [https://github.com/idvel/rime-ice](https://github.com/idvel/rime-ice)
++ 按键可视化 [https://github.com/mularahul/keyviz](https://github.com/mularahul/keyviz)
++ 桌面启动器 [https://github.com/bookerliu/geekdesk](https://github.com/bookerliu/geekdesk)
 

@@ -33,6 +33,39 @@
 
 - [https://github.com/wingscloud](https://github.com/wingscloud)
 - 部署同步 [https://github.com/Browsersync/browser-sync](https://github.com/Browsersync/browser-sync)
+- JS工具链 [https://github.com/web-infra-dev/oxc](https://github.com/web-infra-dev/oxc)
+- 脚本隔离 [https://github.com/builderio/partytown](https://github.com/builderio/partytown)
+- 角标API [https://segmentfault.com/a/1190000042288003](https://segmentfault.com/a/1190000042288003)
+- 兼容适配 [https://segmentfault.com/a/1190000042301384](https://segmentfault.com/a/1190000042301384)
+- 性能优化 [https://segmentfault.com/a/1190000042529771](https://segmentfault.com/a/1190000042529771)
+- JS工具链 [https://github.com/rome/tools](https://github.com/rome/tools)
+- JS检查器 [https://github.com/eslint/eslint](https://github.com/eslint/eslint)
+- SSR设计 [https://www.codesky.me/archives/frontend-ssr-system-design.wind](https://www.codesky.me/archives/frontend-ssr-system-design.wind)
+- 渲染模式 [https://mburakerman.github.io/blog/web-rendering-patterns](https://mburakerman.github.io/blog/web-rendering-patterns)
+- GUI与CLI交互 [https://mp.weixin.qq.com/s/UmzeZip3KtHH44dkiijujg](https://mp.weixin.qq.com/s/UmzeZip3KtHH44dkiijujg)
+- 浏览器容器 [https://webcontainers.io](https://webcontainers.io)
+- SPA应用 [https://segmentfault.com/a/1190000043570065](https://segmentfault.com/a/1190000043570065)
+- 单行代码 [https://github.com/phuocng/1loc](https://github.com/phuocng/1loc)
+- 状态管理 [https://github.com/mobxjs/mobx](https://github.com/mobxjs/mobx)
+- 太阳系模拟 [https://github.com/qunabu/Gravity](https://github.com/qunabu/Gravity)
+- 太阳系模拟 [https://gravity.appinn.com](https://gravity.appinn.com)
+- 体积渲染 [https://volumeshader.org/zh](https://volumeshader.org/zh)
+- JS博客 [https://blog.mazey.net](https://blog.mazey.net)
+- 表白代码 [https://github.com/sun0225sun/awesome-love-code](https://github.com/sun0225sun/awesome-love-code)
+- 游戏复刻 [https://github.com/gorisanson/pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball)
+- 音视频图谱 [https://github.com/hughfenghen/webav-knowledgegraph](https://github.com/hughfenghen/webav-knowledgegraph)
+- WebGPU光追 [https://github.com/lisyarus/webgpu-raytracer](https://github.com/lisyarus/webgpu-raytracer)
+- 性能优化 [https://segmentfault.com/a/1190000045178676](https://segmentfault.com/a/1190000045178676)
+- Babel原理 [https://mp.weixin.qq.com/s/cyOyB9-Q5Gz2xhQd0Kkwpg](https://mp.weixin.qq.com/s/cyOyB9-Q5Gz2xhQd0Kkwpg)
+- WebGPU教程 [https://shi-yan.github.io/webgpuunleashed](https://shi-yan.github.io/webgpuunleashed)
+- WebRTC实验 [https://github.com/muaz-khan/webrtc-experiment](https://github.com/muaz-khan/webrtc-experiment)
+- WebGL入门 [https://segmentfault.com/a/1190000044048120](https://segmentfault.com/a/1190000044048120)
+- 渲染引擎 [https://segmentfault.com/a/1190000044106754](https://segmentfault.com/a/1190000044106754)
+- 音视频处理 [https://hughfenghen.github.io/posts/2023/07/16/webav-0-overview](https://hughfenghen.github.io/posts/2023/07/16/webav-0-overview)
+- 地理可视化 [https://github.com/antvis/l7vp](https://github.com/antvis/l7vp)
+- Telegram下载 [https://github.com/neet-nestor/telegram-media-downloader](https://github.com/neet-nestor/telegram-media-downloader)
+- 摩斯电码 [https://github.com/etherdream/headphone-morse-transmitter](https://github.com/etherdream/headphone-morse-transmitter)
+- WebRTC [https://github.com/webrtchacks](https://github.com/webrtchacks)
 
 
 **js运行时/js引擎/JavaScript运行时/JavaScript引擎**
@@ -62,6 +95,14 @@
 - [https://github.com/gwtproject/gwt](https://github.com/gwtproject/gwt)
 - [https://github.com/CanadaHonk/porffor](https://github.com/CanadaHonk/porffor)
 - [https://github.com/theMackabu/ant](https://github.com/theMackabu/ant)
+- 嵌入式JS引擎 [https://github.com/coder-mike/microvium](https://github.com/coder-mike/microvium)
+- JS运行时 [https://github.com/denoland/roll-your-own-javascript-runtime](https://github.com/denoland/roll-your-own-javascript-runtime)
+- JS运行时 [https://wintercg.org](https://wintercg.org)
+- V8编译 [https://developer.aliyun.com/article/835852](https://developer.aliyun.com/article/835852)
+- V8引擎 [https://king-hcj.github.io/2020/10/05/google-v8](https://king-hcj.github.io/2020/10/05/google-v8)
+- JS运行时 [https://github.com/wasmerio/winterjs](https://github.com/wasmerio/winterjs)
+- JS引擎 [https://github.com/topchetoeu/jscript](https://github.com/topchetoeu/jscript)
+- 嵌入式JS引擎 [https://github.com/bellard/mquickjs](https://github.com/bellard/mquickjs)
 
 
 
@@ -118,6 +159,23 @@
 - [ES6、ES7、ES8特性一锅炖(ES6、ES7、ES8学习指南)](https://juejin.cn/post/6844903679976275976)
 - [ES6、ES7、ES8、ES9、ES10新特性一览](https://juejin.cn/post/6844903811622912014)
 - [页面生命周期：DOMContentLoaded，load，beforeunload，unload](https://zh.javascript.info/onload-ondomcontentloaded)
+- JS技术栈教程 [https://github.com/wooo-on/js-stack-from-scratch](https://github.com/wooo-on/js-stack-from-scratch)
+- JS概念学习 [https://github.com/stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts)
+- JS思维导图 [https://github.com/coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic)
+- JS教程 [https://github.com/sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript)
+- JS挑战 [https://github.com/sunny-117/js-challenges](https://github.com/sunny-117/js-challenges)
+- 前端学习 [https://github.com/hejialianghe/seniorfrontend](https://github.com/hejialianghe/seniorfrontend)
+- JS面试题 [https://github.com/snieda26/javascript-questions-output](https://github.com/snieda26/javascript-questions-output)
+- 前端知识 [https://github.com/sorrycc/chinese-f2e-developer](https://github.com/sorrycc/chinese-f2e-developer)
+- ES6学习 [https://wangtunan.github.io/blog/books/javascript/es6.html](https://wangtunan.github.io/blog/books/javascript/es6.html)
+- SICP学习 [https://sourceacademy.org/sicpjs/index](https://sourceacademy.org/sicpjs/index)
+- 前端面试 [https://coffe1891.gitbook.io/frontend-hard-mode-interview](https://coffe1891.gitbook.io/frontend-hard-mode-interview)
+- JS学习 [https://github.com/swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript)
+- JS代码片段 [https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+- 前端面试 [https://github.com/hzfe/awesome-interview](https://github.com/hzfe/awesome-interview)
+- 全栈教程 [https://github.com/fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
+- 性能测试 [https://github.com/rd13/jsperf.app](https://github.com/rd13/jsperf.app)
+- 前端知识 [https://github.com/liugezhou/daydayup](https://github.com/liugezhou/daydayup)
 
 
 **模块规范**
@@ -221,6 +279,7 @@ var express = require('express');
 ```html
 <script type="module" src="/static/js/index.js"></script>
 ```
+* 模块规范 [https://github.com/defunctzombie/package-browser-field-spec](https://github.com/defunctzombie/package-browser-field-spec)
 
 
 
@@ -242,6 +301,9 @@ var express = require('express');
 
 
 - [基于 Webpack Module Federation，这可能是一个比较优雅的微前端解决方案](https://juejin.cn/post/7020607552190677000)
+- 前端架构 [https://www.phodal.com/literature/frontend-architecture-from-basic-to-microservices](https://www.phodal.com/literature/frontend-architecture-from-basic-to-microservices)
+- 模块联邦 [https://segmentfault.com/a/1190000043947731](https://segmentfault.com/a/1190000043947731)
+- 微前端 [https://segmentfault.com/a/1190000044225816](https://segmentfault.com/a/1190000044225816)
 
 
 
@@ -304,6 +366,11 @@ var express = require('express');
 * [https://github.com/jerosoler/ts2js](https://github.com/jerosoler/ts2js)
 * [https://www.gitloop.com/tool/typescript-to-javascript](https://www.gitloop.com/tool/typescript-to-javascript)
 * [https://extendsclass.com/typescript-to-javascript.html](https://extendsclass.com/typescript-to-javascript.html)
+* 消息进程 [https://github.com/natebuckareff/chronoflow](https://github.com/natebuckareff/chronoflow)
+* TS类型挑战 [https://github.com/type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+* TS开发工具 [https://github.com/jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx)
+* TS编译器 [https://github.com/marcj/typerunner](https://github.com/marcj/typerunner)
+* 类型安全 [https://github.com/true-myth/true-myth](https://github.com/true-myth/true-myth)
 
 
 
@@ -361,4 +428,16 @@ var express = require('express');
 * go [https://github.com/JohnStarich/go-wasm](https://github.com/JohnStarich/go-wasm)
 * [https://github.com/tetratelabs](https://github.com/tetratelabs)
 * python [https://github.com/pyodide/pyodide](https://github.com/pyodide/pyodide)
-* TypeScript [https://github.com/AssemblyScript](https://github.com/AssemblyScript)
+* WASM运行 [https://github.com/bots-garden/capsule](https://github.com/bots-garden/capsule)
+* 代码保护 [https://github.com/cunev/byteweb](https://github.com/cunev/byteweb)
+* Wasm工具 [https://github.com/fastvm/web49](https://github.com/fastvm/web49)
+* WASM解析 [https://github.com/wasdk/wasmparser](https://github.com/wasdk/wasmparser)
+* WASM运行时 [https://github.com/wasmerio/wasmer](https://github.com/wasmerio/wasmer)
+* WASM运行时 [https://github.com/wasmedge/wasmedge](https://github.com/wasmedge/wasmedge)
+* WASM框架 [https://github.com/extism/extism](https://github.com/extism/extism)
+* WebGPU [https://webgpufundamentals.org](https://webgpufundamentals.org)
+* WASM绑定 [https://bytecodealliance.github.io/wit-bindgen](https://bytecodealliance.github.io/wit-bindgen)
+* WASM框架 [https://developer.fermyon.com/spin](https://developer.fermyon.com/spin)
+* WASM汇编 [https://evian-zhang.github.io/wasm-tutorial](https://evian-zhang.github.io/wasm-tutorial)
+* 浏览器Clang [https://github.com/tbfleming/cib](https://github.com/tbfleming/cib)
+* JS编译器 [https://github.com/canadahonk/porffor](https://github.com/canadahonk/porffor)
