@@ -400,6 +400,7 @@ taskkill /f /im chromedriver.exe
 * 浏览器插件 [https://lutaonan.com/blog/my-extension-sold-1k-yuan](https://lutaonan.com/blog/my-extension-sold-1k-yuan)
 * 广告拦截 [https://github.com/ublockorigin/ubol-home](https://github.com/ublockorigin/ubol-home)
 * 浏览器扩展 [https://github.com/polywock](https://github.com/polywock)
+* Chrome插件 [https://my.oschina.net/yunqi/blog/10319584](https://my.oschina.net/yunqi/blog/10319584)
 
 
 

@@ -597,6 +597,7 @@
 * Redis哨兵监控 [https://juejin.cn/post/7118303073868447781](https://juejin.cn/post/7118303073868447781)
 * HyperLogLog计数 [https://juejin.cn/post/6844903785744056333](https://juejin.cn/post/6844903785744056333)
 * Redis架构演化 [https://weibo.com/ttarticle/x/m/show/id/2309404796118843392788](https://weibo.com/ttarticle/x/m/show/id/2309404796118843392788)
+* 定长队列 [https://my.oschina.net/vivotech/blog/5562479](https://my.oschina.net/vivotech/blog/5562479)
 
 
 **存储方式**

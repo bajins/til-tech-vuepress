@@ -29,6 +29,7 @@
 * 表结构迁移 [https://github.com/github/gh-ost](https://github.com/github/gh-ost)
 * MySQL分支 [https://gitee.com/GreatSQL/GreatSQL](https://gitee.com/GreatSQL/GreatSQL)
 * MySQL调优 [https://github.com/advancedmysql/the-art-of-problem-solving-in-software-engineering_how-to-make-mysql-better](https://github.com/advancedmysql/the-art-of-problem-solving-in-software-engineering_how-to-make-mysql-better)
+* 事务日志 [https://my.oschina.net/u/4893843/blog/5533822](https://my.oschina.net/u/4893843/blog/5533822)
 
 
 **MySQL优化工具**

@@ -282,6 +282,7 @@ try:
 except ValueError:
     print('Async Error')
 ```
+* asyncio优化 [https://my.oschina.net/fantix/blog/5538389](https://my.oschina.net/fantix/blog/5538389)
 
 
 

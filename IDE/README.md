@@ -690,6 +690,7 @@
 - 绘图工具 [https://github.com/shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming)
 - Axure组件 [https://gitee.com/bosenger/VuxAxure](https://gitee.com/bosenger/VuxAxure)
 - UML绘图 [https://plantuml.com](https://plantuml.com)
+- 设计系统 [https://tuulih6pyq.feishu.cn/wiki/S049wckCTiOYxykwXqYcALJznqf](https://tuulih6pyq.feishu.cn/wiki/S049wckCTiOYxykwXqYcALJznqf)
 
 
 **本地客户端**

@@ -155,6 +155,8 @@ java -Djavax.net.debug=all -Xdebug -Xnoagent -Djava.compiler=NONE \
 * JIT分析 [https://github.com/adoptopenjdk/jitwatch](https://github.com/adoptopenjdk/jitwatch)
 * Java性能分析 [https://github.com/jvm-profiling-tools/async-profiler](https://github.com/jvm-profiling-tools/async-profiler)
 * JVM内存 [https://mp.weixin.qq.com/s/qfsY7fk_-rMdXPGYb766PA](https://mp.weixin.qq.com/s/qfsY7fk_-rMdXPGYb766PA)
+* 内存溢出 [https://my.oschina.net/u/4090830/blog/10141303](https://my.oschina.net/u/4090830/blog/10141303)
+* 垃圾回收 [https://my.oschina.net/u/5783135/blog/10120461](https://my.oschina.net/u/5783135/blog/10120461)
 
 
 
