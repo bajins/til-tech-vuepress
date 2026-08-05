@@ -343,6 +343,7 @@
 * 图像滤镜 [https://github.com/sammycage/plutofilter](https://github.com/sammycage/plutofilter)
 * 算法库 [https://fragglet.github.io/c-algorithms/doc/index.html](https://fragglet.github.io/c-algorithms/doc/index.html)
 * C基础库 [https://github.com/quelsolaar](https://github.com/quelsolaar)
+* 协程控制库 [https://github.com/koka-lang/libmprompt](https://github.com/koka-lang/libmprompt)
 
 
 
@@ -414,6 +415,7 @@
 * 字体渲染 [https://github.com/freetype/freetype](https://github.com/freetype/freetype)
 * FreeType库 [https://github.com/ubawurinna/freetype-windows-binaries](https://github.com/ubawurinna/freetype-windows-binaries)
 * 2D游戏引擎 [https://github.com/phoboslab/high_impact](https://github.com/phoboslab/high_impact)
+* FFmpeg管理器 [https://github.com/rebebuca/rebebuca](https://github.com/rebebuca/rebebuca)
 
 
 **其他**
@@ -452,4 +454,5 @@
 > Visual C++（简称 MSVC）是由微软开发的，只能用于 Windows 操作系统；GCC 和 LLVM Clang 除了可用于 Windows 操作系统之外，主要用于 Unix/Linux 操作系统。
 * 交互编程 [https://github.com/hanoglu/termic](https://github.com/hanoglu/termic)
 * GIS软件 [https://github.com/osgeo/grass](https://github.com/osgeo/grass)
+* 开源BIOS [https://github.com/pwk4m1/tinybios](https://github.com/pwk4m1/tinybios)
 

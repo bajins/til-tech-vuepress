@@ -151,6 +151,7 @@
 - 翻译库 [https://github.com/UlionTse/translators](https://github.com/UlionTse/translators)
 - 字体工具 [https://fonttools.readthedocs.io](https://fonttools.readthedocs.io)
 - 终端特效 [https://github.com/chrisbuilds/terminaltexteffects](https://github.com/chrisbuilds/terminaltexteffects)
+- Python网络库 [https://github.com/mobiletelesystems/ambrosia](https://github.com/mobiletelesystems/ambrosia)
 
 
 

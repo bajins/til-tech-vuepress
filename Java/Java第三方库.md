@@ -381,6 +381,7 @@
 + 聚合支付 [https://gitee.com/javen205/IJPay](https://gitee.com/javen205/IJPay)
 + 行为验证码 [https://gitee.com/tianai/tianai-captcha](https://gitee.com/tianai/tianai-captcha)
 + Java进程库 [https://github.com/jbangdev/jbang-jash](https://github.com/jbangdev/jbang-jash)
++ 协程堆栈增强 [https://github.com/anamorphosee/stacktrace-decoroutinator](https://github.com/anamorphosee/stacktrace-decoroutinator)
 
 
 

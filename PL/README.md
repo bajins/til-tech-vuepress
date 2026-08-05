@@ -343,6 +343,7 @@
 - 本地化 [https://projectfluent.org](https://projectfluent.org)
 - 语言对比 [https://github.com/bddicken/languages](https://github.com/bddicken/languages)
 - 构建工具 [https://github.com/benchkram](https://github.com/benchkram)
+- Zig编译器管理 [https://github.com/nopdan/zigo](https://github.com/nopdan/zigo)
 
 
 

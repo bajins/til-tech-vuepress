@@ -142,6 +142,7 @@ volumes:
 - 代码机器人 [https://github.com/robb-oat/server](https://github.com/robb-oat/server)
 - GitHub分析 [https://ossinsight.io](https://ossinsight.io)
 - GitHub历史 [https://graphite.dev/blog/github-monopoly-on-code-hosting](https://graphite.dev/blog/github-monopoly-on-code-hosting)
+- GitHub统计 [https://github.com/avgupta456/github-trends](https://github.com/avgupta456/github-trends)
 
 
 

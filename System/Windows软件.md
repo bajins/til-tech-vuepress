@@ -316,6 +316,8 @@
 * 跨站做种 [https://github.com/cross-seed/cross-seed](https://github.com/cross-seed/cross-seed)
 * m3u8下载 [https://github.com/zhiyiyo/fluent-m3u8](https://github.com/zhiyiyo/fluent-m3u8)
 * 视频下载 [https://github.com/caorushizi/mediago](https://github.com/caorushizi/mediago)
+* 游戏下载器 [https://github.com/itchio/itch](https://github.com/itchio/itch)
+* 视频下载 [https://github.com/wukko/cobalt](https://github.com/wukko/cobalt)
 
 
 **磁力搜索**
@@ -561,6 +563,7 @@
 - IPTV播放 [https://github.com/4gray/iptvnator](https://github.com/4gray/iptvnator)
 - 网易云播放 [https://github.com/qier222/yesplaymusic](https://github.com/qier222/yesplaymusic)
 - 音乐播放器 [https://github.com/losses/rune](https://github.com/losses/rune)
+- 音乐API服务 [https://github.com/lxmusics/lx-music-api-server-python](https://github.com/lxmusics/lx-music-api-server-python)
 
 
 **Potplayer**

@@ -54,6 +54,7 @@
 * macOS浏览器 [https://github.com/nook-browser/Nook](https://github.com/nook-browser/Nook)
 * 浏览器 [https://github.com/floorp-projects/floorp](https://github.com/floorp-projects/floorp)
 * 自制浏览器 [https://github.com/zerox-dg/moon](https://github.com/zerox-dg/moon)
+* Tiddly浏览 [https://github.com/tiddlywiki/tiddlydesktop](https://github.com/tiddlywiki/tiddlydesktop)
 
 
 

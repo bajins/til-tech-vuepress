@@ -234,6 +234,7 @@
 * 性能分析 [https://github.com/indragiek/uniprof](https://github.com/indragiek/uniprof)
 * 代码质量 [https://github.com/Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
 * 代码查重 [https://github.com/kucherenko/jscpd](https://github.com/kucherenko/jscpd)
+* 调试器教程 [https://github.com/tartanllama/minidbg](https://github.com/tartanllama/minidbg)
 
 
 
