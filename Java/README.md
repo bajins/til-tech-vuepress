@@ -209,6 +209,7 @@
 - Java面试 [https://github.com/snailclimb/javaguide](https://github.com/snailclimb/javaguide)
 - Java学习 [https://github.com/tc-liang/studyjava](https://github.com/tc-liang/studyjava)
 - Java笔记 [https://github.com/niumoo/javanotes](https://github.com/niumoo/javanotes)
+- JMH基准测试 [https://juejin.cn/post/6844903936869007368](https://juejin.cn/post/6844903936869007368)
 
 
 ## 示例项目

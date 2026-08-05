@@ -391,6 +391,7 @@ java.sql.Date date3 = new java.sql.Date(new Date().getTime());
 > 所以我们在用synchronized关键字的时候，尽量缩小代码段的范围，尽量不要在整个方法上加同步。这叫减小锁的粒度，使代码更大程度的并发。
 
 > static方法可以直接类名加方法名调用，方法中无法使用this，所以它锁的不是this，而是Class，所以static synchronized方法也相当于全局锁，相当于锁住了代码段。
+* 虚拟线程锁 [https://weibo.com/1773116334/M6KHqBgo2](https://weibo.com/1773116334/M6KHqBgo2)
 
 
 

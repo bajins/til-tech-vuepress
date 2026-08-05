@@ -40,6 +40,7 @@
 * [2023年最受欢迎的node.js框架](https://stackdiary.com/node-js-frameworks)
 * Node实战 [https://github.com/bailicangdu/node-elm](https://github.com/bailicangdu/node-elm)
 * SPA服务器 [https://github.com/devforth/spa-to-http](https://github.com/devforth/spa-to-http)
+* Node性能优化 [https://juejin.cn/post/7095354780079357966](https://juejin.cn/post/7095354780079357966)
 
 
 
@@ -92,6 +93,7 @@
 * 前端工程 [https://woai3c.github.io/introduction-to-front-end-engineering](https://woai3c.github.io/introduction-to-front-end-engineering)
 * Webpack [https://segmentfault.com/a/1190000042232699](https://segmentfault.com/a/1190000042232699)
 * 构建优化 [https://segmentfault.com/a/1190000042256837](https://segmentfault.com/a/1190000042256837)
+* JS打包器 [https://juejin.cn/post/6844904032587382797](https://juejin.cn/post/6844904032587382797)
 
 
 

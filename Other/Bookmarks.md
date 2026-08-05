@@ -293,6 +293,7 @@
 - 视频压缩 [https://github.com/Wartybix/Constrict](https://github.com/Wartybix/Constrict)
 - 音频编辑 [https://github.com/pkalogiros/audiomass](https://github.com/pkalogiros/audiomass)
 - 在线影视 [https://www.codebaoku.com](https://www.codebaoku.com)
+- IPTV资源 [https://gitee.com/eata2017/tv](https://gitee.com/eata2017/tv)
 
 
 

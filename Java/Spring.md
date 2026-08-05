@@ -150,6 +150,7 @@ try {
 ```
 * 事务发件箱 [https://github.com/gruelbox/transaction-outbox](https://github.com/gruelbox/transaction-outbox)
 * 事务失效 [https://segmentfault.com/a/1190000042183343](https://segmentfault.com/a/1190000042183343)
+* 异步处理方案 [https://juejin.cn/post/7266087843239084090](https://juejin.cn/post/7266087843239084090)
 
 
 

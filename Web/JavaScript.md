@@ -176,6 +176,10 @@
 - 全栈教程 [https://github.com/fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
 - 性能测试 [https://github.com/rd13/jsperf.app](https://github.com/rd13/jsperf.app)
 - 前端知识 [https://github.com/liugezhou/daydayup](https://github.com/liugezhou/daydayup)
+- JS代码重构 [https://juejin.cn/post/7131211363493347335](https://juejin.cn/post/7131211363493347335)
+- 浏览器指纹 [https://juejin.cn/post/7382344353069088803](https://juejin.cn/post/7382344353069088803)
+- 浏览器渲染 [https://juejin.cn/post/7380637950382620710](https://juejin.cn/post/7380637950382620710)
+- monorepo架构 [https://juejin.cn/post/7065141885576151070](https://juejin.cn/post/7065141885576151070)
 
 
 **模块规范**

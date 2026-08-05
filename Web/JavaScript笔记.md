@@ -334,6 +334,7 @@ window.onunload = setScrollToCookie();
 window.onbeforeunload = setScrollToCookie();
 ```
 * 跨域存储 [https://github.com/zendesk/cross-storage](https://github.com/zendesk/cross-storage)
+* 浏览器存储 [https://juejin.cn/post/7421713153568079935](https://juejin.cn/post/7421713153568079935)
 
 
 **jQuery数据缓存方案**

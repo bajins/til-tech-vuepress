@@ -89,6 +89,7 @@
 - C++开发者 [https://github.com/vittorioromeo](https://github.com/vittorioromeo)
 - C++并行框架 [https://github.com/chunelfeng](https://github.com/chunelfeng)
 - C++网络库 [https://github.com/chenshuo](https://github.com/chenshuo)
+- C++协程异步 [https://weibo.com/ttarticle/x/m/show/id/2309404780173798277435](https://weibo.com/ttarticle/x/m/show/id/2309404780173798277435)
 
 
 

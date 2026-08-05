@@ -593,6 +593,10 @@
 * Redis分支 [https://github.com/johnsully/keydb](https://github.com/johnsully/keydb)
 * Redis兼容 [https://github.com/dicedb/dice](https://github.com/dicedb/dice)
 * Redis数据库 [https://github.com/redislabs](https://github.com/redislabs)
+* Redis部署模式 [https://m.toutiao.com/article/7194411507663815172](https://m.toutiao.com/article/7194411507663815172)
+* Redis哨兵监控 [https://juejin.cn/post/7118303073868447781](https://juejin.cn/post/7118303073868447781)
+* HyperLogLog计数 [https://juejin.cn/post/6844903785744056333](https://juejin.cn/post/6844903785744056333)
+* Redis架构演化 [https://weibo.com/ttarticle/x/m/show/id/2309404796118843392788](https://weibo.com/ttarticle/x/m/show/id/2309404796118843392788)
 
 
 **存储方式**

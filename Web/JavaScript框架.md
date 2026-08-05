@@ -297,6 +297,7 @@
 * Vue编译原理 [https://github.com/iamouyang21/vue3-complier](https://github.com/iamouyang21/vue3-complier)
 * Vue前端项目 [https://github.com/matteason](https://github.com/matteason)
 * Vue前端框架 [https://github.com/panjiachen](https://github.com/panjiachen)
+* Vue3组件通信 [https://juejin.cn/post/7062740057018335245](https://juejin.cn/post/7062740057018335245)
 
 
 
