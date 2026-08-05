@@ -100,6 +100,8 @@ volumes:
     logs:
 ```
 * GitLab安装 [https://about.gitlab.com/install/ce-or-ee](https://about.gitlab.com/install/ce-or-ee)
+* Git托管 [https://gitlab.gnome.org](https://gitlab.gnome.org)
+* 极狐GitLab [https://jihulab.com](https://jihulab.com)
 
 
 
@@ -417,3 +419,4 @@ WantedBy=multi-user.target
 * [https://git.resf.org](https://git.resf.org)
 * 软件相似度比较 [https://copycat.gitee.com](https://copycat.gitee.com)
 * Git托管 [https://codeberg.org/forgejo/forgejo](https://codeberg.org/forgejo/forgejo)
+* 代码托管平台 [https://sr.ht](https://sr.ht)

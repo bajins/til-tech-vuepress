@@ -60,6 +60,7 @@
 * 网络收包 [https://mp.weixin.qq.com/s/6c0ZZ3ZZZ_ocIqH2iey1lw](https://mp.weixin.qq.com/s/6c0ZZ3ZZZ_ocIqH2iey1lw)
 * 防火墙可视化 [https://github.com/olivierb46/PyFRC2G](https://github.com/olivierb46/PyFRC2G)
 * 应用防火墙 [https://github.com/evilsocket/opensnitch](https://github.com/evilsocket/opensnitch)
+* DNS [https://github.com/topics/dns](https://github.com/topics/dns)
 
 
 
@@ -105,6 +106,8 @@ netstat -antp |grep "ESTABLISHED" |awk '{print $5}'|awk -F : '{print $4}'|sort |
 * Ping工具 [https://github.com/hanshuaikang/nping](https://github.com/hanshuaikang/nping)
 * 局域网扫描 [https://github.com/aceberg/watchyourlan](https://github.com/aceberg/watchyourlan)
 * 网络抓包 [https://github.com/pythops/oryx](https://github.com/pythops/oryx)
+* 抓包工具 [https://icloudnative.io/posts/tcpdump-examples](https://icloudnative.io/posts/tcpdump-examples)
+* 网卡统计 [https://github.com/sysperf/nicstat](https://github.com/sysperf/nicstat)
 
 
 

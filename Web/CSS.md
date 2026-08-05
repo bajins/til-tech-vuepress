@@ -219,6 +219,7 @@
 - 设计系统 [https://github.com/stackexchange/stacks](https://github.com/stackexchange/stacks)
 - CSS框架 [https://lissomware.github.io/css](https://lissomware.github.io/css)
 - Windows UI [https://github.com/virtualvivek/windows-ui](https://github.com/virtualvivek/windows-ui)
+- CSS框架 [https://thedevsbuddy.github.io/tailwind_cli/docs/introduction](https://thedevsbuddy.github.io/tailwind_cli/docs/introduction)
 
 
 
@@ -332,6 +333,7 @@
 * 图标库 [https://icon-sets.iconify.design](https://icon-sets.iconify.design)
 * 图标库 [https://github.com/richard9394/mingcute](https://github.com/richard9394/mingcute)
 * SVG编辑器 [https://github.com/svg-edit/svgedit](https://github.com/svg-edit/svgedit)
+* 图标库 [https://www.iconninja.com](https://www.iconninja.com)
 
 
 
@@ -577,6 +579,8 @@
 /*<=768的设备*/
 }
 ```
+* 设计组件 [https://github.com/froala/design-blocks](https://github.com/froala/design-blocks)
+* 仪表盘UI [https://github.com/tabler](https://github.com/tabler)
 
 
 

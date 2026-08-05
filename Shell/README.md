@@ -200,6 +200,7 @@
 * 沙箱Shell [https://github.com/xicilion/boxsh](https://github.com/xicilion/boxsh)
 * 命令解释 [https://www.explainshell.com](https://www.explainshell.com)
 * AI转命令 [https://github.com/builderio/ai-shell](https://github.com/builderio/ai-shell)
+* 工具课程 [https://missing-semester-cn.github.io](https://missing-semester-cn.github.io)
 
 
 **`terminal`、`shell`、`tty`、`console` 之间的区别**
@@ -339,6 +340,7 @@
 * SSH客户端 [https://51.ruyo.net/test/MobaXterm-Pro-License.html](https://51.ruyo.net/test/MobaXterm-Pro-License.html)
 * SSH教程 [https://github.com/wangdoc/ssh-tutorial](https://github.com/wangdoc/ssh-tutorial)
 * SSH管理 [https://github.com/Gu1llaum-3/sshm](https://github.com/Gu1llaum-3/sshm)
+* Moba激活 [https://github.com/flygon2018/mobaxterm-keygen](https://github.com/flygon2018/mobaxterm-keygen)
 
 
 

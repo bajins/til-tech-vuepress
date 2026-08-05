@@ -378,6 +378,8 @@
 - 随机数算法 [https://github.com/specbranch/fp-rand](https://github.com/specbranch/fp-rand)
 - Go actor框架 [https://github.com/ergo-services](https://github.com/ergo-services)
 - Go工具库 [https://github.com/orsinium-labs](https://github.com/orsinium-labs)
+- RSS阅读 [https://github.com/jafarlihi/rssnix](https://github.com/jafarlihi/rssnix)
+- 事件代理 [https://github.com/muesli/beehive](https://github.com/muesli/beehive)
 
 
 
@@ -419,3 +421,4 @@
 - Web框架 [https://github.com/livebud/bud](https://github.com/livebud/bud)
 - CLI框架 [https://github.com/avamsi/eclipse](https://github.com/avamsi/eclipse)
 - 依赖注入 [https://github.com/alibaba/ioc-golang](https://github.com/alibaba/ioc-golang)
+- Go微服务框架 [https://github.com/zeromicro/go-zero@master](https://github.com/zeromicro/go-zero@master)

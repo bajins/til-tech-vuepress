@@ -33,6 +33,7 @@
 * 脑图 [https://github.com/huangz1990/python-mindmap](https://github.com/huangz1990/python-mindmap)
 * Python工程 [https://pyloong.github.io/pythonic-project-guidelines](https://pyloong.github.io/pythonic-project-guidelines)
 * Python趣题 [https://github.com/satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
+* Python指南 [https://huoyingwhw.com/pythonGuide](https://huoyingwhw.com/pythonGuide)
 
 
 **ModuleNotFoundError: No module named 'Crypto'解决方案**
@@ -323,6 +324,7 @@ pip install sqlalchemy
 4. 第三方模块：schedule
 5. 定时框架：APScheduler、Celery
 * 任务调度框架 [https://github.com/miksus/red-engine](https://github.com/miksus/red-engine)
+* 分布式队列 [https://github.com/celery](https://github.com/celery)
 
 
 

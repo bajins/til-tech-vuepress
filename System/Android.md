@@ -83,6 +83,11 @@
 + Android引导 [https://github.com/appintro](https://github.com/appintro)
 + Android模拟器 [https://github.com/genymobile](https://github.com/genymobile)
 + Linux安卓 [https://github.com/linux-on-droid](https://github.com/linux-on-droid)
++ 图片处理 [https://github.com/t8rin/lmagetoolbox](https://github.com/t8rin/lmagetoolbox)
++ Android框架 [https://github.com/aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base)
++ 信号检测 [https://github.com/hzx0910/cellular-z](https://github.com/hzx0910/cellular-z)
++ 漫画阅读器 [https://github.com/tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
++ 电视盒子 [https://github.com/tv-player/tvbox](https://github.com/tv-player/tvbox)
 
 
 
@@ -189,6 +194,7 @@
 * 灰色按钮 [https://github.com/githubwing/DroidSword](https://github.com/githubwing/DroidSword)
 * 获取ROOT [https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU)
 * [https://www.rainyweb.cn](https://www.rainyweb.cn)
+* Xposed模块 [https://forum.xda-developers.com/f/xposed-framework-modules.2919](https://forum.xda-developers.com/f/xposed-framework-modules.2919)
 
 
 
@@ -505,6 +511,7 @@
 - 电视直播 [https://github.com/yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 - 图像超分 [https://github.com/tumuyan/realsr-ncnn-android](https://github.com/tumuyan/realsr-ncnn-android)
 - 跳过开屏广告 [https://github.com/guoxicheng](https://github.com/guoxicheng)
+- 下载管理器 [https://www.apps2sd.info/idmp/changelog.html](https://www.apps2sd.info/idmp/changelog.html)
 
 
 

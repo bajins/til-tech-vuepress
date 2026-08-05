@@ -25,6 +25,7 @@
 - Shell命令 [https://plantegg.github.io/2017/01/01/top_linux_commands](https://plantegg.github.io/2017/01/01/top_linux_commands)
 - awk学习 [https://vim0.com/post/awk](https://vim0.com/post/awk)
 - bash命令 [https://github.com/onceupon/bash-oneliner](https://github.com/onceupon/bash-oneliner)
+- Bash命令 [https://kodango.com/bash-one-liners-explained-part-one](https://kodango.com/bash-one-liners-explained-part-one)
 
 
 

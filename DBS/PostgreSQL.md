@@ -157,6 +157,7 @@ SELECT * FROM json_array_elements_text('["batman", "superman"]');
 * Postgres原理 [https://postgres-internals.cn/docs](https://postgres-internals.cn/docs)
 * PostgreSQL [https://segmentfault.com/a/1190000044048598](https://segmentfault.com/a/1190000044048598)
 * PostgreSQL [https://github.com/crunchydata](https://github.com/crunchydata)
+* 时序数据库 [https://github.com/timescale](https://github.com/timescale)
 
 
 

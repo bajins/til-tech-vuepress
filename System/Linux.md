@@ -110,6 +110,15 @@
 * 内核社区 [https://github.com/linuxkerneltravel](https://github.com/linuxkerneltravel)
 * eBPF工具 [https://github.com/cfc4n](https://github.com/cfc4n)
 * Surface Linux支持 [https://github.com/linux-surface](https://github.com/linux-surface)
+* Linux内核 [https://github.com/rust-for-linux/linux](https://github.com/rust-for-linux/linux)
+* systemd服务 [https://www.freedesktop.org/wiki/Software/systemd](https://www.freedesktop.org/wiki/Software/systemd)
+* Linux命令 [https://github.com/bobbyilie/101-linux-commands](https://github.com/bobbyilie/101-linux-commands)
+* 用户目录 [https://www.freedesktop.org/wiki/Software/xdg-user-dirs](https://www.freedesktop.org/wiki/Software/xdg-user-dirs)
+* eBPF内核 [https://ebpf.io/zh-cn](https://ebpf.io/zh-cn)
+* 性能剖析 [https://github.com/elastic/otelprofiling-agent](https://github.com/elastic/otelprofiling-agent)
+* 内核追踪 [https://github.com/iovisor](https://github.com/iovisor)
+* 系统升级 [https://github.com/oamg](https://github.com/oamg)
+* eBPF安全工具 [https://github.com/gojue](https://github.com/gojue)
 
 
 
@@ -259,6 +268,7 @@ sudo apt clean
 - 系统信息 [https://github.com/linusdierheimer/fastfetch](https://github.com/linusdierheimer/fastfetch)
 - 应用启动器 [https://github.com/mdgaziur/findex](https://github.com/mdgaziur/findex)
 - chroot模拟 [https://github.com/dex4er/fakechroot](https://github.com/dex4er/fakechroot)
+- BSD工具集 [https://github.com/dcantrell/bsdutils](https://github.com/dcantrell/bsdutils)
 
 
 
@@ -420,6 +430,7 @@ bash InstallNET.sh -c 7.6.1810 -v 64 -a --mirror 'http://mirror.centos.org/cento
     * [使用 supervisor 管理进程](https://einverne.github.io/post/2017/07/use-supervisor-to-manage-process.html)
 * go实现 [https://github.com/ochinchina/supervisord](https://github.com/ochinchina/supervisord)
 * 休眠守护 [https://github.com/mrmekon/circadian](https://github.com/mrmekon/circadian)
+* 盲文终端 [https://brltty.app](https://brltty.app)
 
 
 **常见配置如下**
@@ -799,6 +810,7 @@ rsync -avP -r /home/work/sourcedir work@www.myhost.com:/home/work/
 rsync -avP -r -v --exclude sourcedir/notinclude /home/work/sourcedir work@www.myhost.com:/home/work/
 ```
 * 文件共享 [https://github.com/parvardegr/sharing](https://github.com/parvardegr/sharing)
+* 局域网传输 [https://github.com/landrop](https://github.com/landrop)
 
 
 
@@ -841,6 +853,8 @@ rsync -avP -r -v --exclude sourcedir/notinclude /home/work/sourcedir work@www.my
 * Linux性能 [https://www.brendangregg.com/linuxperf.html](https://www.brendangregg.com/linuxperf.html)
 * Linux性能 [https://mp.weixin.qq.com/s/TJIy9fvCJPjeVwWzjkJyxw](https://mp.weixin.qq.com/s/TJIy9fvCJPjeVwWzjkJyxw)
 * Linux性能 [https://segmentfault.com/a/1190000004104493](https://segmentfault.com/a/1190000004104493)
+* 网络测速 [https://sourceforge.net/p/iperf2](https://sourceforge.net/p/iperf2)
+* 磁盘监控 [https://zhangkexuan.github.io/2021/05/18/store/tools/深入理解iostat](https://zhangkexuan.github.io/2021/05/18/store/tools/深入理解iostat)
 
 **bench.sh**
 

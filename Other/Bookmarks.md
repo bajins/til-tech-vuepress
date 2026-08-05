@@ -30,6 +30,9 @@
 - 开源贡献 [https://github.com/shanselman/firsttimersonly](https://github.com/shanselman/firsttimersonly)
 - 中文DOS游戏 [https://github.com/rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games)
 - 游戏模拟器 [https://github.com/binbashbanana](https://github.com/binbashbanana)
+- 开源游戏 [https://github.com/bobef/open-source-games](https://github.com/bobef/open-source-games)
+- 中文榜单 [https://github.com/growinggit/github-chinese-top-chartsh](https://github.com/growinggit/github-chinese-top-chartsh)
+- 书签工具 [https://github.com/safreya/tobook](https://github.com/safreya/tobook)
 
 
 ## 学习
@@ -152,6 +155,13 @@
 * 计算传播研究 [https://github.com/chengjun](https://github.com/chengjun)
 * 课程学习笔记 [https://github.com/hobbitqia](https://github.com/hobbitqia)
 * 笔记工具 [https://github.com/ssshooter](https://github.com/ssshooter)
+* 外语慕课 [https://moocs.unipus.cn](https://moocs.unipus.cn)
+* C++视频教程 [https://github.com/19pdp/bilibili-plus](https://github.com/19pdp/bilibili-plus)
+* 背单词软件 [https://github.com/tangshimin/typing-learner](https://github.com/tangshimin/typing-learner)
+* 个人学习 [https://github.com/csxiaoyaojianxian](https://github.com/csxiaoyaojianxian)
+* 个人技术 [https://github.com/googleweb](https://github.com/googleweb)
+* 终端浏览器 [https://github.com/fathyb](https://github.com/fathyb)
+* 个人学习 [https://github.com/pengfeiw](https://github.com/pengfeiw)
 
 
 
@@ -185,6 +195,8 @@
 * 科技历史 [https://calculatingempires.net](https://calculatingempires.net)
 * 信任演化 [https://www.sekai.co/trust](https://www.sekai.co/trust)
 * 冷知识 [https://gkoberger.github.io/stacksort](https://gkoberger.github.io/stacksort)
+* 微软产品史 [https://github.com/victorfrye/microsoftgraveyard](https://github.com/victorfrye/microsoftgraveyard)
+* 表情合成 [https://emojimix.app](https://emojimix.app)
 
 
 
@@ -217,6 +229,7 @@
 * Raycast导航 [https://github.com/marekbrze/categorized-raycast-extensions](https://github.com/marekbrze/categorized-raycast-extensions)
 * 校招信息 [https://github.com/naosi-dlut/campus2025](https://github.com/naosi-dlut/campus2025)
 * 书签导航 [https://github.com/pintree-io/pintree](https://github.com/pintree-io/pintree)
+* 开源游戏 [https://osgameclones.com](https://osgameclones.com)
 
 
 
@@ -294,6 +307,12 @@
 - 音频编辑 [https://github.com/pkalogiros/audiomass](https://github.com/pkalogiros/audiomass)
 - 在线影视 [https://www.codebaoku.com](https://www.codebaoku.com)
 - IPTV资源 [https://gitee.com/eata2017/tv](https://gitee.com/eata2017/tv)
+- 影视数据库 [https://www.themoviedb.org](https://www.themoviedb.org)
+- IPTV直播 [https://github.com/joevess/lptv](https://github.com/joevess/lptv)
+- 音乐解锁 [https://git.unlock-music.dev](https://git.unlock-music.dev)
+- 影视源 [https://pastebin.com/raw/gtbKvnE1](https://pastebin.com/raw/gtbKvnE1)
+- 影视源 [https://pastebin.com/raw/sbPpDm9G](https://pastebin.com/raw/sbPpDm9G)
+- 直播源 [https://zb.v1.mk](https://zb.v1.mk)
 
 
 
@@ -404,6 +423,7 @@
 * 照片图库 [https://github.com/Afilmory/afilmory](https://github.com/Afilmory/afilmory)
 * AI图库 [https://github.com/AKS-Labs/Tulsi](https://github.com/AKS-Labs/Tulsi)
 * 免费插画 [https://loosedrawing.com](https://loosedrawing.com)
+* 壁纸下载 [https://wallpaperscraft.com](https://wallpaperscraft.com)
 
 
 

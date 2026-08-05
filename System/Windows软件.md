@@ -341,6 +341,7 @@
 
 > 特征码（该字符串，一般是40个字的一串字母和数字的组合）下载：打开BT下载工具（迅雷、BitComet、BitTorrent、uTorrent等等），
 > 例如比特彗星，点击磁链，直接粘贴下载即可。如果使用迅雷的话还需要在特征码前面加上`magnet:?xt=urn:btih:`
+* BT资源站 [https://rutracker.net](https://rutracker.net)
 
 
 **客户端**
@@ -564,6 +565,7 @@
 - 网易云播放 [https://github.com/qier222/yesplaymusic](https://github.com/qier222/yesplaymusic)
 - 音乐播放器 [https://github.com/losses/rune](https://github.com/losses/rune)
 - 音乐API服务 [https://github.com/lxmusics/lx-music-api-server-python](https://github.com/lxmusics/lx-music-api-server-python)
+- 媒体播放器 [https://github.com/winampdesktop/winamp](https://github.com/winampdesktop/winamp)
 
 
 **Potplayer**
@@ -742,6 +744,8 @@
 * 截屏工具 [https://github.com/xland/ScreenCapture](https://github.com/xland/ScreenCapture)
 * 图片编辑器 [https://github.com/CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)
 * 图片查看器 [https://github.com/jark006/jarkviewer](https://github.com/jark006/jarkviewer)
+* 图片查看器 [https://github.com/voidtools/voidlmageViewer](https://github.com/voidtools/voidlmageViewer)
+* 图片查看 [https://github.com/d2phap/lmageglass](https://github.com/d2phap/lmageglass)
 
 
 **Icon矢量图**
@@ -1077,6 +1081,7 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 - 剪贴板工具 [https://github.com/slackdays/clipboard](https://github.com/slackdays/clipboard)
 - 剪贴板管理 [https://github.com/saumsy/Macboard](https://github.com/saumsy/Macboard)
 - 剪贴板管理 [https://github.com/ayangweb/ecopaste](https://github.com/ayangweb/ecopaste)
+- 剪贴板管理 [https://github.com/slackadays/clipboard](https://github.com/slackadays/clipboard)
 
 
 

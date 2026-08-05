@@ -40,6 +40,11 @@
 - C项目练习 [https://github.com/labex-labs/practice-c-programming-projects](https://github.com/labex-labs/practice-c-programming-projects)
 - C项目教程 [https://github.com/7etsuo/project-based-tutorials-in-c](https://github.com/7etsuo/project-based-tutorials-in-c)
 - C学习路线 [https://github.com/theokwebb/c-from-scratch](https://github.com/theokwebb/c-from-scratch)
+- 游戏复刻 [https://github.com/bvschaik/julius](https://github.com/bvschaik/julius)
+- MIME库 [https://gitlab.freedesktop.org/xdg/xdgmime](https://gitlab.freedesktop.org/xdg/xdgmime)
+- 我的世界克隆 [https://github.com/fogleman/craft](https://github.com/fogleman/craft)
+- C语言开发 [https://github.com/skeeto](https://github.com/skeeto)
+- C系统软件 [https://github.com/jart](https://github.com/jart)
 
 
 
@@ -123,6 +128,7 @@
 * 数据流分析 [https://github.com/ppati000/visualdfa](https://github.com/ppati000/visualdfa)
 * 编译器优化 [https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 * 编译原理 [https://ustc-compiler-principles.github.io/2023](https://ustc-compiler-principles.github.io/2023)
+* 编译原理 [https://ustc-compiler-principles.github.io/2023/wx-chevalier.github.io](https://ustc-compiler-principles.github.io/2023/wx-chevalier.github.io)
 
 
 
@@ -344,6 +350,8 @@
 * 算法库 [https://fragglet.github.io/c-algorithms/doc/index.html](https://fragglet.github.io/c-algorithms/doc/index.html)
 * C基础库 [https://github.com/quelsolaar](https://github.com/quelsolaar)
 * 协程控制库 [https://github.com/koka-lang/libmprompt](https://github.com/koka-lang/libmprompt)
+* X11库 [https://gitlab.freedesktop.org/xorg/lib/libx11](https://gitlab.freedesktop.org/xorg/lib/libx11)
+* 字体渲染 [https://sourceforge.net/projects/freetype](https://sourceforge.net/projects/freetype)
 
 
 
@@ -416,6 +424,10 @@
 * FreeType库 [https://github.com/ubawurinna/freetype-windows-binaries](https://github.com/ubawurinna/freetype-windows-binaries)
 * 2D游戏引擎 [https://github.com/phoboslab/high_impact](https://github.com/phoboslab/high_impact)
 * FFmpeg管理器 [https://github.com/rebebuca/rebebuca](https://github.com/rebebuca/rebebuca)
+* 多媒体框架 [https://gstreamer.freedesktop.org](https://gstreamer.freedesktop.org)
+* AV1解码 [https://code.videolan.org/videolan/dav1d](https://code.videolan.org/videolan/dav1d)
+* 音频编解码 [https://gitlab.xiph.org/xiph/opus](https://gitlab.xiph.org/xiph/opus)
+* H264编解码 [https://www.openh264.org](https://www.openh264.org)
 
 
 **其他**

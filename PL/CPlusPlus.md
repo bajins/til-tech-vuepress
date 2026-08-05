@@ -90,6 +90,13 @@
 - C++并行框架 [https://github.com/chunelfeng](https://github.com/chunelfeng)
 - C++网络库 [https://github.com/chenshuo](https://github.com/chenshuo)
 - C++协程异步 [https://weibo.com/ttarticle/x/m/show/id/2309404780173798277435](https://weibo.com/ttarticle/x/m/show/id/2309404780173798277435)
+- C++界面库 [https://sourceforge.net/projects/wtl/files/WTL%2010](https://sourceforge.net/projects/wtl/files/WTL%2010)
+- 游戏引擎 [https://github.com/urho3d/urho3d](https://github.com/urho3d/urho3d)
+- 构建工具 [https://cmake.org](https://cmake.org)
+- 游戏引擎 [https://github.com/crytek/cryengine](https://github.com/crytek/cryengine)
+- RISC-V模拟 [https://github.com/fwsgonzo/libriscv](https://github.com/fwsgonzo/libriscv)
+- 现代C++ [https://github.com/cntransgroup/effectivemoderncppchinese](https://github.com/cntransgroup/effectivemoderncppchinese)
+- 虚幻引擎 [https://github.com/tomlooman](https://github.com/tomlooman)
 
 
 
@@ -358,3 +365,4 @@
 - 高性能日志 [https://github.com/platformlab/nanolog](https://github.com/platformlab/nanolog)
 - C++协程库 [https://github.com/mtmucha/coros](https://github.com/mtmucha/coros)
 - 医学影像 [https://github.com/insightsoftwareconsortium](https://github.com/insightsoftwareconsortium)
+- 崩溃报告 [https://crashpad.chromium.org](https://crashpad.chromium.org)

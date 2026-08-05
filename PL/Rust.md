@@ -169,6 +169,13 @@
 * Raft共识算法 [https://github.com/drmingdrmer](https://github.com/drmingdrmer)
 * Rust内核 [https://github.com/rust-for-linux](https://github.com/rust-for-linux)
 * Rust学习 [https://github.com/bitfield](https://github.com/bitfield)
+* 异步模式 [https://cfsamsonbooks.gitbook.io/epoll-kqueue-iocp-explained/appendix-1/reactor-executor-pattern](https://cfsamsonbooks.gitbook.io/epoll-kqueue-iocp-explained/appendix-1/reactor-executor-pattern)
+* Rust性能 [https://poly000.github.io/perf-book-zh](https://poly000.github.io/perf-book-zh)
+* Rust书籍 [https://github.com/meousker771/programmingrust](https://github.com/meousker771/programmingrust)
+* Rust教程 [https://course.rs](https://course.rs)
+* Rust安全 [https:///litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html](https:///litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html)
+* Rust性能 [https://github.com/gcarmix/hexwalknnethercote.github.io/perf-book](https://github.com/gcarmix/hexwalknnethercote.github.io/perf-book)
+* NES模拟器 [https://bugzmanov.github.io/nes_ebook/zaixianwan.app](https://bugzmanov.github.io/nes_ebook/zaixianwan.app)
 
 
 
@@ -701,6 +708,7 @@ check-revoke = false
 * 终端操作 [https://github.com/crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
 * Rust基准 [https://github.com/bheisler/criterion.rs](https://github.com/bheisler/criterion.rs)
 * 并发哈希表 [https://github.com/ibraheemdev/papaya](https://github.com/ibraheemdev/papaya)
+* 字符串加密 [https://github.com/life4/encenc](https://github.com/life4/encenc)
 
 
 

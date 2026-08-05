@@ -5,6 +5,9 @@
 
 ## Flag
 * 软件验证 [https://xiongyingfei.github.io/SF/2022/lectures](https://xiongyingfei.github.io/SF/2022/lectures)
+* 语言性能对比 [https://niklas-heer.github.io/speed-comparison](https://niklas-heer.github.io/speed-comparison)
+* 苹果开源源码 [https://www.opensource.apple.com](https://www.opensource.apple.com)
+* 代码惯用法 [https://programming-idioms.org](https://programming-idioms.org)
 
 **千万不要尝试用记忆力去替代自己的理解力！**
 > 代码不是靠死记硬背，而是不停的写、不停的思考，在反复的练习中熟练掌握的。
@@ -181,6 +184,23 @@
 - 后端开发 [https://github.com/wenfh2020](https://github.com/wenfh2020)
 - 系统与AI [https://github.com/conless](https://github.com/conless)
 - 综合开发 [https://github.com/momeak9](https://github.com/momeak9)
+- Java审计 [https://github.com/javers](https://github.com/javers)
+- 游戏引擎 [https://github.com/godotengine](https://github.com/godotengine)
+- 图片格式 [https://github.com/libjxl](https://github.com/libjxl)
+- Web应用生成 [https://github.com/jhipster](https://github.com/jhipster)
+- Git工具开发 [https://github.com/arxanas](https://github.com/arxanas)
+- 多媒体库 [https://github.com/libsdl-org](https://github.com/libsdl-org)
+- Java开发 [https://github.com/dreamhead](https://github.com/dreamhead)
+- 系统性能 [https://github.com/sirupsen](https://github.com/sirupsen)
+- Java学习 [https://github.com/niumoo](https://github.com/niumoo)
+- 零信任网络 [https://github.com/r-caamano](https://github.com/r-caamano)
+- 前端开发 [https://github.com/sirius93](https://github.com/sirius93)
+- PHP开发 [https://github.com/makingcg](https://github.com/makingcg)
+- Go语言专家 [https://github.com/chai2010](https://github.com/chai2010)
+- Rust工具链 [https://github.com/messense](https://github.com/messense)
+- macOS开发 [https://github.com/jaywcjlove](https://github.com/jaywcjlove)
+- 创意编码 [https://github.com/openrndr](https://github.com/openrndr)
+- 独立开发者 [https://github.com/naxiaoduo](https://github.com/naxiaoduo)
 
 
 
@@ -344,6 +364,7 @@
 - 语言对比 [https://github.com/bddicken/languages](https://github.com/bddicken/languages)
 - 构建工具 [https://github.com/benchkram](https://github.com/benchkram)
 - Zig编译器管理 [https://github.com/nopdan/zigo](https://github.com/nopdan/zigo)
+- 参数解析 [https://github.com/mini-rose/argparser](https://github.com/mini-rose/argparser)
 
 
 
@@ -416,6 +437,9 @@
 * 词法分析 [https://github.com/wgrape/lexer](https://github.com/wgrape/lexer)
 * WASM编译器 [https://github.com/thomscoder/luna](https://github.com/thomscoder/luna)
 * 自制语言 [https://github.com/karminski/write-a-programming-language-in-450-lines](https://github.com/karminski/write-a-programming-language-in-450-lines)
+* 语言解析器 [https://github.com/xnacly/sophia](https://github.com/xnacly/sophia)
+* 编译原理 [https://github.com/niutrans/compiler-note](https://github.com/niutrans/compiler-note)
+* 词法工具 [https://www.dabeaz.com/ply/ply-3.11.tar.gz](https://www.dabeaz.com/ply/ply-3.11.tar.gz)
 
 
 
@@ -548,6 +572,10 @@
 * 包管理器 [https://github.com/hexpm](https://github.com/hexpm)
 * Julia GUI引擎 [https://github.com/clemapfel](https://github.com/clemapfel)
 * 太阳系模拟游戏 [https://github.com/ivoyager](https://github.com/ivoyager)
+* Coq教材 [https://coq-zh.github.io/SF-zh](https://coq-zh.github.io/SF-zh)
+* Vala语言 [https://gitlab.gnome.org/GNOME/vala](https://gitlab.gnome.org/GNOME/vala)
+* Lisp GUI [https://github.com/rabbibotton/clog](https://github.com/rabbibotton/clog)
+* 绘图语言 [https://github.com/terrastruct](https://github.com/terrastruct)
 
 
 
@@ -599,6 +627,7 @@
 * 低代码语言 [https://github.com/byzer-org/byzer-lang](https://github.com/byzer-org/byzer-lang)
 * 低代码 [https://segmentfault.com/a/1190000042810460](https://segmentfault.com/a/1190000042810460)
 * 低代码平台 [https://github.com/teleporthq](https://github.com/teleporthq)
+* 低代码平台 [https://github.com/topics/internal-tools](https://github.com/topics/internal-tools)
 
 
 

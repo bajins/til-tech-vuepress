@@ -86,6 +86,7 @@ with Test() as t: # 触发__exit__
 * Python打包 [https://github.com/TanixLu/pyfuze](https://github.com/TanixLu/pyfuze)
 * Python学习 [https://github.com/escapelife](https://github.com/escapelife)
 * Django工作流 [https://github.com/viewflow](https://github.com/viewflow)
+* 浏览器Python [https://github.com/pyscript](https://github.com/pyscript)
 
 
 

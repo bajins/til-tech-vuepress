@@ -164,6 +164,8 @@
 * Go语言圣经 [https://greycode.github.io/golang-book/index.html](https://greycode.github.io/golang-book/index.html)
 * Go编码建议 [https://dablelv.github.io/go-coding-advice](https://dablelv.github.io/go-coding-advice)
 * Go源码讲解 [https://github.com/cuishuang/explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)
+* Go周刊 [https://segmentfault.com/a/1190000042513773](https://segmentfault.com/a/1190000042513773)
+* Go内存管理 [https://draven.co/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator](https://draven.co/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator)
 
 
 

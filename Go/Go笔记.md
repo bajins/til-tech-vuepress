@@ -35,6 +35,8 @@
 * Go垃圾回收 [https://www.yuque.com/aceld/golang/zhzanb](https://www.yuque.com/aceld/golang/zhzanb)
 * Go高性能 [https://geektutu.com/post/high-performance-go.html](https://geektutu.com/post/high-performance-go.html)
 * Go练习 [https://github.com/RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice)
+* 垃圾回收 [https://draven.co/golang/docs/part3-runtime/ch07-memory/golang-garbage-collector](https://draven.co/golang/docs/part3-runtime/ch07-memory/golang-garbage-collector)
+* Go内部笔记 [https://github.com/leoyang90/golang-lnternal-notes](https://github.com/leoyang90/golang-lnternal-notes)
 
 
 **日志**

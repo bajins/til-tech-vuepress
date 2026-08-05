@@ -234,6 +234,8 @@
 * 博客框架 [https://github.com/meekdai/gmeek](https://github.com/meekdai/gmeek)
 * 博客系统 [https://github.com/dotnet9/dotnet9](https://github.com/dotnet9/dotnet9)
 * 语雀知识库 [https://github.com/yuque](https://github.com/yuque)
+* 静态站生成 [https://github.com/gatsbyjs](https://github.com/gatsbyjs)
+* 团队知识库 [https://github.com/outline](https://github.com/outline)
 
 
 
@@ -284,6 +286,7 @@
 - API文档工具 [https://github.com/go-swagger](https://github.com/go-swagger)
 - API文档工具 [https://github.com/domaindrivendev](https://github.com/domaindrivendev)
 - API管理平台 [https://github.com/gravitee-io](https://github.com/gravitee-io)
+- API规范 [https://typeapi.org](https://typeapi.org)
 
 
 
@@ -437,6 +440,7 @@ www.gravatar.com/avatar         fdn.geekzu.org/avatar
 cdnjs.cloudflare.com            cdnjs.loli.net
 ```
 * CDN加速 [https://www.7ed.net/#/raw-cdn](https://www.7ed.net/#/raw-cdn)
+* CDN刷新 [https://purge.jsdelivr.net](https://purge.jsdelivr.net)
 
 
 

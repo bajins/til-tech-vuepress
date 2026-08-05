@@ -251,6 +251,7 @@
 - 富文本编辑器 [https://github.com/ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum)
 - 协作编辑 [https://github.com/convergencelabs/monaco-collab-ext](https://github.com/convergencelabs/monaco-collab-ext)
 - 富文本编辑 [https://github.com/udecode/plate](https://github.com/udecode/plate)
+- 代码编辑器 [https://github.com/ajaxorg](https://github.com/ajaxorg)
 
 
 
@@ -680,6 +681,9 @@
 * 滚动动画 [https://github.com/alexfoxy/lax.js](https://github.com/alexfoxy/lax.js)
 * Three.js大屏 [https://segmentfault.com/a/1190000042216817](https://segmentfault.com/a/1190000042216817)
 * 动画工具 [https://github.com/still-scene/t3](https://github.com/still-scene/t3)
+* OpenGL教程 [https://learnopengl-cn.github.io](https://learnopengl-cn.github.io)
+* Vulkan软件渲染 [https://swiftshader.googlesource.com/SwiftShader](https://swiftshader.googlesource.com/SwiftShader)
+* 平滑滚动 [https://github.com/studio-freight/lenis](https://github.com/studio-freight/lenis)
 
 
 

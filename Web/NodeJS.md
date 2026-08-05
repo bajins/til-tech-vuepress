@@ -41,6 +41,9 @@
 * Node实战 [https://github.com/bailicangdu/node-elm](https://github.com/bailicangdu/node-elm)
 * SPA服务器 [https://github.com/devforth/spa-to-http](https://github.com/devforth/spa-to-http)
 * Node性能优化 [https://juejin.cn/post/7095354780079357966](https://juejin.cn/post/7095354780079357966)
+* Node框架 [https://github.com/nestjs](https://github.com/nestjs)
+* 前端开发 [https://github.com/barretlee](https://github.com/barretlee)
+* NodeJS框架 [https://github.com/eggjs](https://github.com/eggjs)
 
 
 

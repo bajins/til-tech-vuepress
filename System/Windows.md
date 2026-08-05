@@ -71,6 +71,8 @@
 - 系统兼容 [https://github.com/shorthorn-project/one-core-api-binaries](https://github.com/shorthorn-project/one-core-api-binaries)
 - 系统调用表 [https://j00ru.vexillium.org/syscalls/nt/64](https://j00ru.vexillium.org/syscalls/nt/64)
 - Win32 API [https://github.com/7etsuo/windows-api-function-cheatsheets](https://github.com/7etsuo/windows-api-function-cheatsheets)
+- 移除WinAI [https://github.com/zoicware/RemoveWindowsAl](https://github.com/zoicware/RemoveWindowsAl)
+- Win镜像下载 [https://mpyit.com/html/uupdump](https://mpyit.com/html/uupdump)
 
 
 
@@ -606,6 +608,7 @@ REG DELETE "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\N
 * 系统激活 [https://github.com/massgravel/microsoft-activation-scripts](https://github.com/massgravel/microsoft-activation-scripts)
 * KMS激活 [https://github.com/zbezj/heu_kms_activator](https://github.com/zbezj/heu_kms_activator)
 * KMS激活 [https://github.com/zbezj/heu_kms_activator/releases/tag/40.0.0](https://github.com/zbezj/heu_kms_activator/releases/tag/40.0.0)
+* 系统镜像下载 [https://massgrave.dev/genuine-installation-media](https://massgrave.dev/genuine-installation-media)
 
 
 **错误代码**

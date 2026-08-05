@@ -104,6 +104,7 @@
 * 教材资源 [https://github.com/tapxworld/chinatextbook](https://github.com/tapxworld/chinatextbook)
 * 生产力工具 [https://github.com/revezone/revezone](https://github.com/revezone/revezone)
 * 国产工具合集 [https://github.com/ysztcn](https://github.com/ysztcn)
+* 文本扩展 [https://github.com/jobiewong/espanso-emojis](https://github.com/jobiewong/espanso-emojis)
 
 
 **赞赏/赞助/打赏**
@@ -129,6 +130,7 @@
 - [https://www.paypal.com/donate](https://www.paypal.com/donate)
 - [https://ko-fi.com](https://ko-fi.com)
 - [https://flattr.com](https://flattr.com)
+- 开源赞助 [https://thanks.dev](https://thanks.dev)
 
 
 
@@ -184,6 +186,7 @@
 * 推送服务 [https://github.com/uniqush/uniqush-push](https://github.com/uniqush/uniqush-push)
 * 消息推送 [https://github.com/gotify/server](https://github.com/gotify/server)
 * RSS推送 [https://github.com/easychen/rsspush](https://github.com/easychen/rsspush)
+* 网页监测 [https://m.bilibili.com/video/BV1WN4y1V7jk](https://m.bilibili.com/video/BV1WN4y1V7jk)
 
 
 
@@ -298,6 +301,8 @@
 - 编程字体 [https://github.com/microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)
 - 中文字体 [https://github.com/konghayao/chinese-free-web-font-storage](https://github.com/konghayao/chinese-free-web-font-storage)
 - 编程字体 [https://github.com/milky-han/mhm](https://github.com/milky-han/mhm)
+- 免费字体 [https://contentplatform-drcn.hihonorcdn.com/developerPlatform/HONOR_Sans_1.0](https://contentplatform-drcn.hihonorcdn.com/developerPlatform/HONOR_Sans_1.0)
+- 字体工具 [https://github.com/leibnizli/fontmagic](https://github.com/leibnizli/fontmagic)
 
 
 
@@ -411,6 +416,7 @@
     * [https://mirrors.jcut.edu.cn](https://mirrors.jcut.edu.cn)
 * 武昌首义学院 [https://mirrors.wsyu.edu.cn](https://mirrors.wsyu.edu.cn)
 * 镜像加速 [https://github.com/eryajf/thanks-mirror](https://github.com/eryajf/thanks-mirror)
+* 换源工具 [https://github.com/rubymetric/chsrc](https://github.com/rubymetric/chsrc)
 
 
 
@@ -531,6 +537,10 @@
 * 手写模拟 [https://www.beautifulcarrot.com](https://www.beautifulcarrot.com)
 * 去除背景 [https://pixian.ai](https://pixian.ai)
 * 代码截图 [https://github.com/raycast/ray-so](https://github.com/raycast/ray-so)
+* 设计工具 [https://www.gaoding.com/koutu](https://www.gaoding.com/koutu)
+* 代码截图 [https://github.com/ldered/chalk.ist](https://github.com/ldered/chalk.ist)
+* 图片放大 [https://waifu2x.udp.jp](https://waifu2x.udp.jp)
+* Logo制作 [https://www.namecheap.com/logo-maker/app/editor](https://www.namecheap.com/logo-maker/app/editor)
 
 
 

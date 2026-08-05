@@ -66,6 +66,7 @@
 - 数据仓库 [https://github.com/teradata](https://github.com/teradata)
 - 分布式KV [https://github.com/lockval](https://github.com/lockval)
 - SQL审核平台 [https://github.com/actiontech](https://github.com/actiontech)
+- 查询优化器 [https://github.com/cmu-db/optd](https://github.com/cmu-db/optd)
 
 
 
@@ -200,6 +201,8 @@
 6. 分布式数据库
 * 国产数据库 [https://www.modb.pro/db/24797](https://www.modb.pro/db/24797)
 * 数据库目录 [https://dbdb.io/browse?country=CN](https://dbdb.io/browse?country=CN)
+* 数据库排名 [https://db-engines.com](https://db-engines.com)
+* 时序数据库 [https://github.com/questdb](https://github.com/questdb)
 
 
 
@@ -537,6 +540,7 @@
 * 时序数据库 [https://github.com/greptimeteam](https://github.com/greptimeteam)
 * 数据存储 [https://github.com/schemafreesql](https://github.com/schemafreesql)
 * 自研数据库 [https://github.com/donnie4w](https://github.com/donnie4w)
+* 向量数据库 [https://maeiee-garden.vercel.app/000.wiki/What%20is%20a%20Vector%20Database%EF%BC%9F](https://maeiee-garden.vercel.app/000.wiki/What%20is%20a%20Vector%20Database%EF%BC%9F)
 
 
 
@@ -598,6 +602,9 @@
 * HyperLogLog计数 [https://juejin.cn/post/6844903785744056333](https://juejin.cn/post/6844903785744056333)
 * Redis架构演化 [https://weibo.com/ttarticle/x/m/show/id/2309404796118843392788](https://weibo.com/ttarticle/x/m/show/id/2309404796118843392788)
 * 定长队列 [https://my.oschina.net/vivotech/blog/5562479](https://my.oschina.net/vivotech/blog/5562479)
+* Redis查看器 [https://gitee.com/onefineday/redisviewer](https://gitee.com/onefineday/redisviewer)
+* 分布式锁 [https://wendajiang.github.io/redis-distribute-lock](https://wendajiang.github.io/redis-distribute-lock)
+* Redis客户端 [https://github.com/redislnsight/redislnsight](https://github.com/redislnsight/redislnsight)
 
 
 **存储方式**
@@ -612,6 +619,7 @@
 - LSM树 [https://newsletter.systemdesigncodex.com/p/an-intro-to-lsm-trees](https://newsletter.systemdesigncodex.com/p/an-intro-to-lsm-trees)
 - 存储引擎 [https://github.com/LeeBohyun/ZLeanStore](https://github.com/LeeBohyun/ZLeanStore)
 - LSM存储 [https://skyzh.github.io/mini-lsm/00-preface.html](https://skyzh.github.io/mini-lsm/00-preface.html)
+- 分布式存储 [https://github.com/ceph](https://github.com/ceph)
 
 
 **安装**

@@ -66,6 +66,8 @@
 - Telegram下载 [https://github.com/neet-nestor/telegram-media-downloader](https://github.com/neet-nestor/telegram-media-downloader)
 - 摩斯电码 [https://github.com/etherdream/headphone-morse-transmitter](https://github.com/etherdream/headphone-morse-transmitter)
 - WebRTC [https://github.com/webrtchacks](https://github.com/webrtchacks)
+- JS模板 [https://code.google.com/p/google-jstemplate](https://code.google.com/p/google-jstemplate)
+- JS编译器 [https://github.com/swc-project](https://github.com/swc-project)
 
 
 **js运行时/js引擎/JavaScript运行时/JavaScript引擎**
@@ -180,6 +182,7 @@
 - 浏览器指纹 [https://juejin.cn/post/7382344353069088803](https://juejin.cn/post/7382344353069088803)
 - 浏览器渲染 [https://juejin.cn/post/7380637950382620710](https://juejin.cn/post/7380637950382620710)
 - monorepo架构 [https://juejin.cn/post/7065141885576151070](https://juejin.cn/post/7065141885576151070)
+- JS书籍 [https://eloquentjavascript.net](https://eloquentjavascript.net)
 
 
 **模块规范**
@@ -445,3 +448,4 @@ var express = require('express');
 * WASM汇编 [https://evian-zhang.github.io/wasm-tutorial](https://evian-zhang.github.io/wasm-tutorial)
 * 浏览器Clang [https://github.com/tbfleming/cib](https://github.com/tbfleming/cib)
 * JS编译器 [https://github.com/canadahonk/porffor](https://github.com/canadahonk/porffor)
+* WebAssembly [https://github.com/zaplib/zaplib](https://github.com/zaplib/zaplib)

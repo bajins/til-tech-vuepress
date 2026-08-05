@@ -98,6 +98,7 @@
 - Vim速查 [https://michael.peopleofhonoronly.com/vim](https://michael.peopleofhonoronly.com/vim)
 - Vim文档 [https://yianwillis.github.io/vimcdoc](https://yianwillis.github.io/vimcdoc)
 - Vim插件 [https://github.com/jorenar](https://github.com/jorenar)
+- 文本编辑器 [https://www.ultraedit.com](https://www.ultraedit.com)
 
 
 

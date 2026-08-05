@@ -51,6 +51,8 @@
 * Emacs入门 [https://pavinberg.github.io/emacs-book/zh](https://pavinberg.github.io/emacs-book/zh)
 * C++IDE [https://github.com/royqh1979/redpanda-cpp](https://github.com/royqh1979/redpanda-cpp)
 * 代码协作 [https://github.com/facebook/phabricator](https://github.com/facebook/phabricator)
+* AI编程IDE [https://codeium.com](https://codeium.com)
+* 终端编辑器 [https://github.com/helix-editor](https://github.com/helix-editor)
 
 
 
@@ -132,6 +134,9 @@
 + DevOps指南 [https://github.com/tikam02/devops-guide](https://github.com/tikam02/devops-guide)
 + DevOps合规 [https://github.com/kosli-dev](https://github.com/kosli-dev)
 + CI/CD平台 [https://github.com/buildkite](https://github.com/buildkite)
++ 构建工具链 [https://sr.ht/~motiejus/bazel-zig-cc](https://sr.ht/~motiejus/bazel-zig-cc)
++ 数据库CI/CD [https://gitee.com/mirrors/Bytebase](https://gitee.com/mirrors/Bytebase)
++ 依赖更新 [https://github.com/renovatebot](https://github.com/renovatebot)
 
 
 
@@ -692,6 +697,8 @@
 - Axure组件 [https://gitee.com/bosenger/VuxAxure](https://gitee.com/bosenger/VuxAxure)
 - UML绘图 [https://plantuml.com](https://plantuml.com)
 - 设计系统 [https://tuulih6pyq.feishu.cn/wiki/S049wckCTiOYxykwXqYcALJznqf](https://tuulih6pyq.feishu.cn/wiki/S049wckCTiOYxykwXqYcALJznqf)
+- 在线绘图 [https://okso.app/showcase/data-structures](https://okso.app/showcase/data-structures)
+- 设计系统 [https://findesign.jd.com](https://findesign.jd.com)
 
 
 **本地客户端**
@@ -747,6 +754,7 @@
 * GitMind思乎 [https://gitmind.cn](https://gitmind.cn)
 * [https://www.thebrain.com](https://www.thebrain.com)
 * [https://www.matchware.com/mind-mapping-software](https://www.matchware.com/mind-mapping-software)
+* 大纲工具 [https://github.com/onepointal/onepoint](https://github.com/onepointal/onepoint)
 
 
 **本地客户端**

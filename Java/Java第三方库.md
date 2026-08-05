@@ -102,6 +102,8 @@
 - [https://github.com/jython/jython](https://github.com/jython/jython)
 - [https://github.com/beeware/voc](https://github.com/beeware/voc)
 - 向量搜索 [https://github.com/datastax/jvector](https://github.com/datastax/jvector)
+- 数据流 [https://github.com/cloudera/spark-dataflow](https://github.com/cloudera/spark-dataflow)
+- SOAP框架 [https://github.com/sonatype/patched-xfire](https://github.com/sonatype/patched-xfire)
 
 
 
@@ -763,6 +765,9 @@
 + Java框架 [https://github.com/litongjava/tio-boot](https://github.com/litongjava/tio-boot)
 + Java编译器 [https://github.com/manifold-systems](https://github.com/manifold-systems)
 + CDI注入框架 [https://github.com/weld](https://github.com/weld)
++ 依赖注入 [https://github.com/dingtingli/tinydependencylnjection](https://github.com/dingtingli/tinydependencylnjection)
++ Java原生访问 [https://github.com/java-native-access](https://github.com/java-native-access)
++ JavaWeb框架 [https://github.com/dropwizard](https://github.com/dropwizard)
 
 
 

@@ -210,6 +210,10 @@
 - Java学习 [https://github.com/tc-liang/studyjava](https://github.com/tc-liang/studyjava)
 - Java笔记 [https://github.com/niumoo/javanotes](https://github.com/niumoo/javanotes)
 - JMH基准测试 [https://juejin.cn/post/6844903936869007368](https://juejin.cn/post/6844903936869007368)
+- Java教程 [https://www.bilibili.com/video/BV1fh411y7R8?p=315](https://www.bilibili.com/video/BV1fh411y7R8?p=315)
+- Java社区 [https://foojay.io](https://foojay.io)
+- Java教程 [https://m.bilibili.com/video/BV1oq4y1v7dB](https://m.bilibili.com/video/BV1oq4y1v7dB)
+- Java与Spring [https://github.com/dyc87112](https://github.com/dyc87112)
 
 
 ## 示例项目

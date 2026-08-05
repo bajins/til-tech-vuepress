@@ -43,6 +43,7 @@
 * 领域框架 [https://github.com/st-tu-dresden/salespoint](https://github.com/st-tu-dresden/salespoint)
 * Spring示例 [https://github.com/odrotbohm/spring-restbucks](https://github.com/odrotbohm/spring-restbucks)
 * Spring示例 [https://github.com/hantsy/spring-puzzles](https://github.com/hantsy/spring-puzzles)
+* Java架构书 [https://github.com/fenixsoft](https://github.com/fenixsoft)
 
 
 
@@ -172,6 +173,7 @@ try {
 * [使用@Autowired注解警告Field injection is not recommended](https://blog.csdn.net/zhangjingao/article/details/81094529)
 
 - [Spring中获取request的几种方法，及其线程安全性分析](https://www.cnblogs.com/kismetv/p/8757260.html)
+- 依赖注入 [https://code.google.com/p/atinject](https://code.google.com/p/atinject)
 
 
 

@@ -54,6 +54,7 @@
 * 操作系统探索 [https://mohitmishra786.github.io/exploring-os/src](https://mohitmishra786.github.io/exploring-os/src)
 * 显示器管理 [https://github.com/waydabber/betterdisplay](https://github.com/waydabber/betterdisplay)
 * 显示器控制 [https://github.com/MonitorControl](https://github.com/MonitorControl)
+* NAS影视工具 [https://github.com/jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
 
 
 
@@ -220,6 +221,8 @@
 - 发行版软件包 [https://github.com/openela-main](https://github.com/openela-main)
 - 开源操作系统 [https://github.com/open-vela](https://github.com/open-vela)
 - 嵌入式操作系统 [https://github.com/vivoblueos](https://github.com/vivoblueos)
+- 操作系统 [https://github.com/yanull/os-guide-cn](https://github.com/yanull/os-guide-cn)
+- 移动系统 [https://github.com/sailfishos-mirror](https://github.com/sailfishos-mirror)
 
 
 
@@ -647,6 +650,9 @@
 - 视频流媒体 [https://github.com/ant-media](https://github.com/ant-media)
 - DNS服务器 [https://github.com/powerdns](https://github.com/powerdns)
 - 系统监控工具 [https://github.com/rapidloop](https://github.com/rapidloop)
+- 相册管理 [https://piwigo.org](https://piwigo.org)
+- 路由器系统 [https://github.com/topics/routeros](https://github.com/topics/routeros)
+- 直播平台 [https://github.com/owncast](https://github.com/owncast)
 
 
 
@@ -965,6 +971,7 @@
 * 字幕字体管理 [https://github.com/Yuri-NagaSaki/FontInAss](https://github.com/Yuri-NagaSaki/FontInAss)
 * 解密流程 [https://github.com/marlkiller/flowforge-crypto](https://github.com/marlkiller/flowforge-crypto)
 * 远程桌面 [https://github.com/cea-sec/sanzu](https://github.com/cea-sec/sanzu)
+* 墨水屏VNC [https://github.com/everydayanchovies/eink-vnc](https://github.com/everydayanchovies/eink-vnc)
 
 
 
