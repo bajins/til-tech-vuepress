@@ -36,6 +36,7 @@
 * 函数式编程 [https://geeknote.net/yuchiXiong/posts/2382](https://geeknote.net/yuchiXiong/posts/2382)
 * JS技巧 [https://segmentfault.com/a/1190000011557368](https://segmentfault.com/a/1190000011557368)
 * 数值精度 [https://segmentfault.com/a/1190000044098443](https://segmentfault.com/a/1190000044098443)
+* this原理 [https://www.zhihu.com/question/353757734/answer/2935071349](https://www.zhihu.com/question/353757734/answer/2935071349)
 
 
 

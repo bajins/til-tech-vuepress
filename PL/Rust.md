@@ -176,6 +176,7 @@
 * Rust安全 [https:///litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html](https:///litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html)
 * Rust性能 [https://github.com/gcarmix/hexwalknnethercote.github.io/perf-book](https://github.com/gcarmix/hexwalknnethercote.github.io/perf-book)
 * NES模拟器 [https://bugzmanov.github.io/nes_ebook/zaixianwan.app](https://bugzmanov.github.io/nes_ebook/zaixianwan.app)
+* Rust生态调研 [https://zhuanlan.zhihu.com/p/458046979](https://zhuanlan.zhihu.com/p/458046979)
 
 
 

@@ -98,6 +98,7 @@
 * 构建优化 [https://segmentfault.com/a/1190000042256837](https://segmentfault.com/a/1190000042256837)
 * JS打包器 [https://juejin.cn/post/6844904032587382797](https://juejin.cn/post/6844904032587382797)
 * 小程序编译 [https://my.oschina.net/u/4939618/blog/10114374](https://my.oschina.net/u/4939618/blog/10114374)
+* Monorepo设计 [https://zhuanlan.zhihu.com/p/456483953](https://zhuanlan.zhihu.com/p/456483953)
 
 
 

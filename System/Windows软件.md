@@ -566,6 +566,9 @@
 - 音乐播放器 [https://github.com/losses/rune](https://github.com/losses/rune)
 - 音乐API服务 [https://github.com/lxmusics/lx-music-api-server-python](https://github.com/lxmusics/lx-music-api-server-python)
 - 媒体播放器 [https://github.com/winampdesktop/winamp](https://github.com/winampdesktop/winamp)
+- KODI配置 [https://zhuanlan.zhihu.com/p/469759517](https://zhuanlan.zhihu.com/p/469759517)
+- 媒体管理工具 [https://zhuanlan.zhihu.com/p/436060257](https://zhuanlan.zhihu.com/p/436060257)
+- PLEX影音配置 [https://zhuanlan.zhihu.com/p/609435128](https://zhuanlan.zhihu.com/p/609435128)
 
 
 **Potplayer**

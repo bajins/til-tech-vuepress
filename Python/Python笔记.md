@@ -34,6 +34,7 @@
 * Python工程 [https://pyloong.github.io/pythonic-project-guidelines](https://pyloong.github.io/pythonic-project-guidelines)
 * Python趣题 [https://github.com/satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
 * Python指南 [https://huoyingwhw.com/pythonGuide](https://huoyingwhw.com/pythonGuide)
+* 类型标注 [https://zhuanlan.zhihu.com/p/464979921](https://zhuanlan.zhihu.com/p/464979921)
 
 
 **ModuleNotFoundError: No module named 'Crypto'解决方案**

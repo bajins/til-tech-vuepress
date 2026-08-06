@@ -56,6 +56,7 @@
 * 自制浏览器 [https://github.com/zerox-dg/moon](https://github.com/zerox-dg/moon)
 * Tiddly浏览 [https://github.com/tiddlywiki/tiddlydesktop](https://github.com/tiddlywiki/tiddlydesktop)
 * 浏览器引擎 [https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project](https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project)
+* HEVC硬解 [https://zhuanlan.zhihu.com/p/541082191](https://zhuanlan.zhihu.com/p/541082191)
 
 
 

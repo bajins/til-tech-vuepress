@@ -97,6 +97,8 @@
 - RISC-V模拟 [https://github.com/fwsgonzo/libriscv](https://github.com/fwsgonzo/libriscv)
 - 现代C++ [https://github.com/cntransgroup/effectivemoderncppchinese](https://github.com/cntransgroup/effectivemoderncppchinese)
 - 虚幻引擎 [https://github.com/tomlooman](https://github.com/tomlooman)
+- C++异步实践 [https://zhuanlan.zhihu.com/p/515309214](https://zhuanlan.zhihu.com/p/515309214)
+- C++开源源码 [https://www.zhihu.com/question/23153437](https://www.zhihu.com/question/23153437)
 
 
 

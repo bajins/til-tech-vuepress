@@ -167,6 +167,7 @@
 - 静态搜索 [https://pagefind.app](https://pagefind.app)
 - protobuf库 [https://github.com/protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js)
 - JS工具库 [https://github.com/jsmini](https://github.com/jsmini)
+- 不可变数据 [https://zhuanlan.zhihu.com/p/101534155](https://zhuanlan.zhihu.com/p/101534155)
 
 
 

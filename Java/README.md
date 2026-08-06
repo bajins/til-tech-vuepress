@@ -49,6 +49,7 @@
 - Java周刊 [https://segmentfault.com/a/1190000042549802](https://segmentfault.com/a/1190000042549802)
 - Java进阶 [https://fhfirehuo.github.io/Attacking-Java-Rookie](https://fhfirehuo.github.io/Attacking-Java-Rookie)
 - 零代码API [https://github.com/apijson](https://github.com/apijson)
+- Java容器之争 [https://www.zhihu.com/question/433870930/answer/2589604675](https://www.zhihu.com/question/433870930/answer/2589604675)
 
 
 

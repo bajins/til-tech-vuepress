@@ -378,6 +378,7 @@ var express = require('express');
 * TS开发工具 [https://github.com/jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx)
 * TS编译器 [https://github.com/marcj/typerunner](https://github.com/marcj/typerunner)
 * 类型安全 [https://github.com/true-myth/true-myth](https://github.com/true-myth/true-myth)
+* TS采用心得 [https://zhuanlan.zhihu.com/p/690341608](https://zhuanlan.zhihu.com/p/690341608)
 
 
 

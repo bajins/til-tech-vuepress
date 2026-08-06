@@ -972,6 +972,7 @@
 * 解密流程 [https://github.com/marlkiller/flowforge-crypto](https://github.com/marlkiller/flowforge-crypto)
 * 远程桌面 [https://github.com/cea-sec/sanzu](https://github.com/cea-sec/sanzu)
 * 墨水屏VNC [https://github.com/everydayanchovies/eink-vnc](https://github.com/everydayanchovies/eink-vnc)
+* 远程协助手机 [https://zhuanlan.zhihu.com/p/397892677](https://zhuanlan.zhihu.com/p/397892677)
 
 
 

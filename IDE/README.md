@@ -499,6 +499,7 @@
 - 负载测试 [https://gatling.io](https://gatling.io)
 - 接口测试 [https://github.com/tahitimoon/lunarlink](https://github.com/tahitimoon/lunarlink)
 - GUI自动化 [https://github.com/clicknium](https://github.com/clicknium)
+- TCPCopy原理 [https://zhuanlan.zhihu.com/p/719289946](https://zhuanlan.zhihu.com/p/719289946)
 
 
 **ChaosTesting混沌测试/线性测试**

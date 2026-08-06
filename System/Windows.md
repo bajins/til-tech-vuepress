@@ -388,6 +388,7 @@ REG DELETE "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\N
 * 微软文件下载 [https://tb.rg-adguard.net/public.php](https://tb.rg-adguard.net/public.php)
 * 制作ISO [https://github.com/gus33000/uupmediacreator](https://github.com/gus33000/uupmediacreator)
 * 介质制作 [https://github.com/aveyo/mediacreationtool.bat](https://github.com/aveyo/mediacreationtool.bat)
+* Windows镜像下载 [https://zhuanlan.zhihu.com/p/104547677](https://zhuanlan.zhihu.com/p/104547677)
 
 
 

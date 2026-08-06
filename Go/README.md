@@ -166,6 +166,7 @@
 * Go源码讲解 [https://github.com/cuishuang/explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)
 * Go周刊 [https://segmentfault.com/a/1190000042513773](https://segmentfault.com/a/1190000042513773)
 * Go内存管理 [https://draven.co/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator](https://draven.co/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator)
+* Go学习资料 [https://www.zhihu.com/people/fengy666](https://www.zhihu.com/people/fengy666)
 
 
 
