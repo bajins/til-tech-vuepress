@@ -576,6 +576,7 @@
 * Vala语言 [https://gitlab.gnome.org/GNOME/vala](https://gitlab.gnome.org/GNOME/vala)
 * Lisp GUI [https://github.com/rabbibotton/clog](https://github.com/rabbibotton/clog)
 * 绘图语言 [https://github.com/terrastruct](https://github.com/terrastruct)
+* 文言编程 [https://wenyan-lang/wenyan](https://wenyan-lang/wenyan)
 
 
 
