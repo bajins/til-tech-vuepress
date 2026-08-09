@@ -57,6 +57,7 @@
 * Tiddly浏览 [https://github.com/tiddlywiki/tiddlydesktop](https://github.com/tiddlywiki/tiddlydesktop)
 * 浏览器引擎 [https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project](https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project)
 * HEVC硬解 [https://zhuanlan.zhihu.com/p/541082191](https://zhuanlan.zhihu.com/p/541082191)
+* Chrome架构 [https://juejin.cn/post/6985406475493441566](https://juejin.cn/post/6985406475493441566)
 
 
 

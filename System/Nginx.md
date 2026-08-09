@@ -694,6 +694,7 @@ http {
 }
 ```
 * Nginx配置 [https://github.com/cym1102/nginxwebui](https://github.com/cym1102/nginxwebui)
+* 负载均衡 [https://blog.csdn.net/apple9005/article/details/79961391](https://blog.csdn.net/apple9005/article/details/79961391)
 
 
 ## 动静分离配置

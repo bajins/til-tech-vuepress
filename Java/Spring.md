@@ -44,6 +44,7 @@
 * Spring示例 [https://github.com/odrotbohm/spring-restbucks](https://github.com/odrotbohm/spring-restbucks)
 * Spring示例 [https://github.com/hantsy/spring-puzzles](https://github.com/hantsy/spring-puzzles)
 * Java架构书 [https://github.com/fenixsoft](https://github.com/fenixsoft)
+* 跨域方案 [https://blog.csdn.net/weter_drop/article/details/112135940](https://blog.csdn.net/weter_drop/article/details/112135940)
 
 
 

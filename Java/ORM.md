@@ -105,6 +105,9 @@
     - [https://github.com/spannm/jackcess](https://github.com/spannm/jackcess)
 - SQL Server [https://github.com/Microsoft/mssql-jdbc](https://github.com/Microsoft/mssql-jdbc)
     - [https://learn.microsoft.com/zh-cn/sql/connect/jdbc](https://learn.microsoft.com/zh-cn/sql/connect/jdbc)
+- JDBC流读取 [https://blog.csdn.net/xieyuooo/article/details/83109971](https://blog.csdn.net/xieyuooo/article/details/83109971)
+- 批量插入 [https://blog.csdn.net/C3245073527/article/details/122071045](https://blog.csdn.net/C3245073527/article/details/122071045)
+- 批处理SQL [https://blog.csdn.net/u011389474/article/details/52815840](https://blog.csdn.net/u011389474/article/details/52815840)
 
 
 **MySQL Connector/J驱动与MySQL版本差异**
@@ -256,6 +259,7 @@
 * [一条sql查出树形结构数据](https://my.oschina.net/u/2326864/blog/1622990)
 * [Sql中对于树形结构的处理](https://blog.csdn.net/weixin_43794897/article/details/88534992)
 * Mybatis源码 [https://segmentfault.com/a/1190000042093418](https://segmentfault.com/a/1190000042093418)
+* 批量游标 [https://blog.csdn.net/cczakai/article/details/7023188](https://blog.csdn.net/cczakai/article/details/7023188)
 
 
 **trim标签**

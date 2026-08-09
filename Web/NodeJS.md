@@ -271,6 +271,7 @@ npm install -g yarn
 * 包管理器 [https://github.com/orogene/orogene](https://github.com/orogene/orogene)
 * 前端工程化 [https://github.com/waldronmatt/pnpm-turborepo-auto-boilerplate](https://github.com/waldronmatt/pnpm-turborepo-auto-boilerplate)
 * 前端包管理 [https://bower.io](https://bower.io)
+* 单仓管理 [https://blog.csdn.net/qq_42415326/article/details/125148474](https://blog.csdn.net/qq_42415326/article/details/125148474)
 
 **卸载**
 

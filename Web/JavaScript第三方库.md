@@ -168,6 +168,7 @@
 - protobuf库 [https://github.com/protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js)
 - JS工具库 [https://github.com/jsmini](https://github.com/jsmini)
 - 不可变数据 [https://zhuanlan.zhihu.com/p/101534155](https://zhuanlan.zhihu.com/p/101534155)
+- immutable [https://blog.csdn.net/qq_42941302/article/details/111834035](https://blog.csdn.net/qq_42941302/article/details/111834035)
 
 
 
@@ -544,6 +545,7 @@
 * 景深模拟 [https://jherr.github.io/depth-of-field](https://jherr.github.io/depth-of-field)
 * 媒体处理库 [https://github.com/Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny)
 * PNG解析库 [https://github.com/image-js/fast-png](https://github.com/image-js/fast-png)
+* Video.js [https://blog.csdn.net/little__SuperMan/article/details/89203270](https://blog.csdn.net/little__SuperMan/article/details/89203270)
 
 
 
