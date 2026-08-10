@@ -834,6 +834,7 @@
 * [https://github.com/tylearymf/SETUNA2](https://github.com/tylearymf/SETUNA2)
 * [https://github.com/mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)
 * [https://github.com/jasperdevs/odd-snap](https://github.com/jasperdevs/odd-snap)
+* [https://github.com/HuibingLin/LiteSnap](https://github.com/HuibingLin/LiteSnap)
 
 
 **FastStone Capture**
@@ -1360,6 +1361,7 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
     * [https://github.com/ez8-co/unlocker](https://github.com/ez8-co/unlocker)
 * 微信清理 [https://github.com/blackboxo/cleanmywechat](https://github.com/blackboxo/cleanmywechat)
 * 内存清理 [https://github.com/henrypp/memreduct](https://github.com/henrypp/memreduct)
+* 软件毒瘤清理 [https://github.com/aakk007/RogueCleaner](https://github.com/aakk007/RogueCleaner)
 
 
 
@@ -1621,6 +1623,7 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * 数据可视化 [https://labplot.org](https://labplot.org)
 * 输入法 [https://github.com/rime](https://github.com/rime)
 * [https://github.com/studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)
+* [https://github.com/metasequoiaime/MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf)
 * 计算器 [https://github.com/Qalculate](https://github.com/Qalculate)
 * [https://github.com/microsoft/calculator](https://github.com/microsoft/calculator)
 * [https://github.com/nikolaeu/numi](https://github.com/nikolaeu/numi)

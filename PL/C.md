@@ -354,6 +354,7 @@
 * 字体渲染 [https://sourceforge.net/projects/freetype](https://sourceforge.net/projects/freetype)
 * 编译Cairo [https://blog.csdn.net/hfy1237/article/details/127635831](https://blog.csdn.net/hfy1237/article/details/127635831)
 * BPF库 [https://github.com/libbpf/libbpf](https://github.com/libbpf/libbpf)
+* 系统托盘 [https://github.com/zserge/tray](https://github.com/zserge/tray)
 
 
 
