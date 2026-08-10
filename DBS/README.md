@@ -605,7 +605,7 @@
 * 定长队列 [https://my.oschina.net/vivotech/blog/5562479](https://my.oschina.net/vivotech/blog/5562479)
 * Redis查看器 [https://gitee.com/onefineday/redisviewer](https://gitee.com/onefineday/redisviewer)
 * 分布式锁 [https://wendajiang.github.io/redis-distribute-lock](https://wendajiang.github.io/redis-distribute-lock)
-* Redis客户端 [https://github.com/redislnsight/redislnsight](https://github.com/redislnsight/redislnsight)
+* Redis客户端 [https://github.com/RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
 
 **存储方式**

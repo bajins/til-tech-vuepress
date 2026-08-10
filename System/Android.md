@@ -83,7 +83,7 @@
 + Android引导 [https://github.com/appintro](https://github.com/appintro)
 + Android模拟器 [https://github.com/genymobile](https://github.com/genymobile)
 + Linux安卓 [https://github.com/linux-on-droid](https://github.com/linux-on-droid)
-+ 图片处理 [https://github.com/t8rin/lmagetoolbox](https://github.com/t8rin/lmagetoolbox)
++ 图片处理 [https://github.com/t8rin/ImageToolbox](https://github.com/t8rin/ImageToolbox)
 + Android框架 [https://github.com/aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base)
 + 信号检测 [https://github.com/hzx0910/cellular-z](https://github.com/hzx0910/cellular-z)
 + 漫画阅读器 [https://github.com/tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)

@@ -153,7 +153,6 @@
 * Go教程 [https://www.practical-go-lessons.com](https://www.practical-go-lessons.com)
 * Go路线图 [https://github.com/alikhll/golang-developer-roadmap](https://github.com/alikhll/golang-developer-roadmap)
 * Go书籍 [https://github.com/hantmac/mastering_go_zh_cn](https://github.com/hantmac/mastering_go_zh_cn)
-* Go源码分析 [https://github.com/leoyang90/golang-internal-notes](https://github.com/leoyang90/golang-internal-notes)
 * Go课程 [https://github.com/karanpratapsingh/go-course](https://github.com/karanpratapsingh/go-course)
 * Go教程 [https://github.com/plutov/packagemain](https://github.com/plutov/packagemain)
 * Go语言101 [https://gfw.go101.org/article/101.html](https://gfw.go101.org/article/101.html)

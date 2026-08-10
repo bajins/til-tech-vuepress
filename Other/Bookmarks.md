@@ -308,7 +308,6 @@
 - 在线影视 [https://www.codebaoku.com](https://www.codebaoku.com)
 - IPTV资源 [https://gitee.com/eata2017/tv](https://gitee.com/eata2017/tv)
 - 影视数据库 [https://www.themoviedb.org](https://www.themoviedb.org)
-- IPTV直播 [https://github.com/joevess/lptv](https://github.com/joevess/lptv)
 - 音乐解锁 [https://git.unlock-music.dev](https://git.unlock-music.dev)
 - 影视源 [https://pastebin.com/raw/gtbKvnE1](https://pastebin.com/raw/gtbKvnE1)
 - 影视源 [https://pastebin.com/raw/sbPpDm9G](https://pastebin.com/raw/sbPpDm9G)

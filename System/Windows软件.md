@@ -749,8 +749,7 @@
 * 截屏工具 [https://github.com/xland/ScreenCapture](https://github.com/xland/ScreenCapture)
 * 图片编辑器 [https://github.com/CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)
 * 图片查看器 [https://github.com/jark006/jarkviewer](https://github.com/jark006/jarkviewer)
-* 图片查看器 [https://github.com/voidtools/voidlmageViewer](https://github.com/voidtools/voidlmageViewer)
-* 图片查看 [https://github.com/d2phap/lmageglass](https://github.com/d2phap/lmageglass)
+* 图片查看器 [https://github.com/voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer)
 
 
 **Icon矢量图**
