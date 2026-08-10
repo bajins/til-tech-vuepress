@@ -108,6 +108,7 @@
 - JDBC流读取 [https://blog.csdn.net/xieyuooo/article/details/83109971](https://blog.csdn.net/xieyuooo/article/details/83109971)
 - 批量插入 [https://blog.csdn.net/C3245073527/article/details/122071045](https://blog.csdn.net/C3245073527/article/details/122071045)
 - 批处理SQL [https://blog.csdn.net/u011389474/article/details/52815840](https://blog.csdn.net/u011389474/article/details/52815840)
+- 关闭游标 [https://blog.csdn.net/xiaole060901/article/details/108852333](https://blog.csdn.net/xiaole060901/article/details/108852333)
 
 
 **MySQL Connector/J驱动与MySQL版本差异**
