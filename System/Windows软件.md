@@ -569,6 +569,8 @@
 - KODI配置 [https://zhuanlan.zhihu.com/p/469759517](https://zhuanlan.zhihu.com/p/469759517)
 - 媒体管理工具 [https://zhuanlan.zhihu.com/p/436060257](https://zhuanlan.zhihu.com/p/436060257)
 - PLEX影音配置 [https://zhuanlan.zhihu.com/p/609435128](https://zhuanlan.zhihu.com/p/609435128)
+- IP电视源 [https://github.com/vamoschuck/tv](https://github.com/vamoschuck/tv)
+- IP电视源 [https://github.com/whpsky/iptv](https://github.com/whpsky/iptv)
 
 
 **Potplayer**

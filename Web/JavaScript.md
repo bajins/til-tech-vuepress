@@ -105,6 +105,7 @@
 - JS运行时 [https://github.com/wasmerio/winterjs](https://github.com/wasmerio/winterjs)
 - JS引擎 [https://github.com/topchetoeu/jscript](https://github.com/topchetoeu/jscript)
 - 嵌入式JS引擎 [https://github.com/bellard/mquickjs](https://github.com/bellard/mquickjs)
+- JS运行时 [https://github.com/jarred-sumner/bun](https://github.com/jarred-sumner/bun)
 
 
 
@@ -450,3 +451,4 @@ var express = require('express');
 * 浏览器Clang [https://github.com/tbfleming/cib](https://github.com/tbfleming/cib)
 * JS编译器 [https://github.com/canadahonk/porffor](https://github.com/canadahonk/porffor)
 * WebAssembly [https://github.com/zaplib/zaplib](https://github.com/zaplib/zaplib)
+* wasm组件 [https://my.oschina.net/o2team/blog/10110614](https://my.oschina.net/o2team/blog/10110614)

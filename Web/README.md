@@ -236,6 +236,7 @@
 * 语雀知识库 [https://github.com/yuque](https://github.com/yuque)
 * 静态站生成 [https://github.com/gatsbyjs](https://github.com/gatsbyjs)
 * 团队知识库 [https://github.com/outline](https://github.com/outline)
+* 博客源码 [https://github.com/kirikira/kirikira.moe](https://github.com/kirikira/kirikira.moe)
 
 
 

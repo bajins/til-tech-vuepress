@@ -313,6 +313,7 @@
 - 影视源 [https://pastebin.com/raw/gtbKvnE1](https://pastebin.com/raw/gtbKvnE1)
 - 影视源 [https://pastebin.com/raw/sbPpDm9G](https://pastebin.com/raw/sbPpDm9G)
 - 直播源 [https://zb.v1.mk](https://zb.v1.mk)
+- 字幕编辑 [https://www.happyscribe.com/subtitle-tools/online-subtitle-editor/free](https://www.happyscribe.com/subtitle-tools/online-subtitle-editor/free)
 
 
 
@@ -364,6 +365,8 @@
 * 设计工具对比 [https://designtools.fyi](https://designtools.fyi)
 * 通用设计 [https://universaldesignguide.com](https://universaldesignguide.com)
 * 落地页设计 [https://www.bmms.me/blog/landing-page](https://www.bmms.me/blog/landing-page)
+* 设计系统 [https://design.ksyun.com/font](https://design.ksyun.com/font)
+* Blender插件 [https://paveloliva.gumroad.com/l/buildify](https://paveloliva.gumroad.com/l/buildify)
 
 
 ## 文档

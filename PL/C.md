@@ -353,6 +353,7 @@
 * X11库 [https://gitlab.freedesktop.org/xorg/lib/libx11](https://gitlab.freedesktop.org/xorg/lib/libx11)
 * 字体渲染 [https://sourceforge.net/projects/freetype](https://sourceforge.net/projects/freetype)
 * 编译Cairo [https://blog.csdn.net/hfy1237/article/details/127635831](https://blog.csdn.net/hfy1237/article/details/127635831)
+* BPF库 [https://github.com/libbpf/libbpf](https://github.com/libbpf/libbpf)
 
 
 

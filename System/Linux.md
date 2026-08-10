@@ -269,6 +269,7 @@ sudo apt clean
 - 应用启动器 [https://github.com/mdgaziur/findex](https://github.com/mdgaziur/findex)
 - chroot模拟 [https://github.com/dex4er/fakechroot](https://github.com/dex4er/fakechroot)
 - BSD工具集 [https://github.com/dcantrell/bsdutils](https://github.com/dcantrell/bsdutils)
+- 配置管理 [https://github.com/ema/pets](https://github.com/ema/pets)
 
 
 
@@ -305,6 +306,7 @@ sudo apt clean
 * 桌面合成器 [https://gitlab.freedesktop.org/wayland/weston](https://gitlab.freedesktop.org/wayland/weston)
 * Linux桌面 [https://github.com/BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop)
 * Linux桌面 [https://linuxhitchhiker.github.io/THGLG](https://linuxhitchhiker.github.io/THGLG)
+* 桌面环境 [https://desktop.kerahq.com](https://desktop.kerahq.com)
 
 
 

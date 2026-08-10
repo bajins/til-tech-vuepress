@@ -577,6 +577,7 @@
 * Lisp GUI [https://github.com/rabbibotton/clog](https://github.com/rabbibotton/clog)
 * 绘图语言 [https://github.com/terrastruct](https://github.com/terrastruct)
 * 文言编程 [https://wenyan-lang/wenyan](https://wenyan-lang/wenyan)
+* OCaml教程 [https://cs3110.github.io/textbook](https://cs3110.github.io/textbook)
 
 
 

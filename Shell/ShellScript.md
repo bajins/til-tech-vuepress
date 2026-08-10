@@ -52,6 +52,7 @@
 * Shell编程 [https://tinylab-1.gitbook.io/shellbook](https://tinylab-1.gitbook.io/shellbook)
 * 路由器工具箱 [https://github.com/wingyue/mixbox](https://github.com/wingyue/mixbox)
 * bash技巧 [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+* 安装脚本 [https://github.com/monlor/mbfiles](https://github.com/monlor/mbfiles)
 
 
 
