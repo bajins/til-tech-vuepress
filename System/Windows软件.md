@@ -108,7 +108,6 @@
     * [https://signal.org](https://signal.org)
 * [https://github.com/threema-ch](https://github.com/threema-ch)
 * [https://github.com/Viber](https://github.com/Viber)
-* [https://trello.com](https://trello.com)
 * [https://libera.chat](https://libera.chat)
 * [https://teams.microsoft.com](https://teams.microsoft.com)
 * [https://discord.com](https://discord.com)
@@ -137,7 +136,6 @@
 * [https://github.com/friendica/friendica](https://github.com/friendica/friendica)
 * [https://framagit.org/hubzilla/core](https://framagit.org/hubzilla/core)
     * [https://hubzilla.org](https://hubzilla.org)
-* [https://github.com/diaspora](https://github.com/diaspora)
 * [https://github.com/misskey-dev/misskey](https://github.com/misskey-dev/misskey)
 * [https://git.pleroma.social/pleroma/pleroma](https://git.pleroma.social/pleroma/pleroma)
 * [https://github.com/Minds](https://github.com/Minds)
@@ -417,7 +415,6 @@
 ## 音视频
 
 + [https://github.com/topics/music-app](https://github.com/topics/music-app)
-+ [https://github.com/topics/music-app](https://github.com/topics/music-app)
 
 
 - [https://cue-splitter.medieval.it](https://cue-splitter.medieval.it)
@@ -484,7 +481,6 @@
 - [https://www.midomi.com](https://www.midomi.com)
 - [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore)
 - [https://github.com/Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader)
-- [https://github.com/qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 - 音频处理 [https://www.surina.net/soundtouch](https://www.surina.net/soundtouch)
 - 字幕 [https://github.com/foxofice/sub_share](https://github.com/foxofice/sub_share)
 - [https://github.com/solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer)
@@ -498,7 +494,6 @@
 - [https://www.capcut.com](https://www.capcut.com)
 - [https://github.com/msgbyte/cutia](https://github.com/msgbyte/cutia)
 - [https://www.kuaishou.com/kuaiying](https://www.kuaishou.com/kuaiying)
-- [https://www.topazlabs.com](https://www.topazlabs.com)
 - [https://shana.pe.kr/shanaencoder_download](https://shana.pe.kr/shanaencoder_download)
 - [https://github.com/tnfe/FFCreator](https://github.com/tnfe/FFCreator)
 - [https://sourceforge.net/projects/vidiot](https://sourceforge.net/projects/vidiot)
@@ -721,7 +716,6 @@
 * [https://cn.bandisoft.com/honeyview](https://cn.bandisoft.com/honeyview)
 * [https://www.freshdevices.com](https://www.freshdevices.com)
 * [https://www.meitu.com](https://www.meitu.com)
-* [https://github.com/027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec)
 * [https://www.fastpictureviewer.com](https://www.fastpictureviewer.com)
 * [https://github.com/meowtec/Imagine](https://github.com/meowtec/Imagine)
 * 图片压缩 [https://github.com/GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)
@@ -740,7 +734,6 @@
 * [图像校正和漂白工具 PM lite](https://www.52pojie.cn/thread-1880475-1-1.html)
 * 水印 [https://github.com/topics/watermark](https://github.com/topics/watermark)
 * [https://github.com/dxcweb/watermark](https://github.com/dxcweb/watermark)
-* 模拟iPhone截图 [https://shots.so](https://shots.so)
 * [https://app.jellylade.com](https://app.jellylade.com)
 * [图片分割工具带实时预览](https://www.52pojie.cn/thread-2077339-1-1.html)
 * 截图工具 [https://github.com/yeahitsjan/pawxel](https://github.com/yeahitsjan/pawxel)
@@ -787,9 +780,7 @@
 * [https://github.com/KDE/krita](https://github.com/KDE/krita)
     * [https://invent.kde.org/graphics/krita](https://invent.kde.org/graphics/krita)
     * [https://krita.org/zh-cn/download](https://krita.org/zh-cn/download)
-    * [https://github.com/Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion)
     * [https://github.com/Falano/kritaSpritesheetManager](https://github.com/Falano/kritaSpritesheetManager)
-* [https://invent.kde.org/graphics/digikam](https://invent.kde.org/graphics/digikam)
     * [https://www.digikam.org](https://www.digikam.org)
 * [https://github.com/darktable-org/darktable](https://github.com/darktable-org/darktable)
     * [https://www.darktable.org](https://www.darktable.org)
@@ -824,7 +815,6 @@
 + [https://github.com/topics/screencast](https://github.com/topics/screencast)
 + [https://github.com/topics/screenshot](https://github.com/topics/screenshot)
 + [https://github.com/topics/image-editing](https://github.com/topics/image-editing)
-+ [https://github.com/topics/image-processing](https://github.com/topics/image-processing)
 + [https://github.com/topics/capture](https://github.com/topics/capture)
 
 
@@ -1106,7 +1096,6 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 + [https://github.com/topics/smtp-client](https://github.com/topics/smtp-client)
 + [https://github.com/topics/imap-client](https://github.com/topics/imap-client)
 + [https://github.com/topics/e-mail](https://github.com/topics/e-mail)
-+ [https://github.com/topics/mail](https://github.com/topics/e-mail)
 
 
 * Thunderbird [https://github.com/thundernest](https://github.com/thundernest)
@@ -1127,7 +1116,6 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * [https://www.emclient.com](https://www.emclient.com)
 * [https://www.getmailbird.com](https://www.getmailbird.com)
 * [https://www.twobird.com](https://www.twobird.com)
-* [https://sparkmailapp.com](https://sparkmailapp.com)
 * Outlook 使用时有自动删除邮件的BUG
 * 邮件客户端 [https://github.com/cypht-org/cypht](https://github.com/cypht-org/cypht)
 
@@ -1285,7 +1273,6 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * 文件清理 [https://github.com/bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
 * 哈希值计算 [https://github.com/hrpzcf/HashCalculator](https://github.com/hrpzcf/HashCalculator)
 * 文件查看器 [https://github.com/stardustai/dataset-viewer](https://github.com/stardustai/dataset-viewer)
-* 文件夹生成HTML [https://www.lanzoui.com/b0f1k59qh](https://www.lanzoui.com/b0f1k59qh)
 * 数据恢复 [https://github.com/wlzh/DiskRescue](https://github.com/wlzh/DiskRescue)
 * [https://www.cgsecurity.org/wiki/TestDisk_CN](https://www.cgsecurity.org/wiki/TestDisk_CN)
 * [https://www.ccleaner.com/zh-cn/recuva](https://www.ccleaner.com/zh-cn/recuva)
@@ -1473,7 +1460,6 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
     * [https://github.com/edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo)
 * [https://github.com/Seagate/openSeaChest](https://github.com/Seagate/openSeaChest)
 * [https://github.com/microsoft/diskspd](https://github.com/microsoft/diskspd)
-* [https://github.com/axboe/fio](https://github.com/axboe/fio)
 * [https://github.com/AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
 * [https://sourceforge.net/projects/iometer](https://sourceforge.net/projects/iometer)
 * SSD-Z [http://aezay.dk](http://aezay.dk)
@@ -1488,7 +1474,6 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * [https://www.karhusoftware.com/ramtest](https://www.karhusoftware.com/ramtest)
 * [https://ram-nuke.com](https://ram-nuke.com)
 * 性能测试 [https://github.com/xmrig/xmrig](https://github.com/xmrig/xmrig)
-* [https://www.aida64.com/downloads](https://www.aida64.com/downloads)
 * [https://github.com/Mysticial/y-cruncher](https://github.com/Mysticial/y-cruncher)
     * [https://www.numberworld.org/y-cruncher](https://www.numberworld.org/y-cruncher)
 * [https://www.softwareok.com/?page=Windows/Tip/Tools/6](https://www.softwareok.com/?page=Windows/Tip/Tools/6)
@@ -1545,7 +1530,6 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * 键盘控制鼠标 [https://github.com/lesderid/keynavish](https://github.com/lesderid/keynavish)
 * [https://github.com/jordansissel/keynav](https://github.com/jordansissel/keynav)
 * 远程鼠标控制 [https://github.com/feschber/lan-mouse](https://github.com/feschber/lan-mouse)
-* [https://github.com/deskflow/deskflow](https://github.com/deskflow/deskflow)
 * 键鼠共享 [https://github.com/XxMinor/mykvm](https://github.com/XxMinor/mykvm)
 * 禁用触摸板 [https://touchfreeze.net](https://touchfreeze.net)
 * [https://github.com/VoodooI2C/VoodooI2CELAN](https://github.com/VoodooI2C/VoodooI2CELAN)

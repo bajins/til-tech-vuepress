@@ -370,7 +370,6 @@ console.log($("#a").data('name'));//undefined
 
 ## 自动触发事件
 
-* [https://developer.mozilla.org/zh-CN/docs/Web/API/Event](https://developer.mozilla.org/zh-CN/docs/Web/API/Event)
 
 ```js
 var event = document.createEvent('Event'); // 创建

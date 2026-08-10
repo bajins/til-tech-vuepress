@@ -626,7 +626,6 @@ func TestGorutine(t *testing.T) {
 * [https://github.com/jinzhu/gorm](https://github.com/jinzhu/gorm)
 * [https://github.com/go-xorm/xorm](https://github.com/go-xorm/xorm)
 * [https://github.com/gohouse/gorose](https://github.com/gohouse/gorose)
-* [https://github.com/go-gorp/gorp](https://github.com/go-gorp/gorp)
 * ORM框架 [https://github.com/ent/ent](https://github.com/ent/ent)
 * ORM框架 [https://github.com/dominic-wassef/ghostly](https://github.com/dominic-wassef/ghostly)
 * ORM客户端 [https://github.com/prisma/prisma-client-go](https://github.com/prisma/prisma-client-go)

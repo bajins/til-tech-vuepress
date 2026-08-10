@@ -273,7 +273,6 @@
 * [https://github.com/stephenhutchings/microns](https://github.com/stephenhutchings/microns)
 * [https://github.com/opencontainers/artwork](https://github.com/opencontainers/artwork)
 * [https://github.com/PrestaShop/prestashop-icon-font](https://github.com/PrestaShop/prestashop-icon-font)
-* [https://github.com/mariuszostrowski/subway](https://github.com/mariuszostrowski/subway)
 * [https://github.com/icons8/windows-10-icons](https://github.com/icons8/windows-10-icons)
 * [https://oldsite.alessioatzeni.com/metrize-icons](https://oldsite.alessioatzeni.com/metrize-icons)
 * [https://www.zondicons.com](https://www.zondicons.com)

@@ -72,7 +72,6 @@
 - [https://github.com/baiy/Ctool](https://github.com/baiy/Ctool)
 - [https://github.com/homeinfra-org/infra](https://github.com/homeinfra-org/infra)
 - [Microsoft Store开发人员工具](https://www.microsoft.com/zh-cn/store/most-popular/apps/pc?category=developer%20tools)
-- WakaTime [https://github.com/muety/wakapi](https://github.com/muety/wakapi)
 
 
 
@@ -431,7 +430,6 @@
 + [https://github.com/yapi-pro/yapi](https://github.com/yapi-pro/yapi)
 + [https://github.com/sosoapi/sosoapi-web](https://github.com/sosoapi/sosoapi-web)
 + [https://www.apizza.net](https://www.apizza.net)
-+ [https://github.com/eolinker](https://github.com/eolinker)
     + [https://www.eolink.com](https://www.eolink.com)
     + [https://github.com/APIParkLab/APIPark](https://github.com/APIParkLab/APIPark)
     + [https://github.com/airplayx/eoLinker](https://github.com/airplayx/eoLinker)
@@ -469,7 +467,6 @@
 
 
 
-- mac paw [https://github.com/luckymarmot](https://github.com/luckymarmot)
 - [https://github.com/f0ng/poc2jar](https://github.com/f0ng/poc2jar)
 - [https://github.com/ffffffff0x/BerylEnigma](https://github.com/ffffffff0x/BerylEnigma)
 - 调试工具 [https://github.com/didi/dokit](https://github.com/didi/dokit)
@@ -638,7 +635,6 @@
 + [https://github.com/topics/diagram-editor](https://github.com/topics/diagram-editor)
 
 
-* [https://www.heidisql.com](https://www.heidisql.com)
 * [https://gitee.com/robergroup/pdmaner](https://gitee.com/robergroup/pdmaner)
 * PowerDesigner [https://www.sap.com/products/powerdesigner-data-modeling-tools.html](https://www.sap.com/products/powerdesigner-data-modeling-tools.html)
 * [http://www.borland.com/together](http://www.borland.com/together)
@@ -752,7 +748,6 @@
     * [https://mm.edrawsoft.cn/community/1/1](https://mm.edrawsoft.cn/community/1/1)
     * [https://www.edrawmind.com/edrawmind-online.html](https://www.edrawmind.com/edrawmind-online.html)
 * TreeMind树图 [https://shutu.cn](https://shutu.cn)
-* GitMind思乎 [https://gitmind.cn](https://gitmind.cn)
 * [https://www.thebrain.com](https://www.thebrain.com)
 * [https://www.matchware.com/mind-mapping-software](https://www.matchware.com/mind-mapping-software)
 * 大纲工具 [https://github.com/onepointal/onepoint](https://github.com/onepointal/onepoint)
@@ -897,7 +892,6 @@
 * [https://www.atlassian.com/zh/software/jira](https://www.atlassian.com/zh/software/jira)
     * [https://github.com/integrations/jira](https://github.com/integrations/jira)
 * [https://github.com/redmine/redmine](https://github.com/redmine/redmine)
-* [https://gitee.com/itestwork/itest](https://gitee.com/itestwork/itest)
 * [https://github.com/hyahm/ITflow](https://github.com/hyahm/ITflow)
 * [https://www.tapd.cn](https://www.tapd.cn)
 * [https://github.com/devstream-io/devstream](https://github.com/devstream-io/devstream)

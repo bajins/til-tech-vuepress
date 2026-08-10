@@ -6,7 +6,6 @@
 ## FLAG
 
 
-+ [https://github.com/jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 + [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
 + [Python 常用的标准库以及第三方库有哪些？](https://www.zhihu.com/question/20501628/answers/updated)
 + [https://github.com/MagicStack](https://github.com/MagicStack)

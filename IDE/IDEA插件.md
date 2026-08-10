@@ -11,7 +11,6 @@
 - 主题 [http://soft-hub.cn](http://soft-hub.cn)
 
 
-* [https://www.jetbrains.com/idea/download/other.html](https://www.jetbrains.com/idea/download/other.html)
     * [https://github.com/designinlife/jetbrains](https://github.com/designinlife/jetbrains)
 * [https://github.com/search?q=jetbrains+agent+OR+jetbra&s=updated](https://github.com/search?q=jetbrains+agent+OR+jetbra&s=updated)
 * [https://zhile.io](https://zhile.io)
@@ -420,7 +419,6 @@
 - [https://github.com/AntonShuvaev/intellij-datagraph](https://github.com/AntonShuvaev/intellij-datagraph)
 - [https://github.com/YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
 - 接口文档生成 [https://github.com/liuzhihang/doc-view](https://github.com/liuzhihang/doc-view)
-- [https://github.com/starcwang/easy_javadoc](https://github.com/starcwang/easy_javadoc)
 
 **JavaDoc**
 
@@ -511,7 +509,6 @@
 
 ## UI与编辑体验增强
 
-- 反编译 [https://github.com/selfancy/codespy](https://github.com/selfancy/codespy)
 - 缩略图 [https://github.com/Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro)
 - 序列图 [https://github.com/Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin)
 - Compose颜色预览 [https://github.com/zTrap/compose-color-preview-plugin](https://github.com/zTrap/compose-color-preview-plugin)

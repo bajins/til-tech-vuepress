@@ -243,7 +243,6 @@ vi webapps/host-manager/META-INF/context.xml
 
 ## CentOS安装Tomcat
 
-* [https://tomcat.apache.org](https://tomcat.apache.org)
 
 **解压**
 

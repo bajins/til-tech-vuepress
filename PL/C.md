@@ -436,7 +436,6 @@
 
 - 反汇编： C32asm、MYCCL、OD、IDA、softICE、WinDbg
 - [https://github.com/zyantific/zydis](https://github.com/zyantific/zydis)
-- [https://github.com/capstone-engine/capstone](https://github.com/capstone-engine/capstone)
 - [https://github.com/asmjit](https://github.com/asmjit)
 - [https://bitbucket.org/mrexodia/lz4](https://bitbucket.org/mrexodia/lz4)
 - [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)

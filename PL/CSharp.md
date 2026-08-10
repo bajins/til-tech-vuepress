@@ -323,7 +323,6 @@
 * Unity3D [https://github.com/egametang/ET](https://github.com/egametang/ET)
 * 日期和时间 [https://github.com/nodatime/nodatime](https://github.com/nodatime/nodatime)
 * 代理 [https://github.com/ekonbenefits/impromptu-interface](https://github.com/ekonbenefits/impromptu-interface)
-* [https://github.com/DapperLib/Dapper](https://github.com/DapperLib/Dapper)
 * [https://github.com/postsharp](https://github.com/postsharp)
 * [https://github.com/castleproject](https://github.com/castleproject)
 * 压缩 [https://github.com/adamhathcock/sharpcompress](https://github.com/adamhathcock/sharpcompress)
@@ -332,7 +331,6 @@
 
 
 - [https://github.com/yswenli](https://github.com/yswenli)
-- [https://github.com/WilliamXu96/ABP-MicroService](https://github.com/WilliamXu96/ABP-MicroService)
 - 任意窗口放大 [https://github.com/Blinue/Magpie](https://github.com/Blinue/Magpie)
 - 中文姓名 [https://github.com/wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus)
 - 任务栏奔跑的猫 [https://github.com/Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)
@@ -346,7 +344,6 @@
 - 虚拟桌面 [https://github.com/newlooper/VirtualSpace](https://github.com/newlooper/VirtualSpace)
 - 远程桌面会话 [https://github.com/geissbuehler/TermsrvPatcher](https://github.com/geissbuehler/TermsrvPatcher)
 - 权限检查 [https://github.com/falahati/UACHelper](https://github.com/falahati/UACHelper)
-- 整洁架构开发模板 [https://github.com/ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
 - 数据图表 [https://github.com/xcharts-team/xcharts](https://github.com/xcharts-team/xcharts)
 - 数据库访问 [https://github.com/ericsink/sqlitepcl.raw](https://github.com/ericsink/sqlitepcl.raw)
 - IoC容器 [https://github.com/autofac/autofac](https://github.com/autofac/autofac)

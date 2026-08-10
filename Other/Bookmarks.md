@@ -13,7 +13,6 @@
 + [https://github.com/dosyago/DownloadNet](https://github.com/dosyago/DownloadNet)
 + URL分类 [https://github.com/CH563/gtps-url](https://github.com/CH563/gtps-url)
 + 隐私 [https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
-+ [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 
 - [130 余个相见恨晚的超实用网站](https://blog.csdn.net/qq_43901693/article/details/100606828)
@@ -409,7 +408,6 @@
 * [https://www.ssyer.com](https://www.ssyer.com)
 * 彼岸图网 [http://pic.netbian.com](http://pic.netbian.com)
 * 极像素（超高清大图） [https://www.sigoo.com](https://www.sigoo.com)
-* 免费版权图片搜索 [https://www.logosc.cn/so](https://www.logosc.cn/so)
 * [http://www.gooico.com](http://www.gooico.com)
 * [https://cleanup.pictures](https://cleanup.pictures)
 * [https://www.gaituya.com/ps](https://www.gaituya.com/ps)

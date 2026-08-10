@@ -9,8 +9,6 @@
 + [https://github.com/topics/webscraper](https://github.com/topics/webscraper)
 + [https://github.com/topics/web-scraper](https://github.com/topics/web-scraper)
 + [https://github.com/topics/spider](https://github.com/topics/spider)
-+ [https://github.com/topics/webscraper](https://github.com/topics/webscraper)
-+ [https://github.com/topics/web-scraper](https://github.com/topics/web-scraper)
 + [https://github.com/topics/crawler](https://github.com/topics/crawler)
 + [https://github.com/topics/webcrawler](https://github.com/topics/webcrawler)
 + [https://github.com/topics/web-crawler](https://github.com/topics/web-crawler)
@@ -187,7 +185,6 @@
 ## selenium
 
 + [https://github.com/topics/selenium](https://github.com/topics/selenium)
-+ [https://github.com/topics/testing](https://github.com/topics/testing)
 
 
 

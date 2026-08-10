@@ -10,7 +10,6 @@
 * [https://gitlab.com/gitlab-com/content-sites/handbook](https://gitlab.com/gitlab-com/content-sites/handbook)
 * [https://github.com/formbricks/formbricks](https://github.com/formbricks/formbricks)
 * 日程安排 [https://github.com/calcom/cal.com](https://github.com/calcom/cal.com)
-* 人体系统调优 [https://github.com/zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 * 相机数据库 [https://github.com/leavestylecode/CameraDatabase](https://github.com/leavestylecode/CameraDatabase)
 * 信号干扰器 [https://github.com/EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
 * 追踪位置 [https://github.com/HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
@@ -230,7 +229,6 @@
 * [https://github.com/deepin-community/fonts-wqy-zenhei](https://github.com/deepin-community/fonts-wqy-zenhei)
     * [https://sourceforge.net/projects/wqy](https://sourceforge.net/projects/wqy)
 * [https://github.com/subframe7536/maple-font](https://github.com/subframe7536/maple-font)
-* [https://github.com/dejavu-fonts/dejavu-fonts](https://github.com/dejavu-fonts/dejavu-fonts)
 * [https://github.com/fontello](https://github.com/fontello)
 * [https://github.com/TrionesType/zhuque](https://github.com/TrionesType/zhuque)
 * [https://github.com/Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin)
@@ -820,7 +818,6 @@
 * [https://github.com/hexingbo/treader](https://github.com/hexingbo/treader)
 * [https://github.com/bifan-wei/HwTxtReader](https://github.com/bifan-wei/HwTxtReader)
 * [https://github.com/smuyyh/BookReader](https://github.com/smuyyh/BookReader)
-* [https://github.com/newbiechen1024/NovelReader](https://github.com/newbiechen1024/NovelReader)
 * [https://github.com/gmathi/NovelLibrary](https://github.com/gmathi/NovelLibrary)
 * [https://github.com/autobcb/qysg](https://github.com/autobcb/qysg)
 

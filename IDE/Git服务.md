@@ -413,7 +413,6 @@ WantedBy=multi-user.target
 * [https://www.gitlink.org.cn](https://www.gitlink.org.cn)
 * [https://sourceforge.net](https://sourceforge.net)
 * [https://bitbucket.org](https://bitbucket.org)
-* [https://www.gitkraken.com](https://www.gitkraken.com)
 * [https://launchpad.net](https://launchpad.net)
 * [https://kolaente.dev](https://kolaente.dev)
 * [https://git.resf.org](https://git.resf.org)

@@ -304,8 +304,6 @@ firewall-cmd --query-panic
 * [https://github.com/vi/websocat](https://github.com/vi/websocat)
 * [https://github.com/pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping)
 * [https://github.com/hanshuaikang/Nping](https://github.com/hanshuaikang/Nping)
-* [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
-* [https://github.com/SkyLined/LocalNetworkScanner](https://github.com/SkyLined/LocalNetworkScanner)
 * [https://github.com/aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 
 

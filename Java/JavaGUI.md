@@ -176,7 +176,6 @@
 * [https://github.com/lxwise/jfx-maven-plugin](https://github.com/lxwise/jfx-maven-plugin)
 * 非模块打包 [https://gitee.com/podigua/jfx-maven-plugin](https://gitee.com/podigua/jfx-maven-plugin)
 * 编译原生程序 [https://github.com/gluonhq/substrate](https://github.com/gluonhq/substrate)
-* [https://github.com/gluonhq/gluonfx-maven-plugin](https://github.com/gluonhq/gluonfx-maven-plugin)
 * 安装部署工具 [https://github.com/shannah/jdeploy](https://github.com/shannah/jdeploy)
     * [https://github.com/shannah/jdeploy-desktop-gui](https://github.com/shannah/jdeploy-desktop-gui)
     * 单进程 [https://github.com/shannah/jdeploy-desktop-lib](https://github.com/shannah/jdeploy-desktop-lib)

@@ -181,7 +181,6 @@ java -Djavax.net.debug=all -Xdebug -Xnoagent -Djava.compiler=NONE \
 * Procyon [https://github.com/mstrobel/procyon](https://github.com/mstrobel/procyon)
    * [https://github.com/nbauma109/procyon](https://github.com/nbauma109/procyon)
    * Gui [https://github.com/deathmarine/Luyten](https://github.com/deathmarine/Luyten)
-* Fernflower [https://github.com/JetBrains/fernflower](https://github.com/JetBrains/fernflower)
    * [https://github.com/MinecraftForge/ForgeFlower](https://github.com/MinecraftForge/ForgeFlower)
    * [https://github.com/sunwu51/fernflower](https://github.com/sunwu51/fernflower)
    * [https://github.com/ilylty/fernflower](https://github.com/ilylty/fernflower)

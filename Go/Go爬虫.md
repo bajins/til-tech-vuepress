@@ -45,7 +45,6 @@
 
 - `https://github.com/chromedp/cdproto`
 
-> 包含针对[Chrome DevTools](https://chromedevtools.github.io/devtools-protocol)协议域生成的命令，类型和事件 
 
 > [https://godoc.org/github.com/chromedp/cdproto](https://godoc.org/github.com/chromedp/cdproto)
 

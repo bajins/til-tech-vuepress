@@ -176,7 +176,6 @@
 - [https://github.com/kurtbuilds/sql](https://github.com/kurtbuilds/sql)
 - [https://sqlbackupandftp.com/download](https://sqlbackupandftp.com/download)
 - [https://dbconvert.com/download](https://dbconvert.com/download)
-- 日志解析订阅和消费 [https://github.com/alibaba/canal](https://github.com/alibaba/canal)
 - [https://github.com/ucarGroup/DataLink](https://github.com/ucarGroup/DataLink)
 - 数据库监控 [https://github.com/debezium/debezium](https://github.com/debezium/debezium)
 - [https://github.com/percona/pmm](https://github.com/percona/pmm)
@@ -345,7 +344,6 @@
 * [https://github.com/vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)
 * [https://github.com/orientechnologies/orientdb](https://github.com/orientechnologies/orientdb)
   * [https://github.com/ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb)
-* [https://github.com/arangodb/arangodb](https://github.com/arangodb/arangodb)
 * [https://github.com/cayleygraph/cayley](https://github.com/cayleygraph/cayley)
 * [https://github.com/CodyKochmann/graphdb](https://github.com/CodyKochmann/graphdb)
 * [https://objectivity.com/infinitegraph](https://objectivity.com/infinitegraph)
@@ -392,41 +390,12 @@
 
 ### 内存数据库(In-Memory Database)
 
-* [https://github.com/valkey-io/valkey](https://github.com/valkey-io/valkey)
-* [https://github.com/memcached/memcached](https://github.com/memcached/memcached)
-* [https://github.com/EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB)
-* [https://github.com/Snapchat/KeyDB](https://github.com/Snapchat/KeyDB)
-* [https://github.com/dragonflydb](https://github.com/dragonflydb)
-* [https://github.com/microsoft/garnet](https://github.com/microsoft/garnet)
-* [https://github.com/VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) (可混合持久化)
-* [https://github.com/influxdata/influxdb](https://github.com/influxdata/influxdb) (可混合持久化)
 * [https://www.sqlite.org/index.html](https://www.sqlite.org/index.html) (可内存模式 )
 
 
 
 ### 嵌入式数据库(Embedded Database)
 
-* [https://github.com/realm/realm-core](https://github.com/realm/realm-core) (Java/GO/Python/Rust)
-* [https://github.com/facebook/rocksdb](https://github.com/facebook/rocksdb) (C++) 
-  * [https://github.com/xiaomi/pegasus-rocksdb](https://github.com/xiaomi/pegasus-rocksdb) (C++)
-* [https://github.com/google/leveldb](https://github.com/google/leveldb) (C++) 
-* [https://github.com/erthink/libmdbx](https://github.com/erthink/libmdbx) (C) 
-* [https://github.com/cberner/redb](https://github.com/cberner/redb) (Rust)
-* [https://github.com/flower-corp/rosedb](https://github.com/flower-corp/rosedb) (Go)
-* [https://github.com/roseduan/rosedb](https://github.com/roseduan/rosedb) (Go)
-* [https://github.com/couchbase/moss](https://github.com/couchbase/moss) (Go)
-* [https://github.com/nalgeon/redka](https://github.com/nalgeon/redka) (兼容Redis API)
-* [https://codeberg.org/redict/redict](https://codeberg.org/redict/redict) (Rust)
-* [https://github.com/photondb/photondb](https://github.com/photondb/photondb) (Rust)
-* [https://github.com/tikv/agatedb](https://github.com/tikv/agatedb) (Rust)
-* [https://github.com/komora-io/marble](https://github.com/komora-io/marble) (Rust)
-* [https://gitlab.com/tglman/persy](https://gitlab.com/tglman/persy) (Rust)
-* [https://nest.pijul.com/pijul/sanakirja](https://nest.pijul.com/pijul/sanakirja) (Rust)
-* [https://github.com/rustbase/dustdata](https://github.com/rustbase/dustdata) (Rust)
-* [https://github.com/seladb/pickledb-rs](https://github.com/seladb/pickledb-rs) (Rust)
-* [https://github.com/bradfitz/gomemcache](https://github.com/bradfitz/gomemcache) (客户端库 - GO)
-* [https://github.com/facebookresearch/faiss](https://github.com/facebookresearch/faiss) (库 - C++/Python)
-* [https://www.sqlite.org/index.html](https://www.sqlite.org/index.html) 
 
 
 

@@ -343,7 +343,6 @@ ___
 > 在三个反引号后面加上编程语言的名字(如果是配置则为`ini`、`conf`、`properties`)，另起一行开始写代码，最后一行再加上三个反引号。
 
 * [https://en.wikipedia.org/wiki/Configuration_file](https://en.wikipedia.org/wiki/Configuration_file)
-* [https://prismjs.com/#supported-languages](https://prismjs.com/#supported-languages)
 
 
 ```Java
@@ -491,7 +490,6 @@ string &operator+(const string& A,const string& B) //cpp
 * [https://github.com/barretlee/online-markdown](https://github.com/barretlee/online-markdown)
 * [https://github.com/wangduanduan/m2w-transform](https://github.com/wangduanduan/m2w-transform)
     * [https://wdd.js.org/m2w-transform](https://wdd.js.org/m2w-transform)
-* [https://github.com/lyricat/wechat-format](https://github.com/lyricat/wechat-format)
     * [https://lab.lyric.im/wxformat](https://lab.lyric.im/wxformat)
 * [https://github.com/xiaobox/mdeditor](https://github.com/xiaobox/mdeditor)
 * [https://github.com/geekjourneyx/md2wechat-mcp-server](https://github.com/geekjourneyx/md2wechat-mcp-server)
@@ -501,7 +499,6 @@ string &operator+(const string& A,const string& B) //cpp
 
 
 - [https://github.com/ZhuPeng/mp-transform-public](https://github.com/ZhuPeng/mp-transform-public)
-- 封面生成 [https://github.com/eternityspring/article-tools](https://github.com/eternityspring/article-tools)
 
 
 
@@ -595,7 +592,6 @@ string &operator+(const string& A,const string& B) //cpp
     * [https://markitdown.netlify.app](https://markitdown.netlify.app)
 * [https://github.com/davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
 * [https://github.com/iamgio/quarkdown](https://github.com/iamgio/quarkdown)
-* [https://github.com/showdownjs/showdown](https://github.com/showdownjs/showdown)
     * [http://demo.showdownjs.com](http://demo.showdownjs.com)
     ```js
     document.querySelector("body > div.lateral-menu.ng-isolate-scope.ng-pageslide").remove();
@@ -638,7 +634,6 @@ string &operator+(const string& A,const string& B) //cpp
 * [https://github.com/rickstrahl/MarkdownMonster](https://github.com/rickstrahl/MarkdownMonster)
 * [https://github.com/marktext/marktext](https://github.com/marktext/marktext)
     * [https://marktext.app](https://marktext.app)
-* [https://github.com/Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
 * ~~[https://github.com/brrd/abricotine](https://github.com/brrd/abricotine)~~
 * [https://github.com/notable/notable](https://github.com/notable/notable)
 * [https://github.com/nhn/tui.editor](https://github.com/nhn/tui.editor)
@@ -685,7 +680,6 @@ string &operator+(const string& A,const string& B) //cpp
 * [https://github.com/johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
 * 草图 [https://frame0.app](https://frame0.app)
 * [https://github.com/LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly)
-* [https://github.com/flxzt/rnote](https://github.com/flxzt/rnote)
 * [https://github.com/saber-notes/saber](https://github.com/saber-notes/saber)
 * Android [https://github.com/gsantner/markor](https://github.com/gsantner/markor)
 

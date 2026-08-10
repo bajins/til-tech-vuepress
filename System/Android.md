@@ -373,7 +373,6 @@
 * [https://github.com/T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 * 图表库 [https://github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 * 缩放图片 [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
-* 图像加载 [https://github.com/coil-kt/coil](https://github.com/coil-kt/coil)
 * Lottie动画 [https://github.com/orispok/OpenAnimationApp](https://github.com/orispok/OpenAnimationApp)
 * 翻页动效 [https://github.com/PureWriter/FullDraggableDrawer](https://github.com/PureWriter/FullDraggableDrawer)
 * 进度 [https://github.com/lzyzsd/CircleProgress](https://github.com/lzyzsd/CircleProgress)
@@ -429,7 +428,6 @@
 * [https://github.com/meituan/WMRouter](https://github.com/meituan/WMRouter)
 * [https://github.com/fly803/BaseProject](https://github.com/fly803/BaseProject)
 * [https://github.com/wendux/DSBridge-Android](https://github.com/wendux/DSBridge-Android)
-* [专出网络框架的square](https://github.com/square)
 
 - 测试 [https://github.com/robolectric](https://github.com/robolectric)
 - 移动UI框架 [https://segmentfault.com/a/1190000044033175](https://segmentfault.com/a/1190000044033175)
@@ -586,7 +584,6 @@
 + [https://github.com/topics/multiplatform](https://github.com/topics/multiplatform)
 + [https://github.com/albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps)
 + [https://github.com/FossifyOrg](https://github.com/FossifyOrg)
-    + ~~[https://github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)~~
     + 相册/文件/日历/联系人/短信/音乐/笔记/时钟/录音/计算器/启动器/电话/相机/手电筒/画布/输入法
 + 杀后台 [https://github.com/urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app)
 
@@ -637,7 +634,6 @@
 * [https://www.quetta.net](https://www.quetta.net)
 * [https://github.com/interfect/fenix](https://github.com/interfect/fenix)
 * [https://github.com/anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
-* 阅读器 [https://github.com/koreader/koreader](https://github.com/koreader/koreader)
 * 启动器 [https://github.com/NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher)
 * [https://github.com/CodeWorksCreativeHub/EasyLauncher](https://github.com/CodeWorksCreativeHub/EasyLauncher)
 * 无限词典 [https://github.com/KnIfER/PlainDictionaryAPP](https://github.com/KnIfER/PlainDictionaryAPP)
@@ -689,7 +685,6 @@
 * 手机变成计算机的麦克风 [https://wolicheng.com/womic](https://wolicheng.com/womic)
 * 备份数据 [https://github.com/XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)
 * [https://github.com/NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup)
-* 投屏 [https://github.com/barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 * [https://github.com/modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid)
 * 保活 [https://github.com/fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive)
 * 翻译 [https://github.com/FunnySaltyFish/FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation)
@@ -716,13 +711,10 @@
 * [https://hermit.chimbori.com/features/premium](https://hermit.chimbori.com/features/premium)
 * [https://www.apicloud.com/autogeneration](https://www.apicloud.com/autogeneration)
 * [https://websitetoapk.com](https://websitetoapk.com)
-* 网页转exe [https://github.com/nativefier/nativefier](https://github.com/nativefier/nativefier)
 * see [https://caij.coding.net/public](https://caij.coding.net/public)
-* 文本编辑器 [https://github.com/gsantner/markor](https://github.com/gsantner/markor)
 * YouTube [https://github.com/YTVanced/VancedManager](https://github.com/YTVanced/VancedManager)
 * [https://github.com/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 * 谷歌框架 [https://opengapps.org](https://opengapps.org)
-* [https://github.com/Aefyr/SAI](https://github.com/Aefyr/SAI)
 * [https://github.com/machiav3lli/oandbackupx](https://github.com/machiav3lli/oandbackupx)
 * 幸运补丁 [https://www.luckypatchers.com](https://www.luckypatchers.com)
 * 图片处理 [https://website.facetuneapp.com](https://website.facetuneapp.com)

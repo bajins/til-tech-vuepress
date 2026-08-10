@@ -20,7 +20,6 @@
 * [https://github.com/riot](https://github.com/riot)
 * [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 * [https://github.com/zdhxiong/mdui](https://github.com/zdhxiong/mdui)
-* [https://github.com/baidu/amis](https://github.com/baidu/amis)
 * [https://github.com/alienzhou/web-highlighter](https://github.com/alienzhou/web-highlighter)
 * [https://github.com/jashkenas/backbone](https://github.com/jashkenas/backbone)
 * [https://github.com/horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra)
@@ -138,7 +137,6 @@
 * [https://github.com/emotion-js/emotion](https://github.com/emotion-js/emotion)
 * [https://github.com/gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 	* [https://www.gatsbyjs.cn](https://www.gatsbyjs.cn)
-* [https://github.com/streamich/react-use](https://github.com/streamich/react-use)
 * [https://github.com/reacttips-dev/codebases](https://github.com/reacttips-dev/codebases)
 * [https://github.com/refinedev](https://github.com/refinedev)
 * [https://github.com/mui-org/material-ui](https://github.com/mui-org/material-ui)
@@ -499,8 +497,6 @@ $('div:contains("test"):not(:has(*)):last').css('background-color', 'red');
 
 ### jQuery插件/组件
 
-+ [https://github.com/topics/validation](https://github.com/topics/validation)
-+ [https://github.com/topics/validator](https://github.com/topics/validator)
 + [https://plugins.jquery.com](https://plugins.jquery.com)
 
 
@@ -544,7 +540,6 @@ $('div:contains("test"):not(:has(*)):last').css('background-color', 'red');
 * [https://github.com/Robdel12/DropKick](https://github.com/Robdel12/DropKick)
 * [https://github.com/lou/multi-select](https://github.com/lou/multi-select)
 * [https://github.com/gfranko/jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)
-* [https://github.com/harvesthq/chosen](https://github.com/harvesthq/chosen)
 * 模态框 [https://github.com/kylefox/jquery-modal](https://github.com/kylefox/jquery-modal)
 * [https://github.com/layui/layui](https://github.com/layui/layui)
 	* [https://gitee.com/layui/layui](https://gitee.com/layui/layui)
@@ -558,7 +553,6 @@ $('div:contains("test"):not(:has(*)):last').css('background-color', 'red');
 * 模拟数据 [https://github.com/jakerella/jquery-mockjax](https://github.com/jakerella/jquery-mockjax)
 
 
-- [https://github.com/jakerella/jquery-mockjax](https://github.com/jakerella/jquery-mockjax)
 
 
 

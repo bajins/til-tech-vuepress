@@ -75,7 +75,6 @@
 * [https://github.com/LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
 
 
-- [https://docs.microsoft.com/zh-cn/virtualization](https://docs.microsoft.com/zh-cn/virtualization)
 - [https://docs.microsoft.com/zh-cn/windows-server/virtualization](https://docs.microsoft.com/zh-cn/windows-server/virtualization)
 - [https://github.com/nullpo-head/WSL-Hello-sudo](https://github.com/nullpo-head/WSL-Hello-sudo)
 

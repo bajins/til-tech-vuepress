@@ -101,7 +101,6 @@
 
 **插件化**
 
-* [插件化开发探索与实践](https://blog.csdn.net/weixin_47560078/article/details/129347372)
 * [Rust 实现动态库加载和基于此功能实现的插件管理](https://www.insp.top/content/how-to-implement-dynamical-loading-and-plugin-manager-for-rust)
 * [掌握Rust中间件开发：提升性能与安全性](https://blog.csdn.net/silenceallat/article/details/137965315)
 * [【Rust】插件机制实现](https://zhuanlan.zhihu.com/p/52324874)
@@ -115,7 +114,6 @@
 
 * 免费学习编码 [https://github.com/freeCodeCamp](https://github.com/freeCodeCamp)
 * [https://github.com/apache](https://github.com/apache)
-    * [http://www.apache.org/index.html#projects-list](http://www.apache.org/index.html#projects-list)
 * [https://github.com/google](https://github.com/google)
     * [https://github.com/googleapis](https://github.com/googleapis)
     * [https://github.com/GoogleChromeLabs](https://github.com/GoogleChromeLabs)
@@ -143,7 +141,6 @@
 * [https://github.com/square](https://github.com/square)
 * [https://github.com/aws-samples](https://github.com/aws-samples)
     * [https://github.com/awsdocs](https://github.com/awsdocs)
-* [https://github.com/hashicorp](https://github.com/hashicorp)
 * [https://tanzu.vmware.com/cn/open-source](https://tanzu.vmware.com/cn/open-source)
 * [https://opensource.samsung.com](https://opensource.samsung.com)
 * [https://github.com/amzn](https://github.com/amzn)
@@ -162,7 +159,6 @@
 - [https://github.com/TogetherOS](https://github.com/TogetherOS)
 - [https://github.com/lets-blade](https://github.com/lets-blade)
 - 各种非常棒的学习项目 [https://github.com/jobbole](https://github.com/jobbole)
-- [https://github.com/doocs](https://github.com/doocs)
 - [https://github.com/apachecn](https://github.com/apachecn)
 - [https://github.com/need-to-know](https://github.com/need-to-know)
 - [https://github.com/DevotionZhu](https://github.com/DevotionZhu)
@@ -216,9 +212,7 @@
 * [https://www.openstack.org/software](https://www.openstack.org/software)
 * OpenInfra Foundation [https://openinfra.dev/projects](https://openinfra.dev/projects)
 * [https://github.com/yahoo](https://github.com/yahoo)
-* [https://github.com/adobe](https://github.com/adobe)
 * [https://github.com/eclipse](https://github.com/eclipse)
-    * [https://projects.eclipse.org](https://projects.eclipse.org)
 * OpenJS基金会 [https://github.com/openjs-foundation](https://github.com/openjs-foundation)
     * [https://openjsf.org/projects](https://openjsf.org/projects)
 * [https://sfconservancy.org/projects/current](https://sfconservancy.org/projects/current)
@@ -260,11 +254,9 @@
     * [Books | waylau.com](https://waylau.com/books)
     * [https://legacy.gitbook.com/@waylau](https://legacy.gitbook.com/@waylau)
 * [https://github.com/lionsoul2014](https://github.com/lionsoul2014)
-* [https://github.com/mitsuhiko](https://github.com/mitsuhiko)
     * [https://lucumr.pocoo.org/projects](https://lucumr.pocoo.org/projects)
 
 
-- [https://github.com/hoochanlon](https://github.com/hoochanlon)
 - [https://github.com/ttys3](https://github.com/ttys3)
 
 
@@ -490,7 +482,6 @@
     - [https://github.com/philss/floki](https://github.com/philss/floki)
 - [https://github.com/gleam-lang](https://github.com/gleam-lang)
 - [https://www.angelcode.com](https://www.angelcode.com)
-- [https://github.com/jart/cosmopolitan](https://github.com/jart/cosmopolitan)
 
 
 > DSL(Domain Specification Language)领域语言，使用EBNF(Extended Backus–Naur Form)扩展巴斯科范式来描述语法
@@ -601,7 +592,6 @@
     * [https://github.com/liaozb/APIJSON.NET](https://github.com/liaozb/APIJSON.NET)
 * [https://github.com/ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 * [https://github.com/appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-* [https://github.com/eclipse/dirigible](https://github.com/eclipse/dirigible)
 * [https://github.com/1024-lab/smart-admin](https://github.com/1024-lab/smart-admin)
 * [https://sourceforge.net/projects/openxava](https://sourceforge.net/projects/openxava)
 * [https://github.com/skyvers/skyve](https://github.com/skyvers/skyve)

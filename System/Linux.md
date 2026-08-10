@@ -237,7 +237,6 @@ sudo apt clean
 
 
 * [阿里云CentOS 7系统一键净化脚本](https://www.moerats.com/archives/625)
-* [https://github.com/snapcore/snapd](https://github.com/snapcore/snapd)
 * 提供状态线和提示 [https://github.com/powerline/powerline](https://github.com/powerline/powerline)
 * 替换服务器的固件 [https://github.com/linuxboot/linuxboot](https://github.com/linuxboot/linuxboot)
 
@@ -469,7 +468,6 @@ autorestart=true
     * [https://github.com/catppuccin/tmux](https://github.com/catppuccin/tmux)
     * [https://galaxy4.net/repo](https://galaxy4.net/repo)
     * [https://rpmfind.net/linux/rpm2html](https://rpmfind.net/linux/rpm2html)
-    * [https://pkgs.org](https://pkgs.org)
     * [https://dl.fedoraproject.org](https://dl.fedoraproject.org)
     * [https://src.fedoraproject.org/rpms/tmux](https://src.fedoraproject.org/rpms/tmux)
     * [https://vault.centos.org](https://vault.centos.org)
