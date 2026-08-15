@@ -34,38 +34,38 @@ actionLink: /#命令
 │  yarn.lock            yarn依赖配置文件
 │  package.json         项目配置文件
 │  README.md            首页md文件
-│  
+│
 ├─.github               GitHub配置目录
 │  └─workflows          Actions工作流目录
 │          deloy.yml    项目的Actions部署配置
-│          
+│
 ├─.vuepress             用于存放VuePress的配置、组件、静态资源等。
 │  │  config.js         VuePress配置
 │  │  nav.js            除创建的目录之外，自定义添加的导航栏
 │  │  push.js           自定义推送脚本
 │  │  utils.js          侧边栏和菜单栏自动配置工具
-│  │  
+│  │
 │  ├─styles             用于存放样式相关的文件
-│  │  │  
+│  │  │
 │  │  └─index.styl      自定义全局样式文件
-│  │  
+│  │
 │  ├─public             静态资源目录
 │  │  │  CNAME          CNAME文件指定域名，防止发布时被清空
 │  │  │  manifest.json  5+App（HTML5 Plus移动App）的配置文件
 │  │  │  static.json    heroku使用buildpack静态部署配置文件
-│  │  │  
+│  │  │
 │  │  ├─assets          css/img/js等默认的存放路径
-│  │  │   │  
+│  │  │   │
 │  │  │   └─js          自定义js文件存放目录
-│  │  │  
+│  │  │
 │  │  ├─files           可直接访问并下载的文件存放目录
-│  │  │      
+│  │  │
 │  │  └─images          存放所有文档的图片目录
-│  │      │  
+│  │      │
 │  │      └─icons       存放图标目录
-│  │              
+│  │
 │  └─theme              主题存放目录
-│              
+│
 ├─docs                  编译后的静态资源文件输出目录
 │
 │

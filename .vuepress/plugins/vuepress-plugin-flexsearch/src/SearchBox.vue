@@ -45,7 +45,7 @@
 import FlexSearch from "flexsearch";
 // import Document from "flexsearch/dist/module/document";
 import { highlightText } from "./utils";
-/* global 
+/* global
 SEARCH_MAX_SUGGESTIONS
 SEARCH_PATHS
 SEARCH_HOTKEYS

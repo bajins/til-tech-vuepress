@@ -10,7 +10,7 @@
 
 ```bash
 yarn add vuepress-plugin-toolbar
-# OR 
+# OR
 npm install vuepress-plugin-toolbar
 ```
 
