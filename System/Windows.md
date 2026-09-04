@@ -26,6 +26,7 @@
 * 联想硬件管理Vantage [https://apps.microsoft.com/detail/9wzdncrfj4mv](https://apps.microsoft.com/detail/9wzdncrfj4mv)
 * Lenovo Hotkeys [https://apps.microsoft.com/detail/9pcmmnb260tx](https://apps.microsoft.com/detail/9pcmmnb260tx)
 * 证书检测 [https://github.com/claude-boucher/CheckCA2023](https://github.com/claude-boucher/CheckCA2023)
+* Windows系统退款 [https://en.refund4freedom.org](https://en.refund4freedom.org)
 
 
 
@@ -215,6 +216,18 @@ $patterns=@("*WindowsWorkload*","*Microsoft.Windows.Ai.Copilot.Provider*");forea
 * Windows优化 [https://github.com/christitustech/winutil](https://github.com/christitustech/winutil)
 * 显卡驱动卸载 [https://github.com/Wagnard/display-drivers-uninstaller](https://github.com/Wagnard/display-drivers-uninstaller)
     * [显示驱动卸载器（DDU）下载与支持](https://www.wagnardsoft.com/forums/viewforum.php?f=5)
+
+
+
+
+**禁用AI相关**
+
+- 启用或关闭 Windows 功能 中取消勾选Recall
+- Win+R -> services.msc -> WSAIFabricSvc（Windows AI 组件主机）、MapsBroker（Downloaded Maps Manager） -> 禁用
+- Win+R -> taskschd.msc -> Microsoft -> Windows -> WindowsAI、Maps -> 禁用
+
+
+* [https://github.com/Dszsu/WorkloadManager](https://github.com/Dszsu/WorkloadManager)
 
 
 
