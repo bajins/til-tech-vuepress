@@ -222,7 +222,7 @@ $patterns=@("*WindowsWorkload*","*Microsoft.Windows.Ai.Copilot.Provider*");forea
 * Windows优化 [https://github.com/christitustech/winutil](https://github.com/christitustech/winutil)
 * 显卡驱动卸载 [https://github.com/Wagnard/display-drivers-uninstaller](https://github.com/Wagnard/display-drivers-uninstaller)
     * [显示驱动卸载器（DDU）下载与支持](https://www.wagnardsoft.com/forums/viewforum.php?f=5)
-
+* [微工具箱 - Windows 运维 / 办公 / 局域网维护工具箱](https://www.52pojie.cn/thread-2106514-1-1.html)
 
 
 
