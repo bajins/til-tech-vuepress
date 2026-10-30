@@ -1100,6 +1100,7 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * [https://www.raylink.live](https://www.raylink.live)
 * [https://parsec.app](https://parsec.app)
 * [https://uuyc.163.com/download](https://uuyc.163.com/download)
+* [https://github.com/99percentpeople/weblink](https://github.com/99percentpeople/weblink)
 * 向日葵 [https://sunlogin.oray.com/download](https://sunlogin.oray.com/download)
 * 投屏 [https://github.com/pavlobu/deskreen](https://github.com/pavlobu/deskreen)
 * [https://github.com/topics/second-screen](https://github.com/topics/second-screen)
@@ -1594,6 +1595,7 @@ GL9QG-DNC62-6LCMG-DRQTL-QR9HD
 * 时钟 [https://github.com/vladelaina/Catime](https://github.com/vladelaina/Catime)
 * 课表信息 [https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland)
 * 防偷操作 [https://github.com/OldSuns/SnapLock](https://github.com/OldSuns/SnapLock)
+* 控制米家 [https://github.com/jryang1997/MenuBarMijia](https://github.com/jryang1997/MenuBarMijia)
 
 
 + [http://www.downloadsoftware.ir](http://www.downloadsoftware.ir)
