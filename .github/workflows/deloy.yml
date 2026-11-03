@@ -48,7 +48,8 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v7
         with:
-          node-version: 'latest'
+          # 固定稳定版：'latest' 可能解析到 alpha/nightly，而 VuePress 1.x 的 semver 检查会拒绝预发布版本
+          node-version: '26'
 
       # - run: npm ci
       - run: npm install

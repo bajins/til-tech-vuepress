@@ -1,3 +1,5 @@
+const path = require('path');
+
 module.exports = (options = {}, ctx) => ({ // https://vuepress.vuejs.org/zh/plugin/life-cycle.html
     async ready() { // 钩子在应用初始化之后，并在某些特定的函数式 API 执行之前执行
         console.log("ready");
